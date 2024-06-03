@@ -81,6 +81,27 @@ function addSkill(skillName: string) {
 	const radioBtnGroup = document.createElement("div")
 	radioBtnGroup.className = "btn-group ms-auto" // Align to the right
 
+	// Add a default level 0 radio button
+	const defaultRadioBtn = document.createElement("input")
+	defaultRadioBtn.type = "radio"
+	defaultRadioBtn.className = "btn-check"
+	defaultRadioBtn.name = skillName // Use skill name as radio button group name
+	defaultRadioBtn.value = "0"
+	defaultRadioBtn.id = `btnradio-${skillName}-0` // Unique ID for the default radio button
+
+	const defaultLabel = document.createElement("label")
+	defaultLabel.className = "btn btn-primary"
+	defaultLabel.textContent = "0"
+	defaultLabel.htmlFor = defaultRadioBtn.id // Link label to corresponding radio button
+
+	// Event listener to select radio button when label is clicked
+	defaultLabel.addEventListener("click", () => {
+		defaultRadioBtn.checked = true
+	})
+
+	radioBtnGroup.appendChild(defaultRadioBtn)
+	radioBtnGroup.appendChild(defaultLabel)
+
 	// Filter skill data for selected skill name
 	const levels = skillData.filter((skill) => skill.id.split(": ")[1] === skillName)
 	// Create radio buttons for each level
