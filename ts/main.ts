@@ -1,126 +1,119 @@
-// Define the structure of the armor data
-interface Armor {
-  name: string;
-  variant: string;
-  equid_slot: string;
-  defense: number;
-  fire_res: number;
-  water_res: number;
-  ice_res: number;
-  thunder_res: number;
-  dragon_res: number;
-  slot_count: number;
-  slot_1_size: number;
-  slot_2_size: number;
-  slot_3_size: number;
-  set_skill_1: string;
-  skill_1: string;
-  skill_1_level: number;
-  skill_2: string;
-  skill_2_level: number;
-  skill_3: string;
-  skill_3_level: number;
+interface Skill {
+	id: string
+	level: number
+	unlock_skill_1: string
+	unlock_skill_2: string
+	unlock_skill_3: string
+	unlock_skill_4: string
+	unlock_skill_5: string
+	unlock_skill_6: string
 }
 
-// Global variables
-let armorData: Armor[] = [];
-let selectedSkills: { skill: string; level: number }[] = [];
+const skillSearchInput = document.getElementById("skillSearch") as HTMLInputElement
+const searchResults = document.getElementById("searchResults") as HTMLUListElement
+const selectedSkills = document.getElementById("selectedSkills") as HTMLUListElement
 
-// Load armor data from JSON file
-fetch('MHW/armor.am_dat_full.csv.tsv.json')
-  .then(response => response.json())
-  .then(data => {
-    armorData = data;
-    console.log('Armor data loaded:', armorData);
-  })
-  .catch(error => console.error('Error loading armor data:', error));
+let skillData: Skill[] = []
+let selectedSkillIds: Set<string> = new Set()
 
-// Handle search input
-const searchInput = document.getElementById('skill-search') as HTMLInputElement;
-const searchResults = document.getElementById('search-results') as HTMLUListElement;
-const selectedSkillsList = document.getElementById('selected-skills') as HTMLUListElement;
-
-searchInput.addEventListener('input', () => {
-  const query = searchInput.value.toLowerCase();
-  searchResults.innerHTML = '';
-  if (query) {
-    const matchingSkills = armorData.flatMap(item => [
-      item.set_skill_1,
-      item.skill_1,
-      item.skill_2,
-      item.skill_3
-    ]).filter(skill => skill.toLowerCase().includes(query) && skill !== '0: --------');
-    
-    const uniqueSkills = Array.from(new Set(matchingSkills));
-    uniqueSkills.forEach(skill => {
-      const listItem = document.createElement('li');
-      listItem.className = 'list-group-item d-flex justify-content-between align-items-center';
-      listItem.textContent = skill;
-      const addBtn = document.createElement('button');
-      addBtn.className = 'btn btn-primary btn-sm';
-      addBtn.textContent = 'Add';
-      addBtn.addEventListener('click', () => {
-        addSelectedSkill(skill, 0);
-      });
-      listItem.appendChild(addBtn);
-      searchResults.appendChild(listItem);
-    });
-  }
-});
-
-// Add selected skill to the list
-function addSelectedSkill(skill: string, level: number) {
-  selectedSkills.push({ skill, level });
-  updateSelectedSkills();
+// Function to fetch skill data from the server
+async function fetchSkillData() {
+	try {
+		const response = await fetch("mhw/skill_data.skl_dat.csv.tsv.json")
+		skillData = await response.json()
+	} catch (error) {
+		console.error("Error fetching skill data:", error)
+	}
 }
 
-// Remove selected skill from the list
-function removeSelectedSkill(skill: string) {
-  selectedSkills = selectedSkills.filter(s => s.skill !== skill);
-  updateSelectedSkills();
-}
+// Call fetchSkillData function to fetch skill data asynchronously
+fetchSkillData().then(() => {
+	// Event listener for skill search input
+	skillSearchInput.addEventListener("input", () => {
+		const query = skillSearchInput.value.toLowerCase()
+		searchResults.innerHTML = "" // Clear previous search results
 
-// Update selected skills list
-function updateSelectedSkills() {
-  selectedSkillsList.innerHTML = '';
-  selectedSkills.forEach(({ skill, level }) => {
-    const listItem = document.createElement('li');
-    listItem.className = 'list-group-item d-flex justify-content-between align-items-center';
-    listItem.textContent = skill;
-    
-    const levelGroup = document.createElement('div');
-    levelGroup.className = 'btn-group btn-group-sm';
-    for (let i = 0; i <= 7; i++) {
-      const levelBtn = document.createElement('button');
-      levelBtn.type = 'button';
-      levelBtn.className = `btn btn-outline-secondary${level === i ? ' active' : ''}`;
-      levelBtn.textContent = i.toString();
-      levelBtn.addEventListener('click', () => {
-        changeSkillLevel(skill, i);
-      });
-      levelGroup.appendChild(levelBtn);
-    }
-    listItem.appendChild(levelGroup);
-    
-    const removeBtn = document.createElement('button');
-    removeBtn.type = 'button';
-    removeBtn.className = 'btn btn-danger btn-sm ms-3';
-    removeBtn.textContent = 'x';
-    removeBtn.addEventListener('click', () => {
-      removeSelectedSkill(skill);
-    });
-    listItem.appendChild(removeBtn);
-    
-    selectedSkillsList.appendChild(listItem);
-  });
-}
+		// Get unique skill names from skill data
+		const skillNames = new Set(skillData.map((skill) => skill.id.split(": ")[1]))
 
-// Change skill level
-function changeSkillLevel(skill: string, level: number) {
-  selectedSkills.forEach(s => {
-    if (s.skill === skill) {
-      s.level = level;
-    }
-  });
-  updateSelectedSkills();
+		// Filter skill names based on search query and display matching results
+		skillNames.forEach((skillName) => {
+			if (skillName.toLowerCase().includes(query)) {
+				const li = document.createElement("li")
+				li.className = "list-group-item bg-secondary text-light"
+
+				const skillBox = document.createElement("div")
+				skillBox.className = "skill-box"
+
+				const skillNameElement = document.createElement("span")
+				skillNameElement.textContent = skillName
+
+				skillBox.appendChild(skillNameElement)
+
+				li.appendChild(skillBox)
+				searchResults.appendChild(li)
+
+				// Event listener to add skill when clicked on search result
+				li.addEventListener("click", () => {
+					addSkill(skillName)
+				})
+			}
+		})
+	})
+})
+
+// Function to add a selected skill to the list of selected skills
+function addSkill(skillName: string) {
+	selectedSkillIds.add(skillName)
+	const li = document.createElement("li")
+	li.className = "list-group-item bg-secondary text-light"
+
+	const skillBox = document.createElement("div")
+	skillBox.className = "skill-box d-flex justify-content-between align-items-center"
+
+	const skillNameElement = document.createElement("span")
+	skillNameElement.textContent = skillName
+
+	const radioBtnGroup = document.createElement("div")
+	radioBtnGroup.className = "btn-group"
+
+	// Filter skill data for selected skill name
+	const levels = skillData.filter((skill) => skill.id.split(": ")[1] === skillName)
+	// Create radio buttons for each level
+	levels.forEach((level) => {
+		const radioBtn = document.createElement("input")
+		radioBtn.type = "radio"
+		radioBtn.className = "btn-check"
+		radioBtn.name = skillName // Use skill name as radio button group name
+		radioBtn.value = level.level.toString()
+		radioBtn.id = `btnradio-${skillName}-${level.level}` // Unique ID for each radio button
+
+		const label = document.createElement("label")
+		label.className = "btn btn-primary"
+		label.textContent = level.level.toString()
+		label.htmlFor = radioBtn.id // Link label to corresponding radio button
+
+		// Event listener to select radio button when label is clicked
+		label.addEventListener("click", () => {
+			radioBtn.checked = true
+		})
+
+		radioBtnGroup.appendChild(radioBtn)
+		radioBtnGroup.appendChild(label)
+	})
+
+	const removeButton = document.createElement("button")
+	removeButton.className = "btn btn-danger btn-sm"
+	removeButton.textContent = "x"
+	removeButton.addEventListener("click", () => {
+		selectedSkills.removeChild(li)
+		selectedSkillIds.delete(skillName)
+	})
+
+	skillBox.appendChild(skillNameElement)
+	skillBox.appendChild(radioBtnGroup)
+	skillBox.appendChild(removeButton)
+
+	li.appendChild(skillBox)
+	selectedSkills.appendChild(li)
 }
