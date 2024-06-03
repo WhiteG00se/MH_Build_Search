@@ -1,0 +1,502 @@
+index|id|level|unlock_skill_1|unlock_skill_2|unlock_skill_3|unlock_skill_4|unlock_skill_5|unlock_skill_6|param_5|param_6|param_7|param_8|description
+0|0: --------|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+1|1: Poison Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Reduces damage while poisoned.
+2|1: Poison Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|300|0|0|0|Reduces damage while poisoned.
+3|1: Poison Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Reduces damage while poisoned.
+4|2: Paralysis Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|70|0|0|0|Reduces the duration of paralysis.
+5|2: Paralysis Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|0|0|0|Reduces the duration of paralysis.
+6|2: Paralysis Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Reduces the duration of paralysis.
+7|3: Sleep Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|70|0|0|0|Reduces the duration of sleep.
+8|3: Sleep Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|0|0|0|Reduces the duration of sleep.
+9|3: Sleep Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Reduces the duration of sleep.
+10|4: Stun Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|0|0|0|Reduces stun duration.
+11|4: Stun Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|0|0|0|Reduces stun duration.
+12|4: Stun Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Reduces stun duration.
+13|5: Muck Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Reduces impairments to mobility while stuck in monster muck.
+14|6: Blast Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|150|50|0|0|Grants protection against blastblight.
+15|6: Blast Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|25|0|0|Grants protection against blastblight.
+16|6: Blast Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Grants protection against blastblight.
+17|7: Bleeding Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Grants protection against bleeding.
+18|7: Bleeding Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Grants protection against bleeding.
+19|7: Bleeding Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Grants protection against bleeding.
+20|8: Iron Skin|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Grants protection against Defense Down.
+21|8: Iron Skin|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Grants protection against Defense Down.
+22|8: Iron Skin|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Grants protection against Defense Down.
+23|9: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Unavailable
+24|9: Unavailable|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Unavailable
+25|9: Unavailable|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+26|10: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+27|10: Unavailable|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+28|10: Unavailable|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+29|11: Earplugs|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|100|0|0|Grants protection from large monsters' roars.
+30|11: Earplugs|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|100|0|0|Grants protection from large monsters' roars.
+31|11: Earplugs|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|100|0|0|Grants protection from large monsters' roars.
+32|11: Earplugs|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|10|0|0|Grants protection from large monsters' roars.
+33|11: Earplugs|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Grants protection from large monsters' roars.
+34|12: Windproof|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|100|0|0|Grants protection against wind pressure.
+35|12: Windproof|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|100|0|0|Grants protection against wind pressure.
+36|12: Windproof|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|100|0|0|Grants protection against wind pressure.
+37|12: Windproof|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|50|0|0|Grants protection against wind pressure.
+38|12: Windproof|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Grants protection against wind pressure.
+39|13: Tremor Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|100|0|0|Grants protection against ground tremors.
+40|13: Tremor Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|20|0|0|Grants protection against ground tremors.
+41|13: Tremor Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Grants protection against ground tremors.
+42|14: Dungmaster|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|100|0|0|0|Makes monsters hit with slinger dung pods more likely to run.
+43|15: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+44|16: Effluvial Expert|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Nullifies or reduces environmental damage in the Rotten Vale.
+45|17: Heat Guard|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Nullifies damage from heat.
+46|18: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+47|19: Attack Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Increases attack power. Also improves affinity at higher levels.
+48|19: Attack Boost|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|0|0|0|Increases attack power. Also improves affinity at higher levels.
+49|19: Attack Boost|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|9|0|0|0|Increases attack power. Also improves affinity at higher levels.
+50|19: Attack Boost|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|5|0|0|Increases attack power. Also improves affinity at higher levels.
+51|19: Attack Boost|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|15|5|0|0|Increases attack power. Also improves affinity at higher levels.
+52|19: Attack Boost|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|18|5|0|0|Increases attack power. Also improves affinity at higher levels.
+53|19: Attack Boost|7|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|21|5|0|0|Increases attack power. Also improves affinity at higher levels.
+54|20: Defense Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|0|0|0|Increases defense. Level up to improve resistances as well.
+55|20: Defense Boost|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|0|0|0|Increases defense. Level up to improve resistances as well.
+56|20: Defense Boost|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|0|5|0|Increases defense. Level up to improve resistances as well.
+57|20: Defense Boost|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|3|5|0|Increases defense. Level up to improve resistances as well.
+58|20: Defense Boost|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|3|8|0|Increases defense. Level up to improve resistances as well.
+59|20: Defense Boost|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|35|5|8|0|Increases defense. Level up to improve resistances as well.
+60|20: Defense Boost|7|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|35|5|10|0|Increases defense. Level up to improve resistances as well.
+61|21: Health Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|15|0|0|0|Increases health.
+62|21: Health Boost|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|0|0|0|Increases health.
+63|21: Health Boost|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Increases health.
+64|22: Recovery Up|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Increases the amount recovered when restoring health.
+65|22: Recovery Up|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Increases the amount recovered when restoring health.
+66|22: Recovery Up|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Increases the amount recovered when restoring health.
+67|23: Recovery Speed|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Speeds healing of recoverable damage (the red portion of the health gauge).
+68|23: Recovery Speed|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|300|0|0|0|Speeds healing of recoverable damage (the red portion of the health gauge).
+69|23: Recovery Speed|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|400|0|0|0|Speeds healing of recoverable damage (the red portion of the health gauge).
+70|24: Fire Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|0|0|0|Increases fire resistance. Also improves defense at higher levels.
+71|24: Fire Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|0|0|0|Increases fire resistance. Also improves defense at higher levels.
+72|24: Fire Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|10|0|0|Increases fire resistance. Also improves defense at higher levels.
+73|25: Water Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|0|0|0|Increases water resistance. Also improves defense at higher levels.
+74|25: Water Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|0|0|0|Increases water resistance. Also improves defense at higher levels.
+75|25: Water Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|10|0|0|Increases water resistance. Also improves defense at higher levels.
+76|26: Ice Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|0|0|0|Increases ice resistance. Also improves defense at higher levels.
+77|26: Ice Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|0|0|0|Increases ice resistance. Also improves defense at higher levels.
+78|26: Ice Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|10|0|0|Increases ice resistance. Also improves defense at higher levels.
+79|27: Thunder Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|0|0|0|Increases thunder resistance. Also improves defense at higher levels.
+80|27: Thunder Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|0|0|0|Increases thunder resistance. Also improves defense at higher levels.
+81|27: Thunder Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|10|0|0|Increases thunder resistance. Also improves defense at higher levels.
+82|28: Dragon Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|0|0|0|Increases dragon resistance. Also improves defense at higher levels.
+83|28: Dragon Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|0|0|0|Increases dragon resistance. Also improves defense at higher levels.
+84|28: Dragon Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|10|0|0|Increases dragon resistance. Also improves defense at higher levels.
+85|29: Blight Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Grants protection against all elemental blights.
+86|29: Blight Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Grants protection against all elemental blights.
+87|29: Blight Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Grants protection against all elemental blights.
+88|30: Fire Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|100|0|0|Increases fire element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+89|30: Fire Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|100|0|0|Increases fire element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+90|30: Fire Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|100|0|0|Increases fire element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+91|30: Fire Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|105|0|0|Increases fire element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+92|30: Fire Attack|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|110|0|0|Increases fire element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+93|31: Water Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|100|0|0|Increases water element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+94|31: Water Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|100|0|0|Increases water element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+95|31: Water Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|100|0|0|Increases water element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+96|31: Water Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|105|0|0|Increases water element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+97|31: Water Attack|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|110|0|0|Increases water element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+98|32: Ice Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|100|0|0|Increases ice element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+99|32: Ice Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|100|0|0|Increases ice element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+100|32: Ice Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|100|0|0|Increases ice element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+101|32: Ice Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|105|0|0|Increases ice element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+102|32: Ice Attack|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|110|0|0|Increases ice element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+103|33: Thunder Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|100|0|0|Increases thunder element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+104|33: Thunder Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|100|0|0|Increases thunder element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+105|33: Thunder Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|100|0|0|Increases thunder element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+106|33: Thunder Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|105|0|0|Increases thunder element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+107|33: Thunder Attack|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|110|0|0|Increases thunder element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+108|34: Dragon Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|100|0|0|Increases dragon element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+109|34: Dragon Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|6|100|0|0|Increases dragon element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+110|34: Dragon Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|100|0|0|Increases dragon element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+111|34: Dragon Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|105|0|0|Increases dragon element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+112|34: Dragon Attack|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|110|0|0|Increases dragon element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+113|35: Poison Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|0|0|0|Increases the rate of poison buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+114|35: Poison Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Increases the rate of poison buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+115|35: Poison Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Increases the rate of poison buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+116|36: Paralysis Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|0|0|0|Increases the rate of paralysis buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+117|36: Paralysis Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Increases the rate of paralysis buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+118|36: Paralysis Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Increases the rate of paralysis buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+119|37: Sleep Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|0|0|0|Increases the rate of sleep buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+120|37: Sleep Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Increases the rate of sleep buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+121|37: Sleep Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Increases the rate of sleep buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+122|38: Blast Attack|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|0|0|0|Increases the rate of blast buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+123|38: Blast Attack|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Increases the rate of blast buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+124|38: Blast Attack|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Increases the rate of blast buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+125|39: Normal Shots|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|110|0|0|Increases the attack power of normal ammo and normal arrows.
+126|40: Piercing Shots|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|110|0|0|Increases the attack power of piercing ammo and Dragon Piercer.
+127|41: Spread/Power Shots|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|110|0|0|Increases the attack power of spread ammo, power shot arrows, and Thousand Dragons.
+128|42: Poison Functionality|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Allows you to apply poison coatings.
+129|43: Para Functionality|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Allows you to apply paralysis coatings.
+130|44: Sleep Functionality|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Allows you to apply sleep coatings.
+131|45: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+132|46: Blast Functionality|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Allows you to apply blast coatings.
+133|47: Free Elem/Ammo Up|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unlocks your weapon's hidden element. Also increases bowgun loading capacity. <STYL MOJI_YELLOW_DEFAULT>(There is a cap to loading capacity.)</STYL>
+134|47: Free Elem/Ammo Up|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|2|0|0|Unlocks your weapon's hidden element. Also increases bowgun loading capacity. <STYL MOJI_YELLOW_DEFAULT>(There is a cap to loading capacity.)</STYL>
+135|47: Free Elem/Ammo Up|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|3|0|0|Unlocks your weapon's hidden element. Also increases bowgun loading capacity. <STYL MOJI_YELLOW_DEFAULT>(There is a cap to loading capacity.)</STYL>
+136|48: Critical Eye|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|0|0|0|Increases affinity.
+137|48: Critical Eye|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|0|0|0|Increases affinity.
+138|48: Critical Eye|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|15|0|0|0|Increases affinity.
+139|48: Critical Eye|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|0|0|0|Increases affinity.
+140|48: Critical Eye|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Increases affinity.
+141|48: Critical Eye|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|0|0|0|Increases affinity.
+142|48: Critical Eye|7|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|0|0|0|Increases affinity.
+143|49: Critical Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Increases the damage of critical hits.
+144|49: Critical Boost|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|135|0|0|0|Increases the damage of critical hits.
+145|49: Critical Boost|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|140|0|0|0|Increases the damage of critical hits.
+146|50: Weakness Exploit|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|15|0|0|Increases the affinity of attacks that exploit a monster weak spot.
+147|50: Weakness Exploit|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|15|30|0|0|Increases the affinity of attacks that exploit a monster weak spot.
+148|50: Weakness Exploit|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|50|0|0|Increases the affinity of attacks that exploit a monster weak spot.
+149|51: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|10|5|15|Unavailable
+150|51: Unavailable|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|20|5|25|Unavailable
+151|51: Unavailable|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|30|5|35|Unavailable
+152|52: Focus|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|95|1|0|Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.
+153|52: Focus|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|90|2|0|Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.
+154|52: Focus|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|85|3|0|Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.
+155|53: Power Prolonger|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.
+156|53: Power Prolonger|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.
+157|53: Power Prolonger|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.
+158|54: Handicraft|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.
+159|54: Handicraft|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|140|0|0|0|Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.
+160|54: Handicraft|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|160|0|0|0|Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.
+161|54: Handicraft|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|180|0|0|0|Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.
+162|54: Handicraft|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.
+163|55: Critical Draw|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|0|0|0|Increases affinity when performing draw attacks.
+164|55: Critical Draw|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|60|0|0|0|Increases affinity when performing draw attacks.
+165|55: Critical Draw|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|100|0|0|0|Increases affinity when performing draw attacks.
+166|56: Partbreaker|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Makes it easier to break or sever parts of large monsters.
+167|56: Partbreaker|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Makes it easier to break or sever parts of large monsters.
+168|56: Partbreaker|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Makes it easier to break or sever parts of large monsters.
+169|57: Slugger|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|120|0|0|Makes it easier to stun monsters.
+170|57: Slugger|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|130|0|0|Makes it easier to stun monsters.
+171|57: Slugger|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|140|0|0|Makes it easier to stun monsters.
+172|58: Stamina Thief|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|120|0|0|Increases certain attacks' ability to exhaust monsters.
+173|58: Stamina Thief|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|130|0|0|Increases certain attacks' ability to exhaust monsters.
+174|58: Stamina Thief|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|140|0|0|Increases certain attacks' ability to exhaust monsters.
+175|59: Master Mounter|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Makes it easier to mount monsters.
+176|60: Airborne|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Increases the damage caused by jumping attacks.
+177|61: Latent Power|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|70|120|0|Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+178|61: Latent Power|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|70|120|0|Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+179|61: Latent Power|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|50|120|0|Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+180|61: Latent Power|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|50|120|0|Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+181|61: Latent Power|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|50|120|0|Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+182|62: Agitator|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|4|5|0|0|Increases attack power and affinity when large monsters become enraged.
+183|62: Agitator|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|8|5|0|0|Increases attack power and affinity when large monsters become enraged.
+184|62: Agitator|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|7|0|0|Increases attack power and affinity when large monsters become enraged.
+185|62: Agitator|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|16|7|0|0|Increases attack power and affinity when large monsters become enraged.
+186|62: Agitator|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|10|0|0|Increases attack power and affinity when large monsters become enraged.
+187|63: Peak Performance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|0|0|0|Increases attack when your health is full.
+188|63: Peak Performance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|0|0|0|Increases attack when your health is full.
+189|63: Peak Performance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|0|0|0|Increases attack when your health is full.
+190|64: Heroics|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|100|50|0|0|Increases attack power and defense when health drops to 35% or lower.
+191|64: Heroics|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|50|0|0|Increases attack power and defense when health drops to 35% or lower.
+192|64: Heroics|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|100|0|0|Increases attack power and defense when health drops to 35% or lower.
+193|64: Heroics|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|100|0|0|Increases attack power and defense when health drops to 35% or lower.
+194|64: Heroics|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|115|100|0|0|Increases attack power and defense when health drops to 35% or lower.
+195|65: Fortify|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|115|2|3000|Temporarily increases your attack and defense every time you faint <STYL MOJI_YELLOW_DEFAULT>up to 2 times</STYL>.
+196|66: Resentment|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|0|0|0|Increases attack when you have recoverable damage (the red portion of your health gauge).
+197|66: Resentment|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|0|0|0|Increases attack when you have recoverable damage (the red portion of your health gauge).
+198|66: Resentment|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|15|0|0|0|Increases attack when you have recoverable damage (the red portion of your health gauge).
+199|66: Resentment|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|0|0|0|Increases attack when you have recoverable damage (the red portion of your health gauge).
+200|66: Resentment|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Increases attack when you have recoverable damage (the red portion of your health gauge).
+201|67: Resuscitate|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Improves evasion and reduces stamina depletion when afflicted with abnormal status effects.
+202|68: Horn Maestro|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases the effect duration of hunting horn melodies.
+203|69: Capacity Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Increases the gunlance's shell capacity and charge blade's phial capacity.
+204|70: Special Ammo Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|110|110|0|Increases the power of bowgun special ammo, Dragon Piercer, and Thousand Dragons.
+205|70: Special Ammo Boost|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|120|120|0|Increases the power of bowgun special ammo, Dragon Piercer, and Thousand Dragons.
+206|71: Artillery|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Strengthens explosive attacks like gunlance shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo.
+207|71: Artillery|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Strengthens explosive attacks like gunlance shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo.
+208|71: Artillery|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Strengthens explosive attacks like gunlance shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo.
+209|72: Heavy Artillery|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases the firepower of ballistae and cannons.
+210|72: Heavy Artillery|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Increases the firepower of ballistae and cannons.
+211|73: Marathon Runner|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|85|0|0|0|Slows down stamina depletion for actions which continuously drain stamina (such as dashing).
+212|73: Marathon Runner|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|70|0|0|0|Slows down stamina depletion for actions which continuously drain stamina (such as dashing).
+213|73: Marathon Runner|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Slows down stamina depletion for actions which continuously drain stamina (such as dashing).
+214|74: Constitution|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|90|0|0|0|Reduces stamina depletion when performing stamina-draining moves such as evading, etc.
+215|74: Constitution|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|80|0|0|0|Reduces stamina depletion when performing stamina-draining moves such as evading, etc.
+216|74: Constitution|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|70|0|0|0|Reduces stamina depletion when performing stamina-draining moves such as evading, etc.
+217|74: Constitution|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|60|0|0|0|Reduces stamina depletion when performing stamina-draining moves such as evading, etc.
+218|74: Constitution|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Reduces stamina depletion when performing stamina-draining moves such as evading, etc.
+219|75: Leap of Faith|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Allows you to do a dive-evade when facing towards large monsters, and extends the dive-evade distance.
+220|76: Stamina Surge|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Speeds up stamina recovery.
+221|76: Stamina Surge|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Speeds up stamina recovery.
+222|76: Stamina Surge|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Speeds up stamina recovery.
+223|77: Hunger Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|150|0|0|0|Reduces maximum stamina depletion over time. However, does not work against cold environments that reduce stamina.
+224|77: Hunger Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Reduces maximum stamina depletion over time. However, does not work against cold environments that reduce stamina.
+225|77: Hunger Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Reduces maximum stamina depletion over time. However, does not work against cold environments that reduce stamina.
+226|78: Evade Window|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Extends the invulnerability period when evading.
+227|78: Evade Window|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Extends the invulnerability period when evading.
+228|78: Evade Window|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Extends the invulnerability period when evading.
+229|78: Evade Window|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|4|0|0|0|Extends the invulnerability period when evading.
+230|78: Evade Window|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|0|0|0|Extends the invulnerability period when evading.
+231|79: Evade Extender|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases evade distance.
+232|79: Evade Extender|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Increases evade distance.
+233|79: Evade Extender|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Increases evade distance.
+234|80: Guard|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|100|0|0|Reduces knockbacks and stamina depletion when guarding.
+235|80: Guard|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|85|0|0|Reduces knockbacks and stamina depletion when guarding.
+236|80: Guard|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|85|0|0|Reduces knockbacks and stamina depletion when guarding.
+237|80: Guard|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|70|0|0|Reduces knockbacks and stamina depletion when guarding.
+238|80: Guard|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|50|0|0|Reduces knockbacks and stamina depletion when guarding.
+239|81: Quick Sheath|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Speeds up weapon sheathing.
+240|81: Quick Sheath|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Speeds up weapon sheathing.
+241|81: Quick Sheath|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|140|0|0|0|Speeds up weapon sheathing.
+242|82: Wide-Range|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Allows the effects of certain items to also affect nearby allies.
+243|82: Wide-Range|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Allows the effects of certain items to also affect nearby allies.
+244|82: Wide-Range|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Allows the effects of certain items to also affect nearby allies.
+245|82: Wide-Range|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|4|0|0|0|Allows the effects of certain items to also affect nearby allies.
+246|82: Wide-Range|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|0|0|0|Allows the effects of certain items to also affect nearby allies.
+247|83: Item Prolonger|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Extends the duration of some item effects.
+248|83: Item Prolonger|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|125|0|0|0|Extends the duration of some item effects.
+249|83: Item Prolonger|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|150|0|0|0|Extends the duration of some item effects.
+250|84: Free Meal|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Gives you a predetermined chance of consuming a food or drink item for free.
+251|85: Speed Eating|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases meat-eating and item-consumption speed.
+252|85: Speed Eating|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Increases meat-eating and item-consumption speed.
+253|85: Speed Eating|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Increases meat-eating and item-consumption speed.
+254|86: Speed Sharpening|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|120|0|0|Speeds up weapon sharpening when using a whetstone.
+255|86: Speed Sharpening|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|120|0|0|Speeds up weapon sharpening when using a whetstone.
+256|86: Speed Sharpening|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|120|0|0|Speeds up weapon sharpening when using a whetstone.
+257|87: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+258|87: Unavailable|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+259|87: Unavailable|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+260|88: Bombardier|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases the damage of explosive items.
+261|88: Bombardier|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Increases the damage of explosive items.
+262|88: Bombardier|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Increases the damage of explosive items.
+263|89: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Unavailable
+264|89: Unavailable|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|50|0|0|Unavailable
+265|89: Unavailable|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|50|0|0|Unavailable
+266|90: Mushroomancer|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.
+267|90: Mushroomancer|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.
+268|90: Mushroomancer|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.
+269|91: Master Fisher|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Improves your skill at fishing.
+270|92: BBQ Master|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Improves your skill at cooking meat.
+271|93: Pro Transporter|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Increases your speed while transporting items and decreases the likelihood of dropping them.
+272|94: Master Gatherer|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|140|1|0|0|Allows you to gather more quickly, and also prevents attacks from knocking you back while gathering.
+273|95: Honey Hunter|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases the quantity of honey you receive when gathering in the field.
+274|96: Carving Pro|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Prevents knockback from attacks while carving.
+275|97: Divine Blessing|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|85|0|0|Has a predetermined chance of reducing the damage you take.
+276|97: Divine Blessing|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|70|0|0|Has a predetermined chance of reducing the damage you take.
+277|97: Divine Blessing|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|50|0|0|Has a predetermined chance of reducing the damage you take.
+278|98: Palico Rally|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|105|0|0|Powers up Palicoes.
+279|98: Palico Rally|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|110|0|0|Powers up Palicoes.
+280|98: Palico Rally|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|115|115|0|0|Powers up Palicoes.
+281|98: Palico Rally|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|120|0|0|Powers up Palicoes.
+282|98: Palico Rally|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|125|125|0|0|Powers up Palicoes.
+283|99: Botanist|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases the quantity of herbs and other consumable items you gather.
+284|99: Botanist|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Increases the quantity of herbs and other consumable items you gather.
+285|99: Botanist|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|1|0|Increases the quantity of herbs and other consumable items you gather.
+286|99: Botanist|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|1|1|Increases the quantity of herbs and other consumable items you gather.
+287|100: Geologist|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases the number of times you can use a gathering point.
+288|100: Geologist|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Increases the number of times you can use a gathering point.
+289|100: Geologist|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|1|0|Increases the number of times you can use a gathering point.
+290|101: Maximum Might|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|5|2|0|Increases affinity as long as stamina is kept full for a period of time.
+291|101: Maximum Might|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|20|5|3|0|Increases affinity as long as stamina is kept full for a period of time.
+292|101: Maximum Might|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|5|3|0|Increases affinity as long as stamina is kept full for a period of time.
+293|102: Slinger Capacity|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases loading capacity for slinger ammo obtained in the field. Limits the amount of ammo used when firing certain shots.
+294|102: Slinger Capacity|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Increases loading capacity for slinger ammo obtained in the field. Limits the amount of ammo used when firing certain shots.
+295|102: Slinger Capacity|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Increases loading capacity for slinger ammo obtained in the field. Limits the amount of ammo used when firing certain shots.
+296|103: Stealth|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|70|0|0|0|Makes it easier for monsters to lose sight of you.
+297|103: Stealth|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Makes it easier for monsters to lose sight of you.
+298|103: Stealth|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|0|0|0|Makes it easier for monsters to lose sight of you.
+299|104: Flinch Free|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Prevents knockbacks and other reactions to small damage.
+300|104: Flinch Free|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Prevents knockbacks and other reactions to small damage.
+301|104: Flinch Free|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|3|0|0|0|Prevents knockbacks and other reactions to small damage.
+302|105: Scoutfly Range Up|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Expands your scoutflies' detection range.
+303|106: Speed Crawler|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases movement speed while crouching.
+304|107: Jump Master|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Prevents attacks from knocking you back during a jump.
+305|108: Survival Expert|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Extra health is recovered from environmental interactables like Sporepuffs or Wiggly Litchi.
+306|108: Survival Expert|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|80|0|0|0|Extra health is recovered from environmental interactables like Sporepuffs or Wiggly Litchi.
+307|108: Survival Expert|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|100|0|0|0|Extra health is recovered from environmental interactables like Sporepuffs or Wiggly Litchi.
+308|109: Aquatic/Polar Mobility|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Lets you move more freely in water. Also prevents you from being slowed down by terrain effects, such as deep snow.
+309|109: Aquatic/Polar Mobility|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Lets you move more freely in water. Also prevents you from being slowed down by terrain effects, such as deep snow.
+310|109: Aquatic/Polar Mobility|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|2|0|0|Lets you move more freely in water. Also prevents you from being slowed down by terrain effects, such as deep snow.
+311|110: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+312|111: Cliffhanger|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Decreases stamina depletion when evading while clinging to walls or ivy, or when moving while grappling onto an enemy.
+313|112: Blindsider|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Improves the effectiveness of flash attacks and items.
+314|113: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+315|114: Scholar|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|0|0|0|Speeds up progress on research levels and special investigations. <STYL MOJI_YELLOW_DEFAULT>(Effect is applied at the quest results screen.)</STYL>
+316|115: Entomologist|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Decreases the chances of destroying the bodies of small insect monsters, allowing them to be carved.
+317|115: Entomologist|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|75|0|0|0|Decreases the chances of destroying the bodies of small insect monsters, allowing them to be carved.
+318|115: Entomologist|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|100|0|0|0|Decreases the chances of destroying the bodies of small insect monsters, allowing them to be carved.
+319|116: Effluvia Resistance|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Gain a resistance to effluvial buildup.
+320|116: Effluvia Resistance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Gain a resistance to effluvial buildup.
+321|116: Effluvia Resistance|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Gain a resistance to effluvial buildup.
+322|117: Scenthound|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|150|0|0|0|Increases your scoutflies' gauge fill rate when you find tracks and other traces left by monsters.
+323|118: Forager's Luck|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|0|0|0|Increases the chance of finding rare gathering points.
+324|119: Detector|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Shows rare gathering points on the Wildlife Map.
+325|120: Tool Specialist|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|90|0|0|0|Reduces the recharge time for specialized tools.
+326|120: Tool Specialist|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|80|0|0|0|Reduces the recharge time for specialized tools.
+327|120: Tool Specialist|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|70|0|0|0|Reduces the recharge time for specialized tools.
+328|121: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|100|0|0|0|Unavailable
+329|122: Affinity Sliding|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|100|0|0|0|Sliding increases your affinity for a short time.
+330|123: Elderseal Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases the Elderseal of weapons and dragon ammo.
+331|124: Intimidator|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|25|50|0|0|Reduces the chances small monsters will attack after spotting you. <STYL MOJI_YELLOW_DEFAULT>(No effect on certain monsters.)</STYL>
+332|124: Intimidator|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|25|0|0|Reduces the chances small monsters will attack after spotting you. <STYL MOJI_YELLOW_DEFAULT>(No effect on certain monsters.)</STYL>
+333|124: Intimidator|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Reduces the chances small monsters will attack after spotting you. <STYL MOJI_YELLOW_DEFAULT>(No effect on certain monsters.)</STYL>
+334|148: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|0|0|0|Unavailable
+335|125: Anjanath Power|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|90|0|0|Unavailable
+336|132: Anjanath Will|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|90|0|0|Unavailable
+337|142: Bazelgeuse Protection|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+338|138: Uragaan Protection|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+339|153: Odogaron Power|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+340|154: Odogaron Mastery|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+341|145: Xeno'jiiva Divinity|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+342|135: Rathalos Mastery|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+343|130: Kirin Blessing|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+344|137: Kirin Favor|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+345|149: Guild Guidance|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+346|151: Legiana Blessing|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+347|152: Legiana Favor|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+348|150: Commission Guidance|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+349|147: Zorah Magdaros Mastery|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+350|128: Rathalos Power|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+351|135: Rathalos Mastery|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+352|154: Odogaron Mastery|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|30|60|0|0|Unavailable
+353|129: Diablos Power|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+354|136: Diablos Mastery|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+355|152: Legiana Favor|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+356|143: Teostra Technique|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+357|131: Pink Rathian Mastery|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Unavailable
+358|136: Diablos Mastery|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+359|132: Anjanath Will|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|90|0|50|Unavailable
+360|144: Kushala Daora Flight|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+361|127: Vaal Hazak Vitality|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+362|126: Nergigante Hunger|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+363|155: Bow Charge Plus|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases max bow charge level by one.
+364|156: Mind's Eye/Ballistics|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.
+365|157: Guard Up|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Allows you to guard against ordinarily unblockable attacks.
+366|158: Protective Polish|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|60|0|0|0|Weapon sharpness does not decrease for a set time after sharpening.
+367|159: Non-elemental Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Powers up non-elemental weapons you have equipped.
+368|141: Unavailable|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+369|160: Guts|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Above a certain health threshold, you withstand an attack that would normally cart you (once only).
+370|161: Hasten Recovery|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Regenerates your health as you continually attack a monster. Recovery varies by weapon.
+371|162: Razor Sharp/Spare Shot|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo.
+372|163: Lunastra Favor|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Unavailable
+373|163: Lunastra Favor|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|1|0|0|Unavailable
+374|164: Soul of the Dragoon|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+375|164: Soul of the Dragoon|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+376|165: Critical Element|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.
+377|166: Critical Status|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits.
+378|167: Witcher's Knowledge|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+379|167: Witcher's Knowledge|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+380|168: Astera Blessing|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+381|169: Zinogre Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+382|61: Latent Power|6|381: Zinogre Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|50|50|120|0|Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+383|61: Latent Power|7|381: Zinogre Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|60|50|120|0|Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+384|170: Tigrex Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+385|84: Free Meal|2|384: Tigrex Essence|489: Kulve Taroth Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|50|0|0|0|Gives you a predetermined chance of consuming a food or drink item for free.
+386|84: Free Meal|3|384: Tigrex Essence|489: Kulve Taroth Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|75|0|0|0|Gives you a predetermined chance of consuming a food or drink item for free.
+387|172: Brachydios Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+388|62: Agitator|6|387: Brachydios Essence|469: Survivor|487: Brachydios Will|486: Brachydios Will|497: Fatalis Legend|500: Fatalis Legend|24|15|0|0|Increases attack power and affinity when large monsters become enraged.
+389|62: Agitator|7|387: Brachydios Essence|469: Survivor|487: Brachydios Will|486: Brachydios Will|497: Fatalis Legend|500: Fatalis Legend|28|20|0|0|Increases attack power and affinity when large monsters become enraged.
+390|173: Glavenus Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+391|101: Maximum Might|4|390: Glavenus Essence|482: Rajang Will|483: Rajang Will|497: Fatalis Legend|500: Fatalis Legend|0: --------|40|5|4|0|Increases affinity as long as stamina is kept full for a period of time.
+392|101: Maximum Might|5|390: Glavenus Essence|482: Rajang Will|483: Rajang Will|497: Fatalis Legend|500: Fatalis Legend|0: --------|40|0|0|0|Increases affinity as long as stamina is kept full for a period of time.
+393|174: Silver Rathalos Essence|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+394|102: Slinger Capacity|4|393: Silver Rathalos Essence|403: Silver Rathalos Essence|403: Silver Rathalos Essence|403: Silver Rathalos Essence|497: Fatalis Legend|500: Fatalis Legend|4|0|0|0|Increases loading capacity for slinger ammo obtained in the field. Limits the amount of ammo used when firing certain shots.
+395|102: Slinger Capacity|5|393: Silver Rathalos Essence|403: Silver Rathalos Essence|403: Silver Rathalos Essence|403: Silver Rathalos Essence|497: Fatalis Legend|500: Fatalis Legend|5|0|0|0|Increases loading capacity for slinger ammo obtained in the field. Limits the amount of ammo used when firing certain shots.
+396|175: Gold Rathian Essence|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+397|97: Divine Blessing|4|396: Gold Rathian Essence|404: Gold Rathian Essence|404: Gold Rathian Essence|404: Gold Rathian Essence|497: Fatalis Legend|500: Fatalis Legend|25|40|0|0|Has a predetermined chance of reducing the damage you take.
+398|97: Divine Blessing|5|396: Gold Rathian Essence|404: Gold Rathian Essence|404: Gold Rathian Essence|404: Gold Rathian Essence|497: Fatalis Legend|500: Fatalis Legend|40|40|0|0|Has a predetermined chance of reducing the damage you take.
+399|176: Shara Ishvalda Divinity|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+400|177: Namielle Divinity|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|45|2|6|0|Unavailable
+401|178: Velkhana Divinity|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+402|171: Nargacuga Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+403|174: Silver Rathalos Essence|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+404|175: Gold Rathian Essence|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+405|202: Lunastra Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+406|120: Tool Specialist|4|405: Lunastra Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|60|0|0|0|Reduces the recharge time for specialized tools.
+407|120: Tool Specialist|5|405: Lunastra Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|50|0|0|0|Reduces the recharge time for specialized tools.
+408|201: Zorah Magdaros Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+409|71: Artillery|4|408: Zorah Magdaros Essence|486: Brachydios Will|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|4|0|0|0|Strengthens explosive attacks like gunlance shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo.
+410|71: Artillery|5|408: Zorah Magdaros Essence|486: Brachydios Will|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|5|0|0|0|Strengthens explosive attacks like gunlance shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo.
+411|190: Diablos Ambition|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+412|57: Slugger|4|411: Diablos Ambition|491: Frostfang Absolute Art|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0|150|0|0|Makes it easier to stun monsters.
+413|57: Slugger|5|411: Diablos Ambition|491: Frostfang Absolute Art|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0|160|0|0|Makes it easier to stun monsters.
+414|195: Deviljho Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+415|58: Stamina Thief|4|414: Deviljho Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|0|150|0|0|Increases certain attacks' ability to exhaust monsters.
+416|58: Stamina Thief|5|414: Deviljho Essence|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|0|160|0|0|Increases certain attacks' ability to exhaust monsters.
+417|180: Commission Alchemy|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+418|88: Bombardier|4|417: Commission Alchemy|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|4|0|0|0|Increases the damage of explosive items.
+419|88: Bombardier|5|417: Commission Alchemy|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|5|0|0|0|Increases the damage of explosive items.
+420|30: Fire Attack|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|120|0|0|Increases fire element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+421|31: Water Attack|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|120|0|0|Increases water element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+422|32: Ice Attack|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|120|0|0|Increases ice element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+423|33: Thunder Attack|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|120|0|0|Increases thunder element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+424|34: Dragon Attack|6|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|10|120|0|0|Increases dragon element attack power. <STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has a maximum limit.)</STYL>
+425|35: Poison Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Increases the rate of poison buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+426|36: Paralysis Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Increases the rate of paralysis buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+427|37: Sleep Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Increases the rate of sleep buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+428|38: Blast Attack|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|130|0|0|0|Increases the rate of blast buildup. <STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+429|68: Horn Maestro|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Increases the effect duration of hunting horn melodies.
+430|39: Normal Shots|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|120|0|0|Increases the attack power of normal ammo and normal arrows.
+431|40: Piercing Shots|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|120|120|0|0|Increases the attack power of piercing ammo and Dragon Piercer.
+432|41: Spread/Power Shots|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|115|115|0|0|Increases the attack power of spread ammo, power shot arrows, and Thousand Dragons.
+433|184: Provoker|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Increases the attention drawn when attacking a monster.
+434|185: Offensive Guard|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|105|0|0|0|Temporarily increases attack power after executing a perfectly-timed guard.
+435|185: Offensive Guard|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|110|0|0|0|Temporarily increases attack power after executing a perfectly-timed guard.
+436|185: Offensive Guard|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|115|0|0|0|Temporarily increases attack power after executing a perfectly-timed guard.
+437|186: Coalescence|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|12|3|105|0|Temporarily enhances attacks after recovering from blights or abnormal status.
+438|186: Coalescence|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|15|6|110|0|Temporarily enhances attacks after recovering from blights or abnormal status.
+439|186: Coalescence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|18|9|115|0|Temporarily enhances attacks after recovering from blights or abnormal status.
+440|187: Safe Landing|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Allows you to quickly recover from heavy attacks that blow you back when you have your weapon unsheathed.
+441|176: Shara Ishvalda Divinity|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Unavailable
+442|177: Namielle Divinity|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|45|3|15|0|Unavailable
+443|179: Ancient Divinity|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+444|181: Instructor's Guidance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+445|182: Anjanath Dominance|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|50|0|0|0|Unavailable
+446|183: Rathian Essence|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|200|0|0|0|Unavailable
+447|188: Barioth Hidden Art|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+448|189: Rathalos Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+449|191: Legiana Ambition|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+450|192: Odogaron Essence|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|60|0|0|0|Unavailable
+451|193: Uragaan Ambition|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+452|194: Bazelgeuse Ambition|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+453|196: Vaal Soulvein|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+454|197: Unavailable|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+455|198: Unavailable|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+456|203: Nergigante Ambition|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+457|199: Kirin Divinity|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+458|200: Guild Pride|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+459|200: Guild Pride|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+460|178: Velkhana Divinity|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+461|204: Unavailable|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+462|205: Bludgeoner|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning.
+463|206: Adrenaline|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|40|90|0|0|Temporarily reduces stamina depletion when health is at 40% or lower.
+464|207: Coldproof|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Nullifies the effects of cold weather.
+465|208: Rajang's Rage|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+466|208: Rajang's Rage|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|60|0|0|Unavailable
+467|209: Power Cell|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+468|210: Survivor|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+469|210: Survivor|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+470|211: Safi'jiiva Seal|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+471|211: Safi'jiiva Seal|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Unavailable
+472|212: Joyful Blessing|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+473|212: Joyful Blessing|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Unavailable
+474|213: Appreciation Blessing|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+475|213: Appreciation Blessing|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Unavailable
+476|214: Full Bloom Blessing|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+477|214: Full Bloom Blessing|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Unavailable
+478|215: Sizzling Blessing|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+479|215: Sizzling Blessing|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Unavailable
+480|216: Fun Fright Blessing|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+481|216: Fun Fright Blessing|5|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|2|0|0|0|Unavailable
+482|217: Rajang Will|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+483|217: Rajang Will|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+484|64: Heroics|6|483: Rajang Will|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|125|150|0|0|Increases attack power and defense when health drops to 35% or lower.
+485|64: Heroics|7|483: Rajang Will|497: Fatalis Legend|500: Fatalis Legend|0: --------|0: --------|0: --------|140|150|0|0|Increases attack power and defense when health drops to 35% or lower.
+486|218: Brachydios Will|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+487|218: Brachydios Will|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+488|219: Kulve Taroth Essence|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+489|219: Kulve Taroth Essence|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+490|220: Frostfang Absolute Art|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+491|220: Frostfang Absolute Art|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+492|221: Alatreon Divinity|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|2|0|0|Unavailable
+493|0: --------|0|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+494|223: Clutch Claw Boost|1|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Clutch claw weapon attacks wound monsters easier, and have a better chance of dropping slinger ammo.
+495|221: Alatreon Divinity|3|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|5|2|20|0|Unavailable
+496|0: --------|0|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+497|222: Fatalis Legend|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|0|0|0|0|Unavailable
+498|224: New World|2|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|0|0|0|Unavailable
+499|224: New World|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|1|0|0|Unavailable
+500|222: Fatalis Legend|4|0: --------|0: --------|0: --------|0: --------|0: --------|0: --------|1|50|50|0|Unavailable
