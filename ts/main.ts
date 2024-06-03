@@ -79,7 +79,7 @@ function addSkill(skillName: string) {
 	skillNameElement.textContent = skillName
 
 	const radioBtnGroup = document.createElement("div")
-	radioBtnGroup.className = "btn-group"
+	radioBtnGroup.className = "btn-group ms-auto" // Align to the right
 
 	// Filter skill data for selected skill name
 	const levels = skillData.filter((skill) => skill.id.split(": ")[1] === skillName)
@@ -107,7 +107,7 @@ function addSkill(skillName: string) {
 	})
 
 	const removeButton = document.createElement("button")
-	removeButton.className = "btn btn-danger btn-sm"
+	removeButton.className = "btn btn-danger btn-sm ms-2" // Add margin to the left for spacing
 	removeButton.textContent = "x"
 	removeButton.addEventListener("click", () => {
 		selectedSkills.removeChild(li)
