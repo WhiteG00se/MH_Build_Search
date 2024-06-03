@@ -64,6 +64,10 @@ fetchSkillData().then(() => {
 
 // Function to add a selected skill to the list of selected skills
 function addSkill(skillName: string) {
+	if (selectedSkillIds.has(skillName)) {
+		return; // Skill already added, do nothing
+	}
+
 	selectedSkillIds.add(skillName)
 	const li = document.createElement("li")
 	li.className = "list-group-item bg-secondary text-light"
