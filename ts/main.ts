@@ -26,44 +26,41 @@ async function fetchSkillData() {
 	}
 }
 
-// Call fetchSkillData function to fetch skill data asynchronously
-fetchSkillData().then(() => {
-	// Event listener for skill search input
-	skillSearchInput.addEventListener("input", () => {
-		const query = skillSearchInput.value.toLowerCase()
-		searchResults.innerHTML = "" // Clear previous search results
+// Function to handle skill search input
+async function handleSkillSearchInput() {
+	const query = skillSearchInput.value.toLowerCase()
+	searchResults.innerHTML = "" // Clear previous search results
 
-		// Get unique skill names from skill data
-		const skillNames = new Set(skillData.map((skill) => skill.id.split(": ")[1]))
+	// Get unique skill names from skill data
+	const skillNames = new Set(skillData.map((skill) => skill.id.split(": ")[1]))
 
-		// Filter skill names based on search query and display matching results
-		skillNames.forEach((skillName) => {
-			if (skillName.toLowerCase().includes(query)) {
-				const li = document.createElement("li")
-				li.className = "list-group-item bg-secondary text-light"
+	// Filter skill names based on search query and display matching results
+	skillNames.forEach((skillName) => {
+		if (skillName.toLowerCase().includes(query)) {
+			const li = document.createElement("li")
+			li.className = "list-group-item bg-secondary text-light"
 
-				const skillBox = document.createElement("div")
-				skillBox.className = "skill-box"
+			const skillBox = document.createElement("div")
+			skillBox.className = "skill-box"
 
-				const skillNameElement = document.createElement("span")
-				skillNameElement.textContent = skillName
+			const skillNameElement = document.createElement("span")
+			skillNameElement.textContent = skillName
 
-				skillBox.appendChild(skillNameElement)
+			skillBox.appendChild(skillNameElement)
 
-				li.appendChild(skillBox)
-				searchResults.appendChild(li)
+			li.appendChild(skillBox)
+			searchResults.appendChild(li)
 
-				// Event listener to add skill when clicked on search result
-				li.addEventListener("click", () => {
-					addSkill(skillName)
-				})
-			}
-		})
+			// Event listener to add skill when clicked on search result
+			li.addEventListener("click", () => {
+				addSkill(skillName)
+			})
+		}
 	})
-})
+}
 
 // Function to add a selected skill to the list of selected skills
-function addSkill(skillName: string) {
+async function addSkill(skillName: string) {
 	if (selectedSkillIds.has(skillName)) {
 		return; // Skill already added, do nothing
 	}
@@ -142,3 +139,11 @@ function addSkill(skillName: string) {
 	li.appendChild(skillBox)
 	selectedSkills.appendChild(li)
 }
+
+// Initialize the application
+async function init() {
+	await fetchSkillData()
+	skillSearchInput.addEventListener("input", handleSkillSearchInput)
+}
+
+init()
