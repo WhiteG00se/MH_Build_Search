@@ -20,4 +20,4 @@ SELECT
   a.skill_3,
   a.skill_3_level
 WHERE
-  (a.defense > 0 || a.type.toLowerCase() == 'charm') & & a.name != 'Unavailable' & & a.variant != 'low_rank'
+  (a.defense > 0 || a.type.toLowerCase() == 'charm') && a.name != 'Unavailable' && a.variant != 'low_rank'
