@@ -1,6 +1,6 @@
 SELECT
   a.name,
-  a.variant,
+  parseInt(a.rarity) + 1 AS rarity,
   a.equid_slot,
   a.defense,
   a.fire_res,
@@ -20,4 +20,4 @@ SELECT
   a.skill_3,
   a.skill_3_level
 WHERE
-  (a.defense > 0 || a.type.toLowerCase() == 'charm') & & a.name != 'Unavailable'
+  (a.defense > 0 || a.type.toLowerCase() == 'charm') & & a.name != 'Unavailable' & & a.variant != 'low_rank'
