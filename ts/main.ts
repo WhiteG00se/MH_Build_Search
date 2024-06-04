@@ -24,12 +24,11 @@ async function fetchSkillData() {
 		console.error("Error fetching skill data:", error)
 	}
 }
-
 async function handleSkillSearchInput() {
 	const query = skillSearchInput.value.toLowerCase()
 	searchResults.innerHTML = ""
 
-	const skillNames = new Set(skillData.map((skill) => skill.id.split(": ")[1]))
+	const skillNames = Array.from(new Set(skillData.map((skill) => skill.id.split(": ")[1]))).sort()
 
 	skillNames.forEach((skillName) => {
 		if (skillName.toLowerCase().includes(query)) {

@@ -16,7 +16,7 @@ async function fetchSkillData() {
 async function handleSkillSearchInput() {
     const query = skillSearchInput.value.toLowerCase();
     searchResults.innerHTML = "";
-    const skillNames = new Set(skillData.map((skill) => skill.id.split(": ")[1]));
+    const skillNames = Array.from(new Set(skillData.map((skill) => skill.id.split(": ")[1]))).sort();
     skillNames.forEach((skillName) => {
         if (skillName.toLowerCase().includes(query)) {
             const li = document.createElement("li");
