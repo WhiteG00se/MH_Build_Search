@@ -1,4 +1,4 @@
-filter:
+filters
 
 SELECT
   a.id.replace(/^\d+:/,'').trim() AS id,

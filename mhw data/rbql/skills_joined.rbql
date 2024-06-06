@@ -1,0 +1,5 @@
+joins skill_data.csv with skill_point_data.csv
+
+SELECT *
+STRICT LEFT JOIN ./skill_point_data.csv
+ON a.id == b.name

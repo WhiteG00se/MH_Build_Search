@@ -1,0 +1,473 @@
+id;level;unlock_skill_1;unlock_skill_2;unlock_skill_3;unlock_skill_4;unlock_skill_5;unlock_skill_6;name;is_set_bonus
+Adrenaline;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Adrenaline;False
+Affinity Sliding;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Affinity Sliding;False
+Agitator;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Agitator;False
+Agitator;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Agitator;False
+Agitator;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Agitator;False
+Agitator;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Agitator;False
+Agitator;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Agitator;False
+Agitator;6;387: Brachydios Essence;469: Survivor;487: Brachydios Will;486: Brachydios Will;497: Fatalis Legend;500: Fatalis Legend;Agitator;False
+Agitator;7;387: Brachydios Essence;469: Survivor;487: Brachydios Will;486: Brachydios Will;497: Fatalis Legend;500: Fatalis Legend;Agitator;False
+Airborne;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Airborne;False
+Alatreon Divinity;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Alatreon Divinity;True
+Alatreon Divinity;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Alatreon Divinity;True
+Ancient Divinity;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ancient Divinity;True
+Anjanath Dominance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Anjanath Dominance;True
+Anjanath Power;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Anjanath Power;True
+Anjanath Will;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Anjanath Will;True
+Anjanath Will;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Anjanath Will;True
+Appreciation Blessing;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Appreciation Blessing;True
+Appreciation Blessing;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Appreciation Blessing;True
+Aquatic/Polar Mobility;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Aquatic/Polar Mobility;False
+Aquatic/Polar Mobility;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Aquatic/Polar Mobility;False
+Aquatic/Polar Mobility;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Aquatic/Polar Mobility;False
+Artillery;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Artillery;False
+Artillery;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Artillery;False
+Artillery;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Artillery;False
+Artillery;4;408: Zorah Magdaros Essence;486: Brachydios Will;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;Artillery;False
+Artillery;5;408: Zorah Magdaros Essence;486: Brachydios Will;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;Artillery;False
+Astera Blessing;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Astera Blessing;True
+Attack Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Attack Boost;False
+Attack Boost;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Attack Boost;False
+Attack Boost;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Attack Boost;False
+Attack Boost;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Attack Boost;False
+Attack Boost;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Attack Boost;False
+Attack Boost;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Attack Boost;False
+Attack Boost;7;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Attack Boost;False
+BBQ Master;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;BBQ Master;False
+Barioth Hidden Art;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Barioth Hidden Art;True
+Bazelgeuse Ambition;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bazelgeuse Ambition;True
+Bazelgeuse Protection;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bazelgeuse Protection;True
+Blast Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Attack;False
+Blast Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Attack;False
+Blast Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Attack;False
+Blast Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Attack;False
+Blast Functionality;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Functionality;False
+Blast Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Resistance;False
+Blast Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Resistance;False
+Blast Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blast Resistance;False
+Bleeding Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bleeding Resistance;False
+Bleeding Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bleeding Resistance;False
+Bleeding Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bleeding Resistance;False
+Blight Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blight Resistance;False
+Blight Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blight Resistance;False
+Blight Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blight Resistance;False
+Blindsider;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Blindsider;False
+Bludgeoner;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bludgeoner;False
+Bombardier;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bombardier;False
+Bombardier;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bombardier;False
+Bombardier;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bombardier;False
+Bombardier;4;417: Commission Alchemy;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Bombardier;False
+Bombardier;5;417: Commission Alchemy;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Bombardier;False
+Botanist;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Botanist;False
+Botanist;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Botanist;False
+Botanist;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Botanist;False
+Botanist;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Botanist;False
+Bow Charge Plus;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Bow Charge Plus;False
+Brachydios Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Brachydios Essence;True
+Brachydios Will;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Brachydios Will;True
+Brachydios Will;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Brachydios Will;True
+Capacity Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Capacity Boost;False
+Carving Pro;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Carving Pro;False
+Cliffhanger;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Cliffhanger;False
+Clutch Claw Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Clutch Claw Boost;False
+Coalescence;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Coalescence;False
+Coalescence;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Coalescence;False
+Coalescence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Coalescence;False
+Coldproof;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Coldproof;False
+Commission Alchemy;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Commission Alchemy;True
+Commission Guidance;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Commission Guidance;True
+Constitution;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Constitution;False
+Constitution;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Constitution;False
+Constitution;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Constitution;False
+Constitution;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Constitution;False
+Constitution;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Constitution;False
+Critical Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Boost;False
+Critical Boost;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Boost;False
+Critical Boost;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Boost;False
+Critical Draw;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Draw;False
+Critical Draw;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Draw;False
+Critical Draw;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Draw;False
+Critical Element;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Element;False
+Critical Eye;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Eye;False
+Critical Eye;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Eye;False
+Critical Eye;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Eye;False
+Critical Eye;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Eye;False
+Critical Eye;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Eye;False
+Critical Eye;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Eye;False
+Critical Eye;7;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Eye;False
+Critical Status;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Critical Status;False
+Defense Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Defense Boost;False
+Defense Boost;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Defense Boost;False
+Defense Boost;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Defense Boost;False
+Defense Boost;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Defense Boost;False
+Defense Boost;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Defense Boost;False
+Defense Boost;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Defense Boost;False
+Defense Boost;7;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Defense Boost;False
+Detector;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Detector;False
+Deviljho Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Deviljho Essence;True
+Diablos Ambition;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Diablos Ambition;True
+Diablos Mastery;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Diablos Mastery;True
+Diablos Mastery;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Diablos Mastery;True
+Diablos Power;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Diablos Power;True
+Divine Blessing;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Divine Blessing;False
+Divine Blessing;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Divine Blessing;False
+Divine Blessing;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Divine Blessing;False
+Divine Blessing;4;396: Gold Rathian Essence;404: Gold Rathian Essence;404: Gold Rathian Essence;404: Gold Rathian Essence;497: Fatalis Legend;500: Fatalis Legend;Divine Blessing;False
+Divine Blessing;5;396: Gold Rathian Essence;404: Gold Rathian Essence;404: Gold Rathian Essence;404: Gold Rathian Essence;497: Fatalis Legend;500: Fatalis Legend;Divine Blessing;False
+Dragon Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Attack;False
+Dragon Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Attack;False
+Dragon Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Attack;False
+Dragon Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Attack;False
+Dragon Attack;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Attack;False
+Dragon Attack;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Attack;False
+Dragon Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Resistance;False
+Dragon Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Resistance;False
+Dragon Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dragon Resistance;False
+Dungmaster;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Dungmaster;False
+Earplugs;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Earplugs;False
+Earplugs;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Earplugs;False
+Earplugs;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Earplugs;False
+Earplugs;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Earplugs;False
+Earplugs;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Earplugs;False
+Effluvia Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Effluvia Resistance;False
+Effluvia Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Effluvia Resistance;False
+Effluvia Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Effluvia Resistance;False
+Effluvial Expert;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Effluvial Expert;False
+Elderseal Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Elderseal Boost;False
+Entomologist;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Entomologist;False
+Entomologist;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Entomologist;False
+Entomologist;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Entomologist;False
+Evade Extender;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Extender;False
+Evade Extender;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Extender;False
+Evade Extender;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Extender;False
+Evade Window;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Window;False
+Evade Window;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Window;False
+Evade Window;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Window;False
+Evade Window;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Window;False
+Evade Window;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Evade Window;False
+Fatalis Legend;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fatalis Legend;True
+Fatalis Legend;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fatalis Legend;True
+Fire Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Attack;False
+Fire Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Attack;False
+Fire Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Attack;False
+Fire Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Attack;False
+Fire Attack;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Attack;False
+Fire Attack;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Attack;False
+Fire Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Resistance;False
+Fire Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Resistance;False
+Fire Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fire Resistance;False
+Flinch Free;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Flinch Free;False
+Flinch Free;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Flinch Free;False
+Flinch Free;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Flinch Free;False
+Focus;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Focus;False
+Focus;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Focus;False
+Focus;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Focus;False
+Forager's Luck;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Forager's Luck;False
+Fortify;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fortify;False
+Free Elem/Ammo Up;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Free Elem/Ammo Up;False
+Free Elem/Ammo Up;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Free Elem/Ammo Up;False
+Free Elem/Ammo Up;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Free Elem/Ammo Up;False
+Free Meal;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Free Meal;False
+Free Meal;2;384: Tigrex Essence;489: Kulve Taroth Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;Free Meal;False
+Free Meal;3;384: Tigrex Essence;489: Kulve Taroth Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;Free Meal;False
+Frostfang Absolute Art;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Frostfang Absolute Art;True
+Frostfang Absolute Art;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Frostfang Absolute Art;True
+Full Bloom Blessing;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Full Bloom Blessing;True
+Full Bloom Blessing;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Full Bloom Blessing;True
+Fun Fright Blessing;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fun Fright Blessing;True
+Fun Fright Blessing;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Fun Fright Blessing;True
+Geologist;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Geologist;False
+Geologist;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Geologist;False
+Geologist;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Geologist;False
+Glavenus Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Glavenus Essence;True
+Gold Rathian Essence;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Gold Rathian Essence;True
+Gold Rathian Essence;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Gold Rathian Essence;True
+Guard;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guard;False
+Guard;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guard;False
+Guard;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guard;False
+Guard;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guard;False
+Guard;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guard;False
+Guard Up;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guard Up;False
+Guild Guidance;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guild Guidance;True
+Guild Pride;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guild Pride;True
+Guild Pride;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guild Pride;True
+Guts;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Guts;False
+Handicraft;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Handicraft;False
+Handicraft;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Handicraft;False
+Handicraft;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Handicraft;False
+Handicraft;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Handicraft;False
+Handicraft;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Handicraft;False
+Hasten Recovery;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Hasten Recovery;False
+Health Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Health Boost;False
+Health Boost;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Health Boost;False
+Health Boost;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Health Boost;False
+Heat Guard;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heat Guard;False
+Heavy Artillery;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heavy Artillery;False
+Heavy Artillery;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heavy Artillery;False
+Heroics;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heroics;False
+Heroics;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heroics;False
+Heroics;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heroics;False
+Heroics;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heroics;False
+Heroics;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Heroics;False
+Heroics;6;483: Rajang Will;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Heroics;False
+Heroics;7;483: Rajang Will;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Heroics;False
+Honey Hunter;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Honey Hunter;False
+Horn Maestro;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Horn Maestro;False
+Horn Maestro;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Horn Maestro;False
+Hunger Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Hunger Resistance;False
+Hunger Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Hunger Resistance;False
+Hunger Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Hunger Resistance;False
+Ice Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Attack;False
+Ice Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Attack;False
+Ice Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Attack;False
+Ice Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Attack;False
+Ice Attack;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Attack;False
+Ice Attack;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Attack;False
+Ice Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Resistance;False
+Ice Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Resistance;False
+Ice Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Ice Resistance;False
+Instructor's Guidance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Instructor's Guidance;True
+Intimidator;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Intimidator;False
+Intimidator;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Intimidator;False
+Intimidator;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Intimidator;False
+Iron Skin;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Iron Skin;False
+Iron Skin;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Iron Skin;False
+Iron Skin;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Iron Skin;False
+Item Prolonger;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Item Prolonger;False
+Item Prolonger;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Item Prolonger;False
+Item Prolonger;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Item Prolonger;False
+Joyful Blessing;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Joyful Blessing;True
+Joyful Blessing;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Joyful Blessing;True
+Jump Master;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Jump Master;False
+Kirin Blessing;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Kirin Blessing;True
+Kirin Divinity;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Kirin Divinity;True
+Kirin Favor;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Kirin Favor;True
+Kulve Taroth Essence;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Kulve Taroth Essence;True
+Kulve Taroth Essence;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Kulve Taroth Essence;True
+Kushala Daora Flight;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Kushala Daora Flight;True
+Latent Power;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Latent Power;False
+Latent Power;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Latent Power;False
+Latent Power;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Latent Power;False
+Latent Power;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Latent Power;False
+Latent Power;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Latent Power;False
+Latent Power;6;381: Zinogre Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Latent Power;False
+Latent Power;7;381: Zinogre Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Latent Power;False
+Leap of Faith;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Leap of Faith;False
+Legiana Ambition;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Legiana Ambition;True
+Legiana Blessing;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Legiana Blessing;True
+Legiana Favor;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Legiana Favor;True
+Legiana Favor;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Legiana Favor;True
+Lunastra Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Lunastra Essence;True
+Lunastra Favor;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Lunastra Favor;True
+Lunastra Favor;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Lunastra Favor;True
+Marathon Runner;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Marathon Runner;False
+Marathon Runner;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Marathon Runner;False
+Marathon Runner;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Marathon Runner;False
+Master Fisher;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Master Fisher;False
+Master Gatherer;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Master Gatherer;False
+Master Mounter;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Master Mounter;False
+Maximum Might;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Maximum Might;False
+Maximum Might;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Maximum Might;False
+Maximum Might;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Maximum Might;False
+Maximum Might;4;390: Glavenus Essence;482: Rajang Will;483: Rajang Will;497: Fatalis Legend;500: Fatalis Legend;0: --------;Maximum Might;False
+Maximum Might;5;390: Glavenus Essence;482: Rajang Will;483: Rajang Will;497: Fatalis Legend;500: Fatalis Legend;0: --------;Maximum Might;False
+Mind's Eye/Ballistics;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Mind's Eye/Ballistics;False
+Muck Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Muck Resistance;False
+Mushroomancer;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Mushroomancer;False
+Mushroomancer;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Mushroomancer;False
+Mushroomancer;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Mushroomancer;False
+Namielle Divinity;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Namielle Divinity;True
+Namielle Divinity;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Namielle Divinity;True
+Nargacuga Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Nargacuga Essence;True
+Nergigante Ambition;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Nergigante Ambition;True
+Nergigante Hunger;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Nergigante Hunger;True
+New World;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;New World;True
+New World;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;New World;True
+Non-elemental Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Non-elemental Boost;False
+Normal Shots;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Normal Shots;False
+Normal Shots;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Normal Shots;False
+Odogaron Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Odogaron Essence;True
+Odogaron Mastery;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Odogaron Mastery;True
+Odogaron Mastery;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Odogaron Mastery;True
+Odogaron Power;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Odogaron Power;True
+Offensive Guard;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Offensive Guard;False
+Offensive Guard;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Offensive Guard;False
+Offensive Guard;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Offensive Guard;False
+Palico Rally;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Palico Rally;False
+Palico Rally;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Palico Rally;False
+Palico Rally;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Palico Rally;False
+Palico Rally;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Palico Rally;False
+Palico Rally;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Palico Rally;False
+Para Functionality;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Para Functionality;False
+Paralysis Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Paralysis Attack;False
+Paralysis Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Paralysis Attack;False
+Paralysis Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Paralysis Attack;False
+Paralysis Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Paralysis Attack;False
+Paralysis Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Paralysis Resistance;False
+Paralysis Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Paralysis Resistance;False
+Paralysis Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Paralysis Resistance;False
+Partbreaker;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Partbreaker;False
+Partbreaker;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Partbreaker;False
+Partbreaker;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Partbreaker;False
+Peak Performance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Peak Performance;False
+Peak Performance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Peak Performance;False
+Peak Performance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Peak Performance;False
+Piercing Shots;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Piercing Shots;False
+Piercing Shots;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Piercing Shots;False
+Pink Rathian Mastery;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Pink Rathian Mastery;True
+Poison Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Attack;False
+Poison Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Attack;False
+Poison Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Attack;False
+Poison Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Attack;False
+Poison Functionality;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Functionality;False
+Poison Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Resistance;False
+Poison Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Resistance;False
+Poison Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Poison Resistance;False
+Power Cell;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Power Cell;True
+Power Prolonger;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Power Prolonger;False
+Power Prolonger;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Power Prolonger;False
+Power Prolonger;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Power Prolonger;False
+Pro Transporter;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Pro Transporter;False
+Protective Polish;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Protective Polish;False
+Provoker;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Provoker;False
+Quick Sheath;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Quick Sheath;False
+Quick Sheath;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Quick Sheath;False
+Quick Sheath;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Quick Sheath;False
+Rajang Will;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rajang Will;True
+Rajang Will;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rajang Will;True
+Rajang's Rage;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rajang's Rage;True
+Rajang's Rage;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rajang's Rage;True
+Rathalos Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rathalos Essence;True
+Rathalos Mastery;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rathalos Mastery;True
+Rathalos Mastery;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rathalos Mastery;True
+Rathalos Power;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rathalos Power;True
+Rathian Essence;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Rathian Essence;True
+Razor Sharp/Spare Shot;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Razor Sharp/Spare Shot;False
+Recovery Speed;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Recovery Speed;False
+Recovery Speed;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Recovery Speed;False
+Recovery Speed;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Recovery Speed;False
+Recovery Up;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Recovery Up;False
+Recovery Up;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Recovery Up;False
+Recovery Up;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Recovery Up;False
+Resentment;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Resentment;False
+Resentment;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Resentment;False
+Resentment;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Resentment;False
+Resentment;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Resentment;False
+Resentment;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Resentment;False
+Resuscitate;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Resuscitate;False
+Safe Landing;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Safe Landing;False
+Safi'jiiva Seal;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Safi'jiiva Seal;True
+Safi'jiiva Seal;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Safi'jiiva Seal;True
+Scenthound;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Scenthound;False
+Scholar;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Scholar;False
+Scoutfly Range Up;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Scoutfly Range Up;False
+Shara Ishvalda Divinity;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Shara Ishvalda Divinity;True
+Shara Ishvalda Divinity;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Shara Ishvalda Divinity;True
+Silver Rathalos Essence;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Silver Rathalos Essence;True
+Silver Rathalos Essence;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Silver Rathalos Essence;True
+Sizzling Blessing;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sizzling Blessing;True
+Sizzling Blessing;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sizzling Blessing;True
+Sleep Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Attack;False
+Sleep Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Attack;False
+Sleep Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Attack;False
+Sleep Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Attack;False
+Sleep Functionality;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Functionality;False
+Sleep Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Resistance;False
+Sleep Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Resistance;False
+Sleep Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Sleep Resistance;False
+Slinger Capacity;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Slinger Capacity;False
+Slinger Capacity;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Slinger Capacity;False
+Slinger Capacity;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Slinger Capacity;False
+Slinger Capacity;4;393: Silver Rathalos Essence;403: Silver Rathalos Essence;403: Silver Rathalos Essence;403: Silver Rathalos Essence;497: Fatalis Legend;500: Fatalis Legend;Slinger Capacity;False
+Slinger Capacity;5;393: Silver Rathalos Essence;403: Silver Rathalos Essence;403: Silver Rathalos Essence;403: Silver Rathalos Essence;497: Fatalis Legend;500: Fatalis Legend;Slinger Capacity;False
+Slugger;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Slugger;False
+Slugger;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Slugger;False
+Slugger;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Slugger;False
+Slugger;4;411: Diablos Ambition;491: Frostfang Absolute Art;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;Slugger;False
+Slugger;5;411: Diablos Ambition;491: Frostfang Absolute Art;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;Slugger;False
+Soul of the Dragoon;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Soul of the Dragoon;True
+Soul of the Dragoon;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Soul of the Dragoon;True
+Special Ammo Boost;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Special Ammo Boost;False
+Special Ammo Boost;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Special Ammo Boost;False
+Speed Crawler;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Speed Crawler;False
+Speed Eating;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Speed Eating;False
+Speed Eating;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Speed Eating;False
+Speed Eating;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Speed Eating;False
+Speed Sharpening;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Speed Sharpening;False
+Speed Sharpening;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Speed Sharpening;False
+Speed Sharpening;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Speed Sharpening;False
+Spread/Power Shots;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Spread/Power Shots;False
+Spread/Power Shots;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Spread/Power Shots;False
+Stamina Surge;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stamina Surge;False
+Stamina Surge;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stamina Surge;False
+Stamina Surge;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stamina Surge;False
+Stamina Thief;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stamina Thief;False
+Stamina Thief;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stamina Thief;False
+Stamina Thief;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stamina Thief;False
+Stamina Thief;4;414: Deviljho Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Stamina Thief;False
+Stamina Thief;5;414: Deviljho Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Stamina Thief;False
+Stealth;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stealth;False
+Stealth;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stealth;False
+Stealth;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stealth;False
+Stun Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stun Resistance;False
+Stun Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stun Resistance;False
+Stun Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Stun Resistance;False
+Survival Expert;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Survival Expert;False
+Survival Expert;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Survival Expert;False
+Survival Expert;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Survival Expert;False
+Survivor;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Survivor;True
+Survivor;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Survivor;True
+Teostra Technique;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Teostra Technique;True
+Thunder Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Attack;False
+Thunder Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Attack;False
+Thunder Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Attack;False
+Thunder Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Attack;False
+Thunder Attack;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Attack;False
+Thunder Attack;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Attack;False
+Thunder Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Resistance;False
+Thunder Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Resistance;False
+Thunder Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Thunder Resistance;False
+Tigrex Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Tigrex Essence;True
+Tool Specialist;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Tool Specialist;False
+Tool Specialist;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Tool Specialist;False
+Tool Specialist;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Tool Specialist;False
+Tool Specialist;4;405: Lunastra Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Tool Specialist;False
+Tool Specialist;5;405: Lunastra Essence;497: Fatalis Legend;500: Fatalis Legend;0: --------;0: --------;0: --------;Tool Specialist;False
+Tremor Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Tremor Resistance;False
+Tremor Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Tremor Resistance;False
+Tremor Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Tremor Resistance;False
+Uragaan Ambition;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Uragaan Ambition;True
+Uragaan Protection;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Uragaan Protection;True
+Vaal Hazak Vitality;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Vaal Hazak Vitality;True
+Vaal Soulvein;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Vaal Soulvein;True
+Velkhana Divinity;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Velkhana Divinity;True
+Velkhana Divinity;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Velkhana Divinity;True
+Water Attack;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Attack;False
+Water Attack;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Attack;False
+Water Attack;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Attack;False
+Water Attack;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Attack;False
+Water Attack;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Attack;False
+Water Attack;6;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Attack;False
+Water Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Resistance;False
+Water Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Resistance;False
+Water Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Water Resistance;False
+Weakness Exploit;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Weakness Exploit;False
+Weakness Exploit;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Weakness Exploit;False
+Weakness Exploit;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Weakness Exploit;False
+Wide-Range;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Wide-Range;False
+Wide-Range;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Wide-Range;False
+Wide-Range;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Wide-Range;False
+Wide-Range;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Wide-Range;False
+Wide-Range;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Wide-Range;False
+Windproof;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Windproof;False
+Windproof;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Windproof;False
+Windproof;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Windproof;False
+Windproof;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Windproof;False
+Windproof;5;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Windproof;False
+Witcher's Knowledge;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Witcher's Knowledge;True
+Witcher's Knowledge;4;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Witcher's Knowledge;True
+Xeno'jiiva Divinity;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Xeno'jiiva Divinity;True
+Zinogre Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Zinogre Essence;True
+Zorah Magdaros Essence;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Zorah Magdaros Essence;True
+Zorah Magdaros Mastery;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;Zorah Magdaros Mastery;True
