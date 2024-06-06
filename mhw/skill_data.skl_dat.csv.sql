@@ -8,4 +8,4 @@ SELECT
   a.unlock_skill_5,
   a.unlock_skill_6
 WHERE
-  ! a.id.includes('Unavailable') && ! a.id.includes('--------')
+  ! a.id.includes('Unavailable')

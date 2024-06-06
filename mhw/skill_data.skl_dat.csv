@@ -1,5 +1,4 @@
 index;id;level;unlock_skill_1;unlock_skill_2;unlock_skill_3;unlock_skill_4;unlock_skill_5;unlock_skill_6;param_5;param_6;param_7;param_8;description
-0;0: --------;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;0;0;0;0;Unavailable
 1;1: Poison Resistance;1;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;200;0;0;0;Reduces damage while poisoned.
 2;1: Poison Resistance;2;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;300;0;0;0;Reduces damage while poisoned.
 3;1: Poison Resistance;3;0: --------;0: --------;0: --------;0: --------;0: --------;0: --------;0;0;0;0;Reduces damage while poisoned.
