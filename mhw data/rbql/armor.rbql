@@ -14,12 +14,12 @@ SELECT
   a.slot_1_size,
   a.slot_2_size,
   a.slot_3_size,
-  a.set_skill_1,
-  a.skill_1,
+  a.set_skill_1.replace(/^\d+:/,'').trim() AS set_skill_1,
+  a.skill_1.replace(/^\d+:/,'').trim() AS skill_1,
   a.skill_1_level,
-  a.skill_2,
+  a.skill_2.replace(/^\d+:/,'').trim() AS skill_2,
   a.skill_2_level,
-  a.skill_3,
+  a.skill_3.replace(/^\d+:/,'').trim() AS skill_3,
   a.skill_3_level
 WHERE
   (a.defense > 0 || a.type.toLowerCase() == 'charm')
