@@ -3,12 +3,12 @@ filters
 SELECT
   a.id.replace(/^\d+:/,'').trim() AS id,
   a.level,
-  a.unlock_skill_1,
-  a.unlock_skill_2,
-  a.unlock_skill_3,
-  a.unlock_skill_4,
-  a.unlock_skill_5,
-  a.unlock_skill_6
+  a.unlock_skill_1.replace(/^\d+:/,'').trim() AS unlock_skill_1,
+  a.unlock_skill_2.replace(/^\d+:/,'').trim() AS unlock_skill_2,
+  a.unlock_skill_3.replace(/^\d+:/,'').trim() AS unlock_skill_3,
+  a.unlock_skill_4.replace(/^\d+:/,'').trim() AS unlock_skill_4,
+  a.unlock_skill_5.replace(/^\d+:/,'').trim() AS unlock_skill_5,
+  a.unlock_skill_6.replace(/^\d+:/,'').trim() AS unlock_skill_6
 WHERE
   !a.id.includes('Unavailable')
   && !a.id.includes('--------')

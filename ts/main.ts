@@ -18,7 +18,7 @@ let selectedSkillIds: Set<string> = new Set()
 
 async function fetchSkillData() {
 	try {
-		const response = await fetch("mhw/skill_data.skl_dat.csv.tsv.json")
+		const response = await fetch("mhw data\json\skills_joined.json")
 		skillData = await response.json()
 	} catch (error) {
 		console.error("Error fetching skill data:", error)
