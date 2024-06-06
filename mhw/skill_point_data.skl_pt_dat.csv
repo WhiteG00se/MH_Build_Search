@@ -1,0 +1,226 @@
+name;id;index;is_set_bonus;icon_color_id
+Poison Resistance;1;1;False;5
+Paralysis Resistance;2;2;False;9
+Sleep Resistance;3;3;False;6
+Stun Resistance;4;4;False;4
+Muck Resistance;5;5;False;10
+Blast Resistance;6;6;False;25
+Bleeding Resistance;7;7;False;7
+Iron Skin;8;8;False;7
+Unavailable;9;9;False;19
+Unavailable;10;10;False;0
+Earplugs;11;11;False;0
+Windproof;12;12;False;0
+Tremor Resistance;13;13;False;10
+Dungmaster;14;14;False;11
+Unavailable;15;15;False;0
+Effluvial Expert;16;16;False;11
+Heat Guard;17;17;False;7
+Unavailable;18;18;False;0
+Attack Boost;19;19;False;1
+Defense Boost;20;20;False;7
+Health Boost;21;21;False;2
+Recovery Up;22;22;False;2
+Recovery Speed;23;23;False;2
+Fire Resistance;24;24;False;1
+Water Resistance;25;25;False;3
+Ice Resistance;26;26;False;0
+Thunder Resistance;27;27;False;4
+Dragon Resistance;28;28;False;14
+Blight Resistance;29;29;False;19
+Fire Attack;30;30;False;1
+Water Attack;31;31;False;3
+Ice Attack;32;32;False;0
+Thunder Attack;33;33;False;4
+Dragon Attack;34;34;False;14
+Poison Attack;35;35;False;5
+Paralysis Attack;36;36;False;9
+Sleep Attack;37;37;False;6
+Blast Attack;38;38;False;25
+Normal Shots;39;39;False;0
+Piercing Shots;40;40;False;3
+Spread/Power Shots;41;41;False;13
+Poison Functionality;42;42;False;5
+Para Functionality;43;43;False;9
+Sleep Functionality;44;44;False;6
+Unavailable;45;45;False;1
+Blast Functionality;46;46;False;25
+Free Elem/Ammo Up;47;47;False;12
+Critical Eye;48;48;False;15
+Critical Boost;49;49;False;15
+Weakness Exploit;50;50;False;15
+Unavailable;51;51;False;8
+Focus;52;52;False;24
+Power Prolonger;53;53;False;24
+Handicraft;54;54;False;0
+Critical Draw;55;55;False;15
+Partbreaker;56;56;False;10
+Slugger;57;57;False;4
+Stamina Thief;58;58;False;6
+Master Mounter;59;59;False;3
+Airborne;60;60;False;3
+Latent Power;61;61;False;1
+Agitator;62;62;False;1
+Peak Performance;63;63;False;1
+Heroics;64;64;False;1
+Fortify;65;65;False;14
+Resentment;66;66;False;14
+Resuscitate;67;67;False;6
+Horn Maestro;68;68;False;0
+Capacity Boost;69;69;False;10
+Special Ammo Boost;70;70;False;10
+Artillery;71;71;False;10
+Heavy Artillery;72;72;False;10
+Marathon Runner;73;73;False;7
+Constitution;74;74;False;7
+Leap of Faith;75;75;False;6
+Stamina Surge;76;76;False;7
+Hunger Resistance;77;77;False;7
+Evade Window;78;78;False;6
+Evade Extender;79;79;False;6
+Guard;80;80;False;10
+Quick Sheath;81;81;False;24
+Wide-Range;82;82;False;0
+Item Prolonger;83;83;False;24
+Free Meal;84;84;False;24
+Speed Eating;85;85;False;7
+Speed Sharpening;86;86;False;4
+Unavailable;87;87;False;0
+Bombardier;88;88;False;25
+Unavailable;89;89;False;0
+Mushroomancer;90;90;False;5
+Master Fisher;91;91;False;3
+BBQ Master;92;92;False;1
+Pro Transporter;93;93;False;24
+Master Gatherer;94;94;False;26
+Honey Hunter;95;95;False;7
+Carving Pro;96;96;False;10
+Divine Blessing;97;97;False;3
+Palico Rally;98;98;False;24
+Botanist;99;99;False;26
+Geologist;100;100;False;24
+Maximum Might;101;101;False;1
+Slinger Capacity;102;102;False;26
+Stealth;103;103;False;10
+Flinch Free;104;104;False;10
+Scoutfly Range Up;105;105;False;26
+Speed Crawler;106;106;False;0
+Jump Master;107;107;False;3
+Survival Expert;108;108;False;0
+Aquatic/Polar Mobility;109;109;False;3
+Unavailable;110;110;False;0
+Cliffhanger;111;111;False;7
+Blindsider;112;112;False;4
+Unavailable;113;113;False;0
+Scholar;114;114;False;26
+Entomologist;115;115;False;2
+Effluvia Resistance;116;116;False;11
+Scenthound;117;117;False;7
+Forager's Luck;118;118;False;0
+Detector;119;119;False;0
+Tool Specialist;120;120;False;24
+Unavailable;121;121;False;1
+Affinity Sliding;122;122;False;1
+Elderseal Boost;123;123;False;14
+Intimidator;124;124;False;0
+Anjanath Power;125;125;True;8
+Nergigante Hunger;126;126;True;10
+Vaal Hazak Vitality;127;127;True;0
+Rathalos Power;128;128;True;1
+Diablos Power;129;129;True;11
+Kirin Blessing;130;130;True;0
+Pink Rathian Mastery;131;131;True;8
+Anjanath Will;132;132;True;8
+Unavailable;133;133;True;0
+Unavailable;134;134;True;0
+Rathalos Mastery;135;135;True;1
+Diablos Mastery;136;136;True;11
+Kirin Favor;137;137;True;0
+Uragaan Protection;138;138;True;4
+Unavailable;139;139;True;0
+Unavailable;140;140;True;0
+Unavailable;141;141;True;0
+Bazelgeuse Protection;142;142;True;0
+Teostra Technique;143;143;True;1
+Kushala Daora Flight;144;144;True;10
+Xeno'jiiva Divinity;145;145;True;0
+Unavailable;146;146;True;0
+Zorah Magdaros Mastery;147;147;True;10
+Unavailable;148;148;False;0
+Guild Guidance;149;149;True;4
+Commission Guidance;150;150;True;26
+Legiana Blessing;151;151;True;3
+Legiana Favor;152;152;True;3
+Odogaron Power;153;153;True;14
+Odogaron Mastery;154;154;True;14
+Bow Charge Plus;155;155;False;3
+Mind's Eye/Ballistics;156;156;False;1
+Guard Up;157;157;False;4
+Protective Polish;158;158;False;14
+Non-elemental Boost;159;159;False;11
+Guts;160;160;False;1
+Hasten Recovery;161;161;False;2
+Razor Sharp/Spare Shot;162;162;False;0
+Lunastra Favor;163;163;True;3
+Soul of the Dragoon;164;164;True;5
+Critical Element;165;165;False;0
+Critical Status;166;166;False;0
+Witcher's Knowledge;167;167;True;0
+Astera Blessing;168;168;True;0
+Zinogre Essence;169;169;True;12
+Tigrex Essence;170;170;True;7
+Nargacuga Essence;171;171;True;5
+Brachydios Essence;172;172;True;3
+Glavenus Essence;173;173;True;15
+Silver Rathalos Essence;174;174;True;0
+Gold Rathian Essence;175;175;True;4
+Shara Ishvalda Divinity;176;176;True;24
+Namielle Divinity;177;177;True;19
+Velkhana Divinity;178;178;True;0
+Ancient Divinity;179;179;True;24
+Commission Alchemy;180;180;True;11
+Instructor's Guidance;181;181;True;25
+Anjanath Dominance;182;182;True;8
+Rathian Essence;183;183;True;2
+Provoker;184;184;False;7
+Offensive Guard;185;185;False;0
+Coalescence;186;186;False;5
+Safe Landing;187;187;False;3
+Barioth Hidden Art;188;188;True;0
+Rathalos Essence;189;189;True;1
+Diablos Ambition;190;190;True;11
+Legiana Ambition;191;191;True;3
+Odogaron Essence;192;192;True;14
+Uragaan Ambition;193;193;True;4
+Bazelgeuse Ambition;194;194;True;1
+Deviljho Essence;195;195;True;14
+Vaal Soulvein;196;196;True;0
+Unavailable;197;197;True;1
+Unavailable;198;198;True;10
+Kirin Divinity;199;199;True;0
+Guild Pride;200;200;True;4
+Zorah Magdaros Essence;201;201;True;10
+Lunastra Essence;202;202;True;3
+Nergigante Ambition;203;203;True;0
+Unavailable;204;204;False;0
+Bludgeoner;205;205;False;11
+Adrenaline;206;206;False;8
+Coldproof;207;207;False;0
+Rajang's Rage;208;208;True;4
+Power Cell;209;209;True;0
+Survivor;210;210;True;14
+Safi'jiiva Seal;211;211;True;1
+Joyful Blessing;212;212;True;25
+Appreciation Blessing;213;213;True;3
+Full Bloom Blessing;214;214;True;14
+Sizzling Blessing;215;215;True;7
+Fun Fright Blessing;216;216;True;16
+Rajang Will;217;217;True;4
+Brachydios Will;218;218;True;26
+Kulve Taroth Essence;219;219;True;4
+Frostfang Absolute Art;220;220;True;0
+Alatreon Divinity;221;221;True;5
+Fatalis Legend;222;222;True;10
+Clutch Claw Boost;223;223;False;1
+New World;224;224;True;24
+Unavailable;225;225;False;0
