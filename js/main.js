@@ -6,7 +6,7 @@ let skillData = [];
 let selectedSkillIds = new Set();
 async function fetchSkillData() {
     try {
-        const response = await fetch("mhw/skill_data.skl_dat.csv.tsv.json");
+        const response = await fetch("mhw data/json/skills_joined.json");
         skillData = await response.json();
     }
     catch (error) {
@@ -16,7 +16,7 @@ async function fetchSkillData() {
 async function handleSkillSearchInput() {
     const query = skillSearchInput.value.toLowerCase();
     searchResults.innerHTML = "";
-    const skillNames = Array.from(new Set(skillData.map((skill) => skill.id.split(": ")[1]))).sort();
+    const skillNames = Array.from(new Set(skillData.map((skill) => skill.id))).sort();
     skillNames.forEach((skillName) => {
         if (skillName.toLowerCase().includes(query)) {
             const li = document.createElement("li");
@@ -62,7 +62,7 @@ async function addSkill(skillName) {
     });
     radioBtnGroup.appendChild(defaultRadioBtn);
     radioBtnGroup.appendChild(defaultLabel);
-    const levels = skillData.filter((skill) => skill.id.split(": ")[1] === skillName);
+    const levels = skillData.filter((skill) => skill.id === skillName);
     levels.forEach((level) => {
         const radioBtn = document.createElement("input");
         radioBtn.type = "radio";

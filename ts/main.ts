@@ -7,6 +7,7 @@ interface Skill {
 	unlock_skill_4: string
 	unlock_skill_5: string
 	unlock_skill_6: string
+	is_set_bonus: boolean
 }
 
 const skillSearchInput = document.getElementById("skillSearch") as HTMLInputElement
@@ -18,7 +19,7 @@ let selectedSkillIds: Set<string> = new Set()
 
 async function fetchSkillData() {
 	try {
-		const response = await fetch("mhw data\json\skills_joined.json")
+		const response = await fetch("mhw data/json/skills_joined.json")
 		skillData = await response.json()
 	} catch (error) {
 		console.error("Error fetching skill data:", error)
@@ -28,7 +29,7 @@ async function handleSkillSearchInput() {
 	const query = skillSearchInput.value.toLowerCase()
 	searchResults.innerHTML = ""
 
-	const skillNames = Array.from(new Set(skillData.map((skill) => skill.id.split(": ")[1]))).sort()
+	const skillNames = Array.from(new Set(skillData.map((skill) => skill.id))).sort()
 
 	skillNames.forEach((skillName) => {
 		if (skillName.toLowerCase().includes(query)) {
@@ -90,7 +91,7 @@ async function addSkill(skillName: string) {
 	radioBtnGroup.appendChild(defaultRadioBtn)
 	radioBtnGroup.appendChild(defaultLabel)
 
-	const levels = skillData.filter((skill) => skill.id.split(": ")[1] === skillName)
+	const levels = skillData.filter((skill) => skill.id === skillName)
 	levels.forEach((level) => {
 		const radioBtn = document.createElement("input")
 		radioBtn.type = "radio"
