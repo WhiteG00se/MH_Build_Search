@@ -1,204 +1,204 @@
 name;is_set_bonus
-Poison Resistance;False
-Paralysis Resistance;False
-Sleep Resistance;False
-Stun Resistance;False
-Muck Resistance;False
+Adrenaline;False
+Affinity Sliding;False
+Agitator;False
+Airborne;False
+Alatreon Divinity;True
+Ancient Divinity;True
+Anjanath Dominance;True
+Anjanath Power;True
+Anjanath Will;True
+Appreciation Blessing;True
+Aquatic/Polar Mobility;False
+Artillery;False
+Astera Blessing;True
+Attack Boost;False
+BBQ Master;False
+Barioth Hidden Art;True
+Bazelgeuse Ambition;True
+Bazelgeuse Protection;True
+Blast Attack;False
+Blast Functionality;False
 Blast Resistance;False
 Bleeding Resistance;False
-Iron Skin;False
-Earplugs;False
-Windproof;False
-Tremor Resistance;False
-Dungmaster;False
-Effluvial Expert;False
-Heat Guard;False
-Attack Boost;False
-Defense Boost;False
-Health Boost;False
-Recovery Up;False
-Recovery Speed;False
-Fire Resistance;False
-Water Resistance;False
-Ice Resistance;False
-Thunder Resistance;False
-Dragon Resistance;False
 Blight Resistance;False
-Fire Attack;False
-Water Attack;False
-Ice Attack;False
-Thunder Attack;False
-Dragon Attack;False
-Poison Attack;False
-Paralysis Attack;False
-Sleep Attack;False
-Blast Attack;False
-Normal Shots;False
-Piercing Shots;False
-Spread/Power Shots;False
-Poison Functionality;False
-Para Functionality;False
-Sleep Functionality;False
-Blast Functionality;False
-Free Elem/Ammo Up;False
-Critical Eye;False
-Critical Boost;False
-Weakness Exploit;False
-Focus;False
-Power Prolonger;False
-Handicraft;False
-Critical Draw;False
-Partbreaker;False
-Slugger;False
-Stamina Thief;False
-Master Mounter;False
-Airborne;False
-Latent Power;False
-Agitator;False
-Peak Performance;False
-Heroics;False
-Fortify;False
-Resentment;False
-Resuscitate;False
-Horn Maestro;False
-Capacity Boost;False
-Special Ammo Boost;False
-Artillery;False
-Heavy Artillery;False
-Marathon Runner;False
-Constitution;False
-Leap of Faith;False
-Stamina Surge;False
-Hunger Resistance;False
-Evade Window;False
-Evade Extender;False
-Guard;False
-Quick Sheath;False
-Wide-Range;False
-Item Prolonger;False
-Free Meal;False
-Speed Eating;False
-Speed Sharpening;False
-Bombardier;False
-Mushroomancer;False
-Master Fisher;False
-BBQ Master;False
-Pro Transporter;False
-Master Gatherer;False
-Honey Hunter;False
-Carving Pro;False
-Divine Blessing;False
-Palico Rally;False
-Botanist;False
-Geologist;False
-Maximum Might;False
-Slinger Capacity;False
-Stealth;False
-Flinch Free;False
-Scoutfly Range Up;False
-Speed Crawler;False
-Jump Master;False
-Survival Expert;False
-Aquatic/Polar Mobility;False
-Cliffhanger;False
 Blindsider;False
-Scholar;False
-Entomologist;False
-Effluvia Resistance;False
-Scenthound;False
-Forager's Luck;False
-Detector;False
-Tool Specialist;False
-Affinity Sliding;False
-Elderseal Boost;False
-Intimidator;False
-Anjanath Power;True
-Nergigante Hunger;True
-Vaal Hazak Vitality;True
-Rathalos Power;True
-Diablos Power;True
-Kirin Blessing;True
-Pink Rathian Mastery;True
-Anjanath Will;True
-Rathalos Mastery;True
-Diablos Mastery;True
-Kirin Favor;True
-Uragaan Protection;True
-Bazelgeuse Protection;True
-Teostra Technique;True
-Kushala Daora Flight;True
-Xeno'jiiva Divinity;True
-Zorah Magdaros Mastery;True
-Guild Guidance;True
+Bludgeoner;False
+Bombardier;False
+Botanist;False
+Bow Charge Plus;False
+Brachydios Essence;True
+Brachydios Will;True
+Capacity Boost;False
+Carving Pro;False
+Cliffhanger;False
+Clutch Claw Boost;False
+Coalescence;False
+Coldproof;False
+Commission Alchemy;True
 Commission Guidance;True
+Constitution;False
+Critical Boost;False
+Critical Draw;False
+Critical Element;False
+Critical Eye;False
+Critical Status;False
+Defense Boost;False
+Detector;False
+Deviljho Essence;True
+Diablos Ambition;True
+Diablos Mastery;True
+Diablos Power;True
+Divine Blessing;False
+Dragon Attack;False
+Dragon Resistance;False
+Dungmaster;False
+Earplugs;False
+Effluvia Resistance;False
+Effluvial Expert;False
+Elderseal Boost;False
+Entomologist;False
+Evade Extender;False
+Evade Window;False
+Fatalis Legend;True
+Fire Attack;False
+Fire Resistance;False
+Flinch Free;False
+Focus;False
+Forager's Luck;False
+Fortify;False
+Free Elem/Ammo Up;False
+Free Meal;False
+Frostfang Absolute Art;True
+Full Bloom Blessing;True
+Fun Fright Blessing;True
+Geologist;False
+Glavenus Essence;True
+Gold Rathian Essence;True
+Guard;False
+Guard Up;False
+Guild Guidance;True
+Guild Pride;True
+Guts;False
+Handicraft;False
+Hasten Recovery;False
+Health Boost;False
+Heat Guard;False
+Heavy Artillery;False
+Heroics;False
+Honey Hunter;False
+Horn Maestro;False
+Hunger Resistance;False
+Ice Attack;False
+Ice Resistance;False
+Instructor's Guidance;True
+Intimidator;False
+Iron Skin;False
+Item Prolonger;False
+Joyful Blessing;True
+Jump Master;False
+Kirin Blessing;True
+Kirin Divinity;True
+Kirin Favor;True
+Kulve Taroth Essence;True
+Kushala Daora Flight;True
+Latent Power;False
+Leap of Faith;False
+Legiana Ambition;True
 Legiana Blessing;True
 Legiana Favor;True
-Odogaron Power;True
-Odogaron Mastery;True
-Bow Charge Plus;False
-Mind's Eye/Ballistics;False
-Guard Up;False
-Protective Polish;False
-Non-elemental Boost;False
-Guts;False
-Hasten Recovery;False
-Razor Sharp/Spare Shot;False
-Lunastra Favor;True
-Soul of the Dragoon;True
-Critical Element;False
-Critical Status;False
-Witcher's Knowledge;True
-Astera Blessing;True
-Zinogre Essence;True
-Tigrex Essence;True
-Nargacuga Essence;True
-Brachydios Essence;True
-Glavenus Essence;True
-Silver Rathalos Essence;True
-Gold Rathian Essence;True
-Shara Ishvalda Divinity;True
-Namielle Divinity;True
-Velkhana Divinity;True
-Ancient Divinity;True
-Commission Alchemy;True
-Instructor's Guidance;True
-Anjanath Dominance;True
-Rathian Essence;True
-Provoker;False
-Offensive Guard;False
-Coalescence;False
-Safe Landing;False
-Barioth Hidden Art;True
-Rathalos Essence;True
-Diablos Ambition;True
-Legiana Ambition;True
-Odogaron Essence;True
-Uragaan Ambition;True
-Bazelgeuse Ambition;True
-Deviljho Essence;True
-Vaal Soulvein;True
-Kirin Divinity;True
-Guild Pride;True
-Zorah Magdaros Essence;True
 Lunastra Essence;True
+Lunastra Favor;True
+Marathon Runner;False
+Master Fisher;False
+Master Gatherer;False
+Master Mounter;False
+Maximum Might;False
+Mind's Eye/Ballistics;False
+Muck Resistance;False
+Mushroomancer;False
+Namielle Divinity;True
+Nargacuga Essence;True
 Nergigante Ambition;True
-Bludgeoner;False
-Adrenaline;False
-Coldproof;False
-Rajang's Rage;True
-Power Cell;True
-Survivor;True
-Safi'jiiva Seal;True
-Joyful Blessing;True
-Appreciation Blessing;True
-Full Bloom Blessing;True
-Sizzling Blessing;True
-Fun Fright Blessing;True
-Rajang Will;True
-Brachydios Will;True
-Kulve Taroth Essence;True
-Frostfang Absolute Art;True
-Alatreon Divinity;True
-Fatalis Legend;True
-Clutch Claw Boost;False
+Nergigante Hunger;True
 New World;True
+Non-elemental Boost;False
+Normal Shots;False
+Odogaron Essence;True
+Odogaron Mastery;True
+Odogaron Power;True
+Offensive Guard;False
+Palico Rally;False
+Para Functionality;False
+Paralysis Attack;False
+Paralysis Resistance;False
+Partbreaker;False
+Peak Performance;False
+Piercing Shots;False
+Pink Rathian Mastery;True
+Poison Attack;False
+Poison Functionality;False
+Poison Resistance;False
+Power Cell;True
+Power Prolonger;False
+Pro Transporter;False
+Protective Polish;False
+Provoker;False
+Quick Sheath;False
+Rajang Will;True
+Rajang's Rage;True
+Rathalos Essence;True
+Rathalos Mastery;True
+Rathalos Power;True
+Rathian Essence;True
+Razor Sharp/Spare Shot;False
+Recovery Speed;False
+Recovery Up;False
+Resentment;False
+Resuscitate;False
+Safe Landing;False
+Safi'jiiva Seal;True
+Scenthound;False
+Scholar;False
+Scoutfly Range Up;False
+Shara Ishvalda Divinity;True
+Silver Rathalos Essence;True
+Sizzling Blessing;True
+Sleep Attack;False
+Sleep Functionality;False
+Sleep Resistance;False
+Slinger Capacity;False
+Slugger;False
+Soul of the Dragoon;True
+Special Ammo Boost;False
+Speed Crawler;False
+Speed Eating;False
+Speed Sharpening;False
+Spread/Power Shots;False
+Stamina Surge;False
+Stamina Thief;False
+Stealth;False
+Stun Resistance;False
+Survival Expert;False
+Survivor;True
+Teostra Technique;True
+Thunder Attack;False
+Thunder Resistance;False
+Tigrex Essence;True
+Tool Specialist;False
+Tremor Resistance;False
+Uragaan Ambition;True
+Uragaan Protection;True
+Vaal Hazak Vitality;True
+Vaal Soulvein;True
+Velkhana Divinity;True
+Water Attack;False
+Water Resistance;False
+Weakness Exploit;False
+Wide-Range;False
+Windproof;False
+Witcher's Knowledge;True
+Xeno'jiiva Divinity;True
+Zinogre Essence;True
+Zorah Magdaros Essence;True
+Zorah Magdaros Mastery;True
