@@ -30,8 +30,12 @@ async function handleSkillSearchInput() {
 	searchResults.innerHTML = ""
 
 	const skillNames = Array.from(new Set(skillData.map((skill) => skill.id))).sort()
+	let resultsCount = 0
 
 	skillNames.forEach((skillName) => {
+		if (resultsCount >= 10) {
+			return
+		}
 		if (skillName.toLowerCase().includes(query)) {
 			const li = document.createElement("li")
 			li.className = "list-group-item bg-secondary text-light"
@@ -50,6 +54,8 @@ async function handleSkillSearchInput() {
 			li.addEventListener("click", () => {
 				addSkill(skillName)
 			})
+
+			resultsCount++
 		}
 	})
 }
