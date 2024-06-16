@@ -20,7 +20,31 @@ let selectedSkillIds: Set<string> = new Set()
 async function fetchSkillData() {
 	try {
 		const response = await fetch("mhw data/json/skills_joined.json")
-		skillData = await response.json()
+		const data = await response.json()
+
+		skillData = data.map((item: any) => ({
+			id: item.id,
+			level: item.level,
+			unlock_skill_1: item.unlock_skill_1,
+			unlock_skill_2: item.unlock_skill_2,
+			unlock_skill_3: item.unlock_skill_3,
+			unlock_skill_4: item.unlock_skill_4,
+			unlock_skill_5: item.unlock_skill_5,
+			unlock_skill_6: item.unlock_skill_6,
+			is_set_bonus: item.is_set_bonus.toLowerCase() === "true"
+		}))
+
+		const weaponSkillSelect = document.getElementById("weaponSkill") as HTMLSelectElement
+		const addedSkills = new Set<string>()
+		skillData.forEach((skill) => {
+			if (skill.is_set_bonus && !addedSkills.has(skill.id)) {
+				const option = document.createElement("option")
+				option.value = skill.id
+				option.text = skill.id
+				weaponSkillSelect.add(option)
+				addedSkills.add(skill.id)
+			}
+		})
 	} catch (error) {
 		console.error("Error fetching skill data:", error)
 	}
