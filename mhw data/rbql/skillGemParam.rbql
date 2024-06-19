@@ -1,0 +1,9 @@
+filters
+
+SELECT
+  a.id.replace(/^\d+:/,'').trim() AS id,
+  a.size.replace(/^\d+:/,'').trim() AS size,
+  a.skill_1.replace(/^\d+:/,'').trim() AS skill_1,
+  a.skill_1_level,
+  a.skill_2.replace(/^\d+:/,'').trim() AS skill_2,
+  a.skill_2_level
