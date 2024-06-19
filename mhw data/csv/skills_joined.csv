@@ -1,473 +1,473 @@
-id;level;unlock_skill_1;unlock_skill_2;unlock_skill_3;unlock_skill_4;unlock_skill_5;unlock_skill_6;name;is_set_bonus
-Adrenaline;1;--------;--------;--------;--------;--------;--------;Adrenaline;False
-Affinity Sliding;1;--------;--------;--------;--------;--------;--------;Affinity Sliding;False
-Agitator;1;--------;--------;--------;--------;--------;--------;Agitator;False
-Agitator;2;--------;--------;--------;--------;--------;--------;Agitator;False
-Agitator;3;--------;--------;--------;--------;--------;--------;Agitator;False
-Agitator;4;--------;--------;--------;--------;--------;--------;Agitator;False
-Agitator;5;--------;--------;--------;--------;--------;--------;Agitator;False
-Agitator;6;Brachydios Essence;Survivor;Brachydios Will;Brachydios Will;Fatalis Legend;Fatalis Legend;Agitator;False
-Agitator;7;Brachydios Essence;Survivor;Brachydios Will;Brachydios Will;Fatalis Legend;Fatalis Legend;Agitator;False
-Airborne;1;--------;--------;--------;--------;--------;--------;Airborne;False
-Alatreon Divinity;2;--------;--------;--------;--------;--------;--------;Alatreon Divinity;True
-Alatreon Divinity;3;--------;--------;--------;--------;--------;--------;Alatreon Divinity;True
-Ancient Divinity;2;--------;--------;--------;--------;--------;--------;Ancient Divinity;True
-Anjanath Dominance;2;--------;--------;--------;--------;--------;--------;Anjanath Dominance;True
-Anjanath Power;3;--------;--------;--------;--------;--------;--------;Anjanath Power;True
-Anjanath Will;2;--------;--------;--------;--------;--------;--------;Anjanath Will;True
-Anjanath Will;4;--------;--------;--------;--------;--------;--------;Anjanath Will;True
-Appreciation Blessing;3;--------;--------;--------;--------;--------;--------;Appreciation Blessing;True
-Appreciation Blessing;5;--------;--------;--------;--------;--------;--------;Appreciation Blessing;True
-Aquatic/Polar Mobility;1;--------;--------;--------;--------;--------;--------;Aquatic/Polar Mobility;False
-Aquatic/Polar Mobility;2;--------;--------;--------;--------;--------;--------;Aquatic/Polar Mobility;False
-Aquatic/Polar Mobility;3;--------;--------;--------;--------;--------;--------;Aquatic/Polar Mobility;False
-Artillery;1;--------;--------;--------;--------;--------;--------;Artillery;False
-Artillery;2;--------;--------;--------;--------;--------;--------;Artillery;False
-Artillery;3;--------;--------;--------;--------;--------;--------;Artillery;False
-Artillery;4;Zorah Magdaros Essence;Brachydios Will;Fatalis Legend;Fatalis Legend;--------;--------;Artillery;False
-Artillery;5;Zorah Magdaros Essence;Brachydios Will;Fatalis Legend;Fatalis Legend;--------;--------;Artillery;False
-Astera Blessing;5;--------;--------;--------;--------;--------;--------;Astera Blessing;True
-Attack Boost;1;--------;--------;--------;--------;--------;--------;Attack Boost;False
-Attack Boost;2;--------;--------;--------;--------;--------;--------;Attack Boost;False
-Attack Boost;3;--------;--------;--------;--------;--------;--------;Attack Boost;False
-Attack Boost;4;--------;--------;--------;--------;--------;--------;Attack Boost;False
-Attack Boost;5;--------;--------;--------;--------;--------;--------;Attack Boost;False
-Attack Boost;6;--------;--------;--------;--------;--------;--------;Attack Boost;False
-Attack Boost;7;--------;--------;--------;--------;--------;--------;Attack Boost;False
-BBQ Master;1;--------;--------;--------;--------;--------;--------;BBQ Master;False
-Barioth Hidden Art;2;--------;--------;--------;--------;--------;--------;Barioth Hidden Art;True
-Bazelgeuse Ambition;2;--------;--------;--------;--------;--------;--------;Bazelgeuse Ambition;True
-Bazelgeuse Protection;3;--------;--------;--------;--------;--------;--------;Bazelgeuse Protection;True
-Blast Attack;1;--------;--------;--------;--------;--------;--------;Blast Attack;False
-Blast Attack;2;--------;--------;--------;--------;--------;--------;Blast Attack;False
-Blast Attack;3;--------;--------;--------;--------;--------;--------;Blast Attack;False
-Blast Attack;4;--------;--------;--------;--------;--------;--------;Blast Attack;False
-Blast Functionality;1;--------;--------;--------;--------;--------;--------;Blast Functionality;False
-Blast Resistance;1;--------;--------;--------;--------;--------;--------;Blast Resistance;False
-Blast Resistance;2;--------;--------;--------;--------;--------;--------;Blast Resistance;False
-Blast Resistance;3;--------;--------;--------;--------;--------;--------;Blast Resistance;False
-Bleeding Resistance;1;--------;--------;--------;--------;--------;--------;Bleeding Resistance;False
-Bleeding Resistance;2;--------;--------;--------;--------;--------;--------;Bleeding Resistance;False
-Bleeding Resistance;3;--------;--------;--------;--------;--------;--------;Bleeding Resistance;False
-Blight Resistance;1;--------;--------;--------;--------;--------;--------;Blight Resistance;False
-Blight Resistance;2;--------;--------;--------;--------;--------;--------;Blight Resistance;False
-Blight Resistance;3;--------;--------;--------;--------;--------;--------;Blight Resistance;False
-Blindsider;1;--------;--------;--------;--------;--------;--------;Blindsider;False
-Bludgeoner;1;--------;--------;--------;--------;--------;--------;Bludgeoner;False
-Bombardier;1;--------;--------;--------;--------;--------;--------;Bombardier;False
-Bombardier;2;--------;--------;--------;--------;--------;--------;Bombardier;False
-Bombardier;3;--------;--------;--------;--------;--------;--------;Bombardier;False
-Bombardier;4;Commission Alchemy;Fatalis Legend;Fatalis Legend;--------;--------;--------;Bombardier;False
-Bombardier;5;Commission Alchemy;Fatalis Legend;Fatalis Legend;--------;--------;--------;Bombardier;False
-Botanist;1;--------;--------;--------;--------;--------;--------;Botanist;False
-Botanist;2;--------;--------;--------;--------;--------;--------;Botanist;False
-Botanist;3;--------;--------;--------;--------;--------;--------;Botanist;False
-Botanist;4;--------;--------;--------;--------;--------;--------;Botanist;False
-Bow Charge Plus;1;--------;--------;--------;--------;--------;--------;Bow Charge Plus;False
-Brachydios Essence;3;--------;--------;--------;--------;--------;--------;Brachydios Essence;True
-Brachydios Will;4;--------;--------;--------;--------;--------;--------;Brachydios Will;True
-Brachydios Will;2;--------;--------;--------;--------;--------;--------;Brachydios Will;True
-Capacity Boost;1;--------;--------;--------;--------;--------;--------;Capacity Boost;False
-Carving Pro;1;--------;--------;--------;--------;--------;--------;Carving Pro;False
-Cliffhanger;1;--------;--------;--------;--------;--------;--------;Cliffhanger;False
-Clutch Claw Boost;1;--------;--------;--------;--------;--------;--------;Clutch Claw Boost;False
-Coalescence;1;--------;--------;--------;--------;--------;--------;Coalescence;False
-Coalescence;2;--------;--------;--------;--------;--------;--------;Coalescence;False
-Coalescence;3;--------;--------;--------;--------;--------;--------;Coalescence;False
-Coldproof;1;--------;--------;--------;--------;--------;--------;Coldproof;False
-Commission Alchemy;3;--------;--------;--------;--------;--------;--------;Commission Alchemy;True
-Commission Guidance;4;--------;--------;--------;--------;--------;--------;Commission Guidance;True
-Constitution;1;--------;--------;--------;--------;--------;--------;Constitution;False
-Constitution;2;--------;--------;--------;--------;--------;--------;Constitution;False
-Constitution;3;--------;--------;--------;--------;--------;--------;Constitution;False
-Constitution;4;--------;--------;--------;--------;--------;--------;Constitution;False
-Constitution;5;--------;--------;--------;--------;--------;--------;Constitution;False
-Critical Boost;1;--------;--------;--------;--------;--------;--------;Critical Boost;False
-Critical Boost;2;--------;--------;--------;--------;--------;--------;Critical Boost;False
-Critical Boost;3;--------;--------;--------;--------;--------;--------;Critical Boost;False
-Critical Draw;1;--------;--------;--------;--------;--------;--------;Critical Draw;False
-Critical Draw;2;--------;--------;--------;--------;--------;--------;Critical Draw;False
-Critical Draw;3;--------;--------;--------;--------;--------;--------;Critical Draw;False
-Critical Element;1;--------;--------;--------;--------;--------;--------;Critical Element;False
-Critical Eye;1;--------;--------;--------;--------;--------;--------;Critical Eye;False
-Critical Eye;2;--------;--------;--------;--------;--------;--------;Critical Eye;False
-Critical Eye;3;--------;--------;--------;--------;--------;--------;Critical Eye;False
-Critical Eye;4;--------;--------;--------;--------;--------;--------;Critical Eye;False
-Critical Eye;5;--------;--------;--------;--------;--------;--------;Critical Eye;False
-Critical Eye;6;--------;--------;--------;--------;--------;--------;Critical Eye;False
-Critical Eye;7;--------;--------;--------;--------;--------;--------;Critical Eye;False
-Critical Status;1;--------;--------;--------;--------;--------;--------;Critical Status;False
-Defense Boost;1;--------;--------;--------;--------;--------;--------;Defense Boost;False
-Defense Boost;2;--------;--------;--------;--------;--------;--------;Defense Boost;False
-Defense Boost;3;--------;--------;--------;--------;--------;--------;Defense Boost;False
-Defense Boost;4;--------;--------;--------;--------;--------;--------;Defense Boost;False
-Defense Boost;5;--------;--------;--------;--------;--------;--------;Defense Boost;False
-Defense Boost;6;--------;--------;--------;--------;--------;--------;Defense Boost;False
-Defense Boost;7;--------;--------;--------;--------;--------;--------;Defense Boost;False
-Detector;1;--------;--------;--------;--------;--------;--------;Detector;False
-Deviljho Essence;3;--------;--------;--------;--------;--------;--------;Deviljho Essence;True
-Diablos Ambition;3;--------;--------;--------;--------;--------;--------;Diablos Ambition;True
-Diablos Mastery;2;--------;--------;--------;--------;--------;--------;Diablos Mastery;True
-Diablos Mastery;4;--------;--------;--------;--------;--------;--------;Diablos Mastery;True
-Diablos Power;3;--------;--------;--------;--------;--------;--------;Diablos Power;True
-Divine Blessing;1;--------;--------;--------;--------;--------;--------;Divine Blessing;False
-Divine Blessing;2;--------;--------;--------;--------;--------;--------;Divine Blessing;False
-Divine Blessing;3;--------;--------;--------;--------;--------;--------;Divine Blessing;False
-Divine Blessing;4;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Fatalis Legend;Fatalis Legend;Divine Blessing;False
-Divine Blessing;5;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Fatalis Legend;Fatalis Legend;Divine Blessing;False
-Dragon Attack;1;--------;--------;--------;--------;--------;--------;Dragon Attack;False
-Dragon Attack;2;--------;--------;--------;--------;--------;--------;Dragon Attack;False
-Dragon Attack;3;--------;--------;--------;--------;--------;--------;Dragon Attack;False
-Dragon Attack;4;--------;--------;--------;--------;--------;--------;Dragon Attack;False
-Dragon Attack;5;--------;--------;--------;--------;--------;--------;Dragon Attack;False
-Dragon Attack;6;--------;--------;--------;--------;--------;--------;Dragon Attack;False
-Dragon Resistance;1;--------;--------;--------;--------;--------;--------;Dragon Resistance;False
-Dragon Resistance;2;--------;--------;--------;--------;--------;--------;Dragon Resistance;False
-Dragon Resistance;3;--------;--------;--------;--------;--------;--------;Dragon Resistance;False
-Dungmaster;1;--------;--------;--------;--------;--------;--------;Dungmaster;False
-Earplugs;1;--------;--------;--------;--------;--------;--------;Earplugs;False
-Earplugs;2;--------;--------;--------;--------;--------;--------;Earplugs;False
-Earplugs;3;--------;--------;--------;--------;--------;--------;Earplugs;False
-Earplugs;4;--------;--------;--------;--------;--------;--------;Earplugs;False
-Earplugs;5;--------;--------;--------;--------;--------;--------;Earplugs;False
-Effluvia Resistance;1;--------;--------;--------;--------;--------;--------;Effluvia Resistance;False
-Effluvia Resistance;2;--------;--------;--------;--------;--------;--------;Effluvia Resistance;False
-Effluvia Resistance;3;--------;--------;--------;--------;--------;--------;Effluvia Resistance;False
-Effluvial Expert;1;--------;--------;--------;--------;--------;--------;Effluvial Expert;False
-Elderseal Boost;1;--------;--------;--------;--------;--------;--------;Elderseal Boost;False
-Entomologist;1;--------;--------;--------;--------;--------;--------;Entomologist;False
-Entomologist;2;--------;--------;--------;--------;--------;--------;Entomologist;False
-Entomologist;3;--------;--------;--------;--------;--------;--------;Entomologist;False
-Evade Extender;1;--------;--------;--------;--------;--------;--------;Evade Extender;False
-Evade Extender;2;--------;--------;--------;--------;--------;--------;Evade Extender;False
-Evade Extender;3;--------;--------;--------;--------;--------;--------;Evade Extender;False
-Evade Window;1;--------;--------;--------;--------;--------;--------;Evade Window;False
-Evade Window;2;--------;--------;--------;--------;--------;--------;Evade Window;False
-Evade Window;3;--------;--------;--------;--------;--------;--------;Evade Window;False
-Evade Window;4;--------;--------;--------;--------;--------;--------;Evade Window;False
-Evade Window;5;--------;--------;--------;--------;--------;--------;Evade Window;False
-Fatalis Legend;2;--------;--------;--------;--------;--------;--------;Fatalis Legend;True
-Fatalis Legend;4;--------;--------;--------;--------;--------;--------;Fatalis Legend;True
-Fire Attack;1;--------;--------;--------;--------;--------;--------;Fire Attack;False
-Fire Attack;2;--------;--------;--------;--------;--------;--------;Fire Attack;False
-Fire Attack;3;--------;--------;--------;--------;--------;--------;Fire Attack;False
-Fire Attack;4;--------;--------;--------;--------;--------;--------;Fire Attack;False
-Fire Attack;5;--------;--------;--------;--------;--------;--------;Fire Attack;False
-Fire Attack;6;--------;--------;--------;--------;--------;--------;Fire Attack;False
-Fire Resistance;1;--------;--------;--------;--------;--------;--------;Fire Resistance;False
-Fire Resistance;2;--------;--------;--------;--------;--------;--------;Fire Resistance;False
-Fire Resistance;3;--------;--------;--------;--------;--------;--------;Fire Resistance;False
-Flinch Free;1;--------;--------;--------;--------;--------;--------;Flinch Free;False
-Flinch Free;2;--------;--------;--------;--------;--------;--------;Flinch Free;False
-Flinch Free;3;--------;--------;--------;--------;--------;--------;Flinch Free;False
-Focus;1;--------;--------;--------;--------;--------;--------;Focus;False
-Focus;2;--------;--------;--------;--------;--------;--------;Focus;False
-Focus;3;--------;--------;--------;--------;--------;--------;Focus;False
-Forager's Luck;1;--------;--------;--------;--------;--------;--------;Forager's Luck;False
-Fortify;1;--------;--------;--------;--------;--------;--------;Fortify;False
-Free Elem/Ammo Up;1;--------;--------;--------;--------;--------;--------;Free Elem/Ammo Up;False
-Free Elem/Ammo Up;2;--------;--------;--------;--------;--------;--------;Free Elem/Ammo Up;False
-Free Elem/Ammo Up;3;--------;--------;--------;--------;--------;--------;Free Elem/Ammo Up;False
-Free Meal;1;--------;--------;--------;--------;--------;--------;Free Meal;False
-Free Meal;2;Tigrex Essence;Kulve Taroth Essence;Fatalis Legend;Fatalis Legend;--------;--------;Free Meal;False
-Free Meal;3;Tigrex Essence;Kulve Taroth Essence;Fatalis Legend;Fatalis Legend;--------;--------;Free Meal;False
-Frostfang Absolute Art;1;--------;--------;--------;--------;--------;--------;Frostfang Absolute Art;True
-Frostfang Absolute Art;3;--------;--------;--------;--------;--------;--------;Frostfang Absolute Art;True
-Full Bloom Blessing;3;--------;--------;--------;--------;--------;--------;Full Bloom Blessing;True
-Full Bloom Blessing;5;--------;--------;--------;--------;--------;--------;Full Bloom Blessing;True
-Fun Fright Blessing;3;--------;--------;--------;--------;--------;--------;Fun Fright Blessing;True
-Fun Fright Blessing;5;--------;--------;--------;--------;--------;--------;Fun Fright Blessing;True
-Geologist;1;--------;--------;--------;--------;--------;--------;Geologist;False
-Geologist;2;--------;--------;--------;--------;--------;--------;Geologist;False
-Geologist;3;--------;--------;--------;--------;--------;--------;Geologist;False
-Glavenus Essence;3;--------;--------;--------;--------;--------;--------;Glavenus Essence;True
-Gold Rathian Essence;2;--------;--------;--------;--------;--------;--------;Gold Rathian Essence;True
-Gold Rathian Essence;4;--------;--------;--------;--------;--------;--------;Gold Rathian Essence;True
-Guard;1;--------;--------;--------;--------;--------;--------;Guard;False
-Guard;2;--------;--------;--------;--------;--------;--------;Guard;False
-Guard;3;--------;--------;--------;--------;--------;--------;Guard;False
-Guard;4;--------;--------;--------;--------;--------;--------;Guard;False
-Guard;5;--------;--------;--------;--------;--------;--------;Guard;False
-Guard Up;1;--------;--------;--------;--------;--------;--------;Guard Up;False
-Guild Guidance;4;--------;--------;--------;--------;--------;--------;Guild Guidance;True
-Guild Pride;2;--------;--------;--------;--------;--------;--------;Guild Pride;True
-Guild Pride;4;--------;--------;--------;--------;--------;--------;Guild Pride;True
-Guts;1;--------;--------;--------;--------;--------;--------;Guts;False
-Handicraft;1;--------;--------;--------;--------;--------;--------;Handicraft;False
-Handicraft;2;--------;--------;--------;--------;--------;--------;Handicraft;False
-Handicraft;3;--------;--------;--------;--------;--------;--------;Handicraft;False
-Handicraft;4;--------;--------;--------;--------;--------;--------;Handicraft;False
-Handicraft;5;--------;--------;--------;--------;--------;--------;Handicraft;False
-Hasten Recovery;1;--------;--------;--------;--------;--------;--------;Hasten Recovery;False
-Health Boost;1;--------;--------;--------;--------;--------;--------;Health Boost;False
-Health Boost;2;--------;--------;--------;--------;--------;--------;Health Boost;False
-Health Boost;3;--------;--------;--------;--------;--------;--------;Health Boost;False
-Heat Guard;1;--------;--------;--------;--------;--------;--------;Heat Guard;False
-Heavy Artillery;1;--------;--------;--------;--------;--------;--------;Heavy Artillery;False
-Heavy Artillery;2;--------;--------;--------;--------;--------;--------;Heavy Artillery;False
-Heroics;1;--------;--------;--------;--------;--------;--------;Heroics;False
-Heroics;2;--------;--------;--------;--------;--------;--------;Heroics;False
-Heroics;3;--------;--------;--------;--------;--------;--------;Heroics;False
-Heroics;4;--------;--------;--------;--------;--------;--------;Heroics;False
-Heroics;5;--------;--------;--------;--------;--------;--------;Heroics;False
-Heroics;6;Rajang Will;Fatalis Legend;Fatalis Legend;--------;--------;--------;Heroics;False
-Heroics;7;Rajang Will;Fatalis Legend;Fatalis Legend;--------;--------;--------;Heroics;False
-Honey Hunter;1;--------;--------;--------;--------;--------;--------;Honey Hunter;False
-Horn Maestro;1;--------;--------;--------;--------;--------;--------;Horn Maestro;False
-Horn Maestro;2;--------;--------;--------;--------;--------;--------;Horn Maestro;False
-Hunger Resistance;1;--------;--------;--------;--------;--------;--------;Hunger Resistance;False
-Hunger Resistance;2;--------;--------;--------;--------;--------;--------;Hunger Resistance;False
-Hunger Resistance;3;--------;--------;--------;--------;--------;--------;Hunger Resistance;False
-Ice Attack;1;--------;--------;--------;--------;--------;--------;Ice Attack;False
-Ice Attack;2;--------;--------;--------;--------;--------;--------;Ice Attack;False
-Ice Attack;3;--------;--------;--------;--------;--------;--------;Ice Attack;False
-Ice Attack;4;--------;--------;--------;--------;--------;--------;Ice Attack;False
-Ice Attack;5;--------;--------;--------;--------;--------;--------;Ice Attack;False
-Ice Attack;6;--------;--------;--------;--------;--------;--------;Ice Attack;False
-Ice Resistance;1;--------;--------;--------;--------;--------;--------;Ice Resistance;False
-Ice Resistance;2;--------;--------;--------;--------;--------;--------;Ice Resistance;False
-Ice Resistance;3;--------;--------;--------;--------;--------;--------;Ice Resistance;False
-Instructor's Guidance;2;--------;--------;--------;--------;--------;--------;Instructor's Guidance;True
-Intimidator;1;--------;--------;--------;--------;--------;--------;Intimidator;False
-Intimidator;2;--------;--------;--------;--------;--------;--------;Intimidator;False
-Intimidator;3;--------;--------;--------;--------;--------;--------;Intimidator;False
-Iron Skin;1;--------;--------;--------;--------;--------;--------;Iron Skin;False
-Iron Skin;2;--------;--------;--------;--------;--------;--------;Iron Skin;False
-Iron Skin;3;--------;--------;--------;--------;--------;--------;Iron Skin;False
-Item Prolonger;1;--------;--------;--------;--------;--------;--------;Item Prolonger;False
-Item Prolonger;2;--------;--------;--------;--------;--------;--------;Item Prolonger;False
-Item Prolonger;3;--------;--------;--------;--------;--------;--------;Item Prolonger;False
-Joyful Blessing;3;--------;--------;--------;--------;--------;--------;Joyful Blessing;True
-Joyful Blessing;5;--------;--------;--------;--------;--------;--------;Joyful Blessing;True
-Jump Master;1;--------;--------;--------;--------;--------;--------;Jump Master;False
-Kirin Blessing;4;--------;--------;--------;--------;--------;--------;Kirin Blessing;True
-Kirin Divinity;3;--------;--------;--------;--------;--------;--------;Kirin Divinity;True
-Kirin Favor;3;--------;--------;--------;--------;--------;--------;Kirin Favor;True
-Kulve Taroth Essence;2;--------;--------;--------;--------;--------;--------;Kulve Taroth Essence;True
-Kulve Taroth Essence;4;--------;--------;--------;--------;--------;--------;Kulve Taroth Essence;True
-Kushala Daora Flight;3;--------;--------;--------;--------;--------;--------;Kushala Daora Flight;True
-Latent Power;1;--------;--------;--------;--------;--------;--------;Latent Power;False
-Latent Power;2;--------;--------;--------;--------;--------;--------;Latent Power;False
-Latent Power;3;--------;--------;--------;--------;--------;--------;Latent Power;False
-Latent Power;4;--------;--------;--------;--------;--------;--------;Latent Power;False
-Latent Power;5;--------;--------;--------;--------;--------;--------;Latent Power;False
-Latent Power;6;Zinogre Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;Latent Power;False
-Latent Power;7;Zinogre Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;Latent Power;False
-Leap of Faith;1;--------;--------;--------;--------;--------;--------;Leap of Faith;False
-Legiana Ambition;3;--------;--------;--------;--------;--------;--------;Legiana Ambition;True
-Legiana Blessing;3;--------;--------;--------;--------;--------;--------;Legiana Blessing;True
-Legiana Favor;2;--------;--------;--------;--------;--------;--------;Legiana Favor;True
-Legiana Favor;4;--------;--------;--------;--------;--------;--------;Legiana Favor;True
-Lunastra Essence;3;--------;--------;--------;--------;--------;--------;Lunastra Essence;True
-Lunastra Favor;2;--------;--------;--------;--------;--------;--------;Lunastra Favor;True
-Lunastra Favor;4;--------;--------;--------;--------;--------;--------;Lunastra Favor;True
-Marathon Runner;1;--------;--------;--------;--------;--------;--------;Marathon Runner;False
-Marathon Runner;2;--------;--------;--------;--------;--------;--------;Marathon Runner;False
-Marathon Runner;3;--------;--------;--------;--------;--------;--------;Marathon Runner;False
-Master Fisher;1;--------;--------;--------;--------;--------;--------;Master Fisher;False
-Master Gatherer;1;--------;--------;--------;--------;--------;--------;Master Gatherer;False
-Master Mounter;1;--------;--------;--------;--------;--------;--------;Master Mounter;False
-Maximum Might;1;--------;--------;--------;--------;--------;--------;Maximum Might;False
-Maximum Might;2;--------;--------;--------;--------;--------;--------;Maximum Might;False
-Maximum Might;3;--------;--------;--------;--------;--------;--------;Maximum Might;False
-Maximum Might;4;Glavenus Essence;Rajang Will;Rajang Will;Fatalis Legend;Fatalis Legend;--------;Maximum Might;False
-Maximum Might;5;Glavenus Essence;Rajang Will;Rajang Will;Fatalis Legend;Fatalis Legend;--------;Maximum Might;False
-Mind's Eye/Ballistics;1;--------;--------;--------;--------;--------;--------;Mind's Eye/Ballistics;False
-Muck Resistance;1;--------;--------;--------;--------;--------;--------;Muck Resistance;False
-Mushroomancer;1;--------;--------;--------;--------;--------;--------;Mushroomancer;False
-Mushroomancer;2;--------;--------;--------;--------;--------;--------;Mushroomancer;False
-Mushroomancer;3;--------;--------;--------;--------;--------;--------;Mushroomancer;False
-Namielle Divinity;2;--------;--------;--------;--------;--------;--------;Namielle Divinity;True
-Namielle Divinity;4;--------;--------;--------;--------;--------;--------;Namielle Divinity;True
-Nargacuga Essence;3;--------;--------;--------;--------;--------;--------;Nargacuga Essence;True
-Nergigante Ambition;2;--------;--------;--------;--------;--------;--------;Nergigante Ambition;True
-Nergigante Hunger;3;--------;--------;--------;--------;--------;--------;Nergigante Hunger;True
-New World;2;--------;--------;--------;--------;--------;--------;New World;True
-New World;4;--------;--------;--------;--------;--------;--------;New World;True
-Non-elemental Boost;1;--------;--------;--------;--------;--------;--------;Non-elemental Boost;False
-Normal Shots;1;--------;--------;--------;--------;--------;--------;Normal Shots;False
-Normal Shots;2;--------;--------;--------;--------;--------;--------;Normal Shots;False
-Odogaron Essence;3;--------;--------;--------;--------;--------;--------;Odogaron Essence;True
-Odogaron Mastery;2;--------;--------;--------;--------;--------;--------;Odogaron Mastery;True
-Odogaron Mastery;4;--------;--------;--------;--------;--------;--------;Odogaron Mastery;True
-Odogaron Power;3;--------;--------;--------;--------;--------;--------;Odogaron Power;True
-Offensive Guard;1;--------;--------;--------;--------;--------;--------;Offensive Guard;False
-Offensive Guard;2;--------;--------;--------;--------;--------;--------;Offensive Guard;False
-Offensive Guard;3;--------;--------;--------;--------;--------;--------;Offensive Guard;False
-Palico Rally;1;--------;--------;--------;--------;--------;--------;Palico Rally;False
-Palico Rally;2;--------;--------;--------;--------;--------;--------;Palico Rally;False
-Palico Rally;3;--------;--------;--------;--------;--------;--------;Palico Rally;False
-Palico Rally;4;--------;--------;--------;--------;--------;--------;Palico Rally;False
-Palico Rally;5;--------;--------;--------;--------;--------;--------;Palico Rally;False
-Para Functionality;1;--------;--------;--------;--------;--------;--------;Para Functionality;False
-Paralysis Attack;1;--------;--------;--------;--------;--------;--------;Paralysis Attack;False
-Paralysis Attack;2;--------;--------;--------;--------;--------;--------;Paralysis Attack;False
-Paralysis Attack;3;--------;--------;--------;--------;--------;--------;Paralysis Attack;False
-Paralysis Attack;4;--------;--------;--------;--------;--------;--------;Paralysis Attack;False
-Paralysis Resistance;1;--------;--------;--------;--------;--------;--------;Paralysis Resistance;False
-Paralysis Resistance;2;--------;--------;--------;--------;--------;--------;Paralysis Resistance;False
-Paralysis Resistance;3;--------;--------;--------;--------;--------;--------;Paralysis Resistance;False
-Partbreaker;1;--------;--------;--------;--------;--------;--------;Partbreaker;False
-Partbreaker;2;--------;--------;--------;--------;--------;--------;Partbreaker;False
-Partbreaker;3;--------;--------;--------;--------;--------;--------;Partbreaker;False
-Peak Performance;1;--------;--------;--------;--------;--------;--------;Peak Performance;False
-Peak Performance;2;--------;--------;--------;--------;--------;--------;Peak Performance;False
-Peak Performance;3;--------;--------;--------;--------;--------;--------;Peak Performance;False
-Piercing Shots;1;--------;--------;--------;--------;--------;--------;Piercing Shots;False
-Piercing Shots;2;--------;--------;--------;--------;--------;--------;Piercing Shots;False
-Pink Rathian Mastery;3;--------;--------;--------;--------;--------;--------;Pink Rathian Mastery;True
-Poison Attack;1;--------;--------;--------;--------;--------;--------;Poison Attack;False
-Poison Attack;2;--------;--------;--------;--------;--------;--------;Poison Attack;False
-Poison Attack;3;--------;--------;--------;--------;--------;--------;Poison Attack;False
-Poison Attack;4;--------;--------;--------;--------;--------;--------;Poison Attack;False
-Poison Functionality;1;--------;--------;--------;--------;--------;--------;Poison Functionality;False
-Poison Resistance;1;--------;--------;--------;--------;--------;--------;Poison Resistance;False
-Poison Resistance;2;--------;--------;--------;--------;--------;--------;Poison Resistance;False
-Poison Resistance;3;--------;--------;--------;--------;--------;--------;Poison Resistance;False
-Power Cell;5;--------;--------;--------;--------;--------;--------;Power Cell;True
-Power Prolonger;1;--------;--------;--------;--------;--------;--------;Power Prolonger;False
-Power Prolonger;2;--------;--------;--------;--------;--------;--------;Power Prolonger;False
-Power Prolonger;3;--------;--------;--------;--------;--------;--------;Power Prolonger;False
-Pro Transporter;1;--------;--------;--------;--------;--------;--------;Pro Transporter;False
-Protective Polish;1;--------;--------;--------;--------;--------;--------;Protective Polish;False
-Provoker;1;--------;--------;--------;--------;--------;--------;Provoker;False
-Quick Sheath;1;--------;--------;--------;--------;--------;--------;Quick Sheath;False
-Quick Sheath;2;--------;--------;--------;--------;--------;--------;Quick Sheath;False
-Quick Sheath;3;--------;--------;--------;--------;--------;--------;Quick Sheath;False
-Rajang Will;2;--------;--------;--------;--------;--------;--------;Rajang Will;True
-Rajang Will;4;--------;--------;--------;--------;--------;--------;Rajang Will;True
-Rajang's Rage;2;--------;--------;--------;--------;--------;--------;Rajang's Rage;True
-Rajang's Rage;4;--------;--------;--------;--------;--------;--------;Rajang's Rage;True
-Rathalos Essence;3;--------;--------;--------;--------;--------;--------;Rathalos Essence;True
-Rathalos Mastery;4;--------;--------;--------;--------;--------;--------;Rathalos Mastery;True
-Rathalos Mastery;2;--------;--------;--------;--------;--------;--------;Rathalos Mastery;True
-Rathalos Power;3;--------;--------;--------;--------;--------;--------;Rathalos Power;True
-Rathian Essence;2;--------;--------;--------;--------;--------;--------;Rathian Essence;True
-Razor Sharp/Spare Shot;1;--------;--------;--------;--------;--------;--------;Razor Sharp/Spare Shot;False
-Recovery Speed;1;--------;--------;--------;--------;--------;--------;Recovery Speed;False
-Recovery Speed;2;--------;--------;--------;--------;--------;--------;Recovery Speed;False
-Recovery Speed;3;--------;--------;--------;--------;--------;--------;Recovery Speed;False
-Recovery Up;1;--------;--------;--------;--------;--------;--------;Recovery Up;False
-Recovery Up;2;--------;--------;--------;--------;--------;--------;Recovery Up;False
-Recovery Up;3;--------;--------;--------;--------;--------;--------;Recovery Up;False
-Resentment;1;--------;--------;--------;--------;--------;--------;Resentment;False
-Resentment;2;--------;--------;--------;--------;--------;--------;Resentment;False
-Resentment;3;--------;--------;--------;--------;--------;--------;Resentment;False
-Resentment;4;--------;--------;--------;--------;--------;--------;Resentment;False
-Resentment;5;--------;--------;--------;--------;--------;--------;Resentment;False
-Resuscitate;1;--------;--------;--------;--------;--------;--------;Resuscitate;False
-Safe Landing;1;--------;--------;--------;--------;--------;--------;Safe Landing;False
-Safi'jiiva Seal;3;--------;--------;--------;--------;--------;--------;Safi'jiiva Seal;True
-Safi'jiiva Seal;5;--------;--------;--------;--------;--------;--------;Safi'jiiva Seal;True
-Scenthound;1;--------;--------;--------;--------;--------;--------;Scenthound;False
-Scholar;1;--------;--------;--------;--------;--------;--------;Scholar;False
-Scoutfly Range Up;1;--------;--------;--------;--------;--------;--------;Scoutfly Range Up;False
-Shara Ishvalda Divinity;4;--------;--------;--------;--------;--------;--------;Shara Ishvalda Divinity;True
-Shara Ishvalda Divinity;5;--------;--------;--------;--------;--------;--------;Shara Ishvalda Divinity;True
-Silver Rathalos Essence;2;--------;--------;--------;--------;--------;--------;Silver Rathalos Essence;True
-Silver Rathalos Essence;4;--------;--------;--------;--------;--------;--------;Silver Rathalos Essence;True
-Sizzling Blessing;3;--------;--------;--------;--------;--------;--------;Sizzling Blessing;True
-Sizzling Blessing;5;--------;--------;--------;--------;--------;--------;Sizzling Blessing;True
-Sleep Attack;1;--------;--------;--------;--------;--------;--------;Sleep Attack;False
-Sleep Attack;2;--------;--------;--------;--------;--------;--------;Sleep Attack;False
-Sleep Attack;3;--------;--------;--------;--------;--------;--------;Sleep Attack;False
-Sleep Attack;4;--------;--------;--------;--------;--------;--------;Sleep Attack;False
-Sleep Functionality;1;--------;--------;--------;--------;--------;--------;Sleep Functionality;False
-Sleep Resistance;1;--------;--------;--------;--------;--------;--------;Sleep Resistance;False
-Sleep Resistance;2;--------;--------;--------;--------;--------;--------;Sleep Resistance;False
-Sleep Resistance;3;--------;--------;--------;--------;--------;--------;Sleep Resistance;False
-Slinger Capacity;1;--------;--------;--------;--------;--------;--------;Slinger Capacity;False
-Slinger Capacity;2;--------;--------;--------;--------;--------;--------;Slinger Capacity;False
-Slinger Capacity;3;--------;--------;--------;--------;--------;--------;Slinger Capacity;False
-Slinger Capacity;4;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Fatalis Legend;Fatalis Legend;Slinger Capacity;False
-Slinger Capacity;5;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Fatalis Legend;Fatalis Legend;Slinger Capacity;False
-Slugger;1;--------;--------;--------;--------;--------;--------;Slugger;False
-Slugger;2;--------;--------;--------;--------;--------;--------;Slugger;False
-Slugger;3;--------;--------;--------;--------;--------;--------;Slugger;False
-Slugger;4;Diablos Ambition;Frostfang Absolute Art;Fatalis Legend;Fatalis Legend;--------;--------;Slugger;False
-Slugger;5;Diablos Ambition;Frostfang Absolute Art;Fatalis Legend;Fatalis Legend;--------;--------;Slugger;False
-Soul of the Dragoon;2;--------;--------;--------;--------;--------;--------;Soul of the Dragoon;True
-Soul of the Dragoon;4;--------;--------;--------;--------;--------;--------;Soul of the Dragoon;True
-Special Ammo Boost;1;--------;--------;--------;--------;--------;--------;Special Ammo Boost;False
-Special Ammo Boost;2;--------;--------;--------;--------;--------;--------;Special Ammo Boost;False
-Speed Crawler;1;--------;--------;--------;--------;--------;--------;Speed Crawler;False
-Speed Eating;1;--------;--------;--------;--------;--------;--------;Speed Eating;False
-Speed Eating;2;--------;--------;--------;--------;--------;--------;Speed Eating;False
-Speed Eating;3;--------;--------;--------;--------;--------;--------;Speed Eating;False
-Speed Sharpening;1;--------;--------;--------;--------;--------;--------;Speed Sharpening;False
-Speed Sharpening;2;--------;--------;--------;--------;--------;--------;Speed Sharpening;False
-Speed Sharpening;3;--------;--------;--------;--------;--------;--------;Speed Sharpening;False
-Spread/Power Shots;1;--------;--------;--------;--------;--------;--------;Spread/Power Shots;False
-Spread/Power Shots;2;--------;--------;--------;--------;--------;--------;Spread/Power Shots;False
-Stamina Surge;1;--------;--------;--------;--------;--------;--------;Stamina Surge;False
-Stamina Surge;2;--------;--------;--------;--------;--------;--------;Stamina Surge;False
-Stamina Surge;3;--------;--------;--------;--------;--------;--------;Stamina Surge;False
-Stamina Thief;1;--------;--------;--------;--------;--------;--------;Stamina Thief;False
-Stamina Thief;2;--------;--------;--------;--------;--------;--------;Stamina Thief;False
-Stamina Thief;3;--------;--------;--------;--------;--------;--------;Stamina Thief;False
-Stamina Thief;4;Deviljho Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;Stamina Thief;False
-Stamina Thief;5;Deviljho Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;Stamina Thief;False
-Stealth;1;--------;--------;--------;--------;--------;--------;Stealth;False
-Stealth;2;--------;--------;--------;--------;--------;--------;Stealth;False
-Stealth;3;--------;--------;--------;--------;--------;--------;Stealth;False
-Stun Resistance;1;--------;--------;--------;--------;--------;--------;Stun Resistance;False
-Stun Resistance;2;--------;--------;--------;--------;--------;--------;Stun Resistance;False
-Stun Resistance;3;--------;--------;--------;--------;--------;--------;Stun Resistance;False
-Survival Expert;1;--------;--------;--------;--------;--------;--------;Survival Expert;False
-Survival Expert;2;--------;--------;--------;--------;--------;--------;Survival Expert;False
-Survival Expert;3;--------;--------;--------;--------;--------;--------;Survival Expert;False
-Survivor;2;--------;--------;--------;--------;--------;--------;Survivor;True
-Survivor;4;--------;--------;--------;--------;--------;--------;Survivor;True
-Teostra Technique;3;--------;--------;--------;--------;--------;--------;Teostra Technique;True
-Thunder Attack;1;--------;--------;--------;--------;--------;--------;Thunder Attack;False
-Thunder Attack;2;--------;--------;--------;--------;--------;--------;Thunder Attack;False
-Thunder Attack;3;--------;--------;--------;--------;--------;--------;Thunder Attack;False
-Thunder Attack;4;--------;--------;--------;--------;--------;--------;Thunder Attack;False
-Thunder Attack;5;--------;--------;--------;--------;--------;--------;Thunder Attack;False
-Thunder Attack;6;--------;--------;--------;--------;--------;--------;Thunder Attack;False
-Thunder Resistance;1;--------;--------;--------;--------;--------;--------;Thunder Resistance;False
-Thunder Resistance;2;--------;--------;--------;--------;--------;--------;Thunder Resistance;False
-Thunder Resistance;3;--------;--------;--------;--------;--------;--------;Thunder Resistance;False
-Tigrex Essence;3;--------;--------;--------;--------;--------;--------;Tigrex Essence;True
-Tool Specialist;1;--------;--------;--------;--------;--------;--------;Tool Specialist;False
-Tool Specialist;2;--------;--------;--------;--------;--------;--------;Tool Specialist;False
-Tool Specialist;3;--------;--------;--------;--------;--------;--------;Tool Specialist;False
-Tool Specialist;4;Lunastra Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;Tool Specialist;False
-Tool Specialist;5;Lunastra Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;Tool Specialist;False
-Tremor Resistance;1;--------;--------;--------;--------;--------;--------;Tremor Resistance;False
-Tremor Resistance;2;--------;--------;--------;--------;--------;--------;Tremor Resistance;False
-Tremor Resistance;3;--------;--------;--------;--------;--------;--------;Tremor Resistance;False
-Uragaan Ambition;2;--------;--------;--------;--------;--------;--------;Uragaan Ambition;True
-Uragaan Protection;3;--------;--------;--------;--------;--------;--------;Uragaan Protection;True
-Vaal Hazak Vitality;3;--------;--------;--------;--------;--------;--------;Vaal Hazak Vitality;True
-Vaal Soulvein;2;--------;--------;--------;--------;--------;--------;Vaal Soulvein;True
-Velkhana Divinity;4;--------;--------;--------;--------;--------;--------;Velkhana Divinity;True
-Velkhana Divinity;2;--------;--------;--------;--------;--------;--------;Velkhana Divinity;True
-Water Attack;1;--------;--------;--------;--------;--------;--------;Water Attack;False
-Water Attack;2;--------;--------;--------;--------;--------;--------;Water Attack;False
-Water Attack;3;--------;--------;--------;--------;--------;--------;Water Attack;False
-Water Attack;4;--------;--------;--------;--------;--------;--------;Water Attack;False
-Water Attack;5;--------;--------;--------;--------;--------;--------;Water Attack;False
-Water Attack;6;--------;--------;--------;--------;--------;--------;Water Attack;False
-Water Resistance;1;--------;--------;--------;--------;--------;--------;Water Resistance;False
-Water Resistance;2;--------;--------;--------;--------;--------;--------;Water Resistance;False
-Water Resistance;3;--------;--------;--------;--------;--------;--------;Water Resistance;False
-Weakness Exploit;1;--------;--------;--------;--------;--------;--------;Weakness Exploit;False
-Weakness Exploit;2;--------;--------;--------;--------;--------;--------;Weakness Exploit;False
-Weakness Exploit;3;--------;--------;--------;--------;--------;--------;Weakness Exploit;False
-Wide-Range;1;--------;--------;--------;--------;--------;--------;Wide-Range;False
-Wide-Range;2;--------;--------;--------;--------;--------;--------;Wide-Range;False
-Wide-Range;3;--------;--------;--------;--------;--------;--------;Wide-Range;False
-Wide-Range;4;--------;--------;--------;--------;--------;--------;Wide-Range;False
-Wide-Range;5;--------;--------;--------;--------;--------;--------;Wide-Range;False
-Windproof;1;--------;--------;--------;--------;--------;--------;Windproof;False
-Windproof;2;--------;--------;--------;--------;--------;--------;Windproof;False
-Windproof;3;--------;--------;--------;--------;--------;--------;Windproof;False
-Windproof;4;--------;--------;--------;--------;--------;--------;Windproof;False
-Windproof;5;--------;--------;--------;--------;--------;--------;Windproof;False
-Witcher's Knowledge;2;--------;--------;--------;--------;--------;--------;Witcher's Knowledge;True
-Witcher's Knowledge;4;--------;--------;--------;--------;--------;--------;Witcher's Knowledge;True
-Xeno'jiiva Divinity;3;--------;--------;--------;--------;--------;--------;Xeno'jiiva Divinity;True
-Zinogre Essence;3;--------;--------;--------;--------;--------;--------;Zinogre Essence;True
-Zorah Magdaros Essence;3;--------;--------;--------;--------;--------;--------;Zorah Magdaros Essence;True
-Zorah Magdaros Mastery;3;--------;--------;--------;--------;--------;--------;Zorah Magdaros Mastery;True
+id;level;unlock_skill_1;unlock_skill_2;unlock_skill_3;unlock_skill_4;unlock_skill_5;unlock_skill_6;is_set_bonus
+Adrenaline;1;--------;--------;--------;--------;--------;--------;False
+Affinity Sliding;1;--------;--------;--------;--------;--------;--------;False
+Agitator;1;--------;--------;--------;--------;--------;--------;False
+Agitator;2;--------;--------;--------;--------;--------;--------;False
+Agitator;3;--------;--------;--------;--------;--------;--------;False
+Agitator;4;--------;--------;--------;--------;--------;--------;False
+Agitator;5;--------;--------;--------;--------;--------;--------;False
+Agitator;6;Brachydios Essence;Survivor;Brachydios Will;Brachydios Will;Fatalis Legend;Fatalis Legend;False
+Agitator;7;Brachydios Essence;Survivor;Brachydios Will;Brachydios Will;Fatalis Legend;Fatalis Legend;False
+Airborne;1;--------;--------;--------;--------;--------;--------;False
+Alatreon Divinity;2;--------;--------;--------;--------;--------;--------;True
+Alatreon Divinity;3;--------;--------;--------;--------;--------;--------;True
+Ancient Divinity;2;--------;--------;--------;--------;--------;--------;True
+Anjanath Dominance;2;--------;--------;--------;--------;--------;--------;True
+Anjanath Power;3;--------;--------;--------;--------;--------;--------;True
+Anjanath Will;2;--------;--------;--------;--------;--------;--------;True
+Anjanath Will;4;--------;--------;--------;--------;--------;--------;True
+Appreciation Blessing;3;--------;--------;--------;--------;--------;--------;True
+Appreciation Blessing;5;--------;--------;--------;--------;--------;--------;True
+Aquatic/Polar Mobility;1;--------;--------;--------;--------;--------;--------;False
+Aquatic/Polar Mobility;2;--------;--------;--------;--------;--------;--------;False
+Aquatic/Polar Mobility;3;--------;--------;--------;--------;--------;--------;False
+Artillery;1;--------;--------;--------;--------;--------;--------;False
+Artillery;2;--------;--------;--------;--------;--------;--------;False
+Artillery;3;--------;--------;--------;--------;--------;--------;False
+Artillery;4;Zorah Magdaros Essence;Brachydios Will;Fatalis Legend;Fatalis Legend;--------;--------;False
+Artillery;5;Zorah Magdaros Essence;Brachydios Will;Fatalis Legend;Fatalis Legend;--------;--------;False
+Astera Blessing;5;--------;--------;--------;--------;--------;--------;True
+Attack Boost;1;--------;--------;--------;--------;--------;--------;False
+Attack Boost;2;--------;--------;--------;--------;--------;--------;False
+Attack Boost;3;--------;--------;--------;--------;--------;--------;False
+Attack Boost;4;--------;--------;--------;--------;--------;--------;False
+Attack Boost;5;--------;--------;--------;--------;--------;--------;False
+Attack Boost;6;--------;--------;--------;--------;--------;--------;False
+Attack Boost;7;--------;--------;--------;--------;--------;--------;False
+BBQ Master;1;--------;--------;--------;--------;--------;--------;False
+Barioth Hidden Art;2;--------;--------;--------;--------;--------;--------;True
+Bazelgeuse Ambition;2;--------;--------;--------;--------;--------;--------;True
+Bazelgeuse Protection;3;--------;--------;--------;--------;--------;--------;True
+Blast Attack;1;--------;--------;--------;--------;--------;--------;False
+Blast Attack;2;--------;--------;--------;--------;--------;--------;False
+Blast Attack;3;--------;--------;--------;--------;--------;--------;False
+Blast Attack;4;--------;--------;--------;--------;--------;--------;False
+Blast Functionality;1;--------;--------;--------;--------;--------;--------;False
+Blast Resistance;1;--------;--------;--------;--------;--------;--------;False
+Blast Resistance;2;--------;--------;--------;--------;--------;--------;False
+Blast Resistance;3;--------;--------;--------;--------;--------;--------;False
+Bleeding Resistance;1;--------;--------;--------;--------;--------;--------;False
+Bleeding Resistance;2;--------;--------;--------;--------;--------;--------;False
+Bleeding Resistance;3;--------;--------;--------;--------;--------;--------;False
+Blight Resistance;1;--------;--------;--------;--------;--------;--------;False
+Blight Resistance;2;--------;--------;--------;--------;--------;--------;False
+Blight Resistance;3;--------;--------;--------;--------;--------;--------;False
+Blindsider;1;--------;--------;--------;--------;--------;--------;False
+Bludgeoner;1;--------;--------;--------;--------;--------;--------;False
+Bombardier;1;--------;--------;--------;--------;--------;--------;False
+Bombardier;2;--------;--------;--------;--------;--------;--------;False
+Bombardier;3;--------;--------;--------;--------;--------;--------;False
+Bombardier;4;Commission Alchemy;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Bombardier;5;Commission Alchemy;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Botanist;1;--------;--------;--------;--------;--------;--------;False
+Botanist;2;--------;--------;--------;--------;--------;--------;False
+Botanist;3;--------;--------;--------;--------;--------;--------;False
+Botanist;4;--------;--------;--------;--------;--------;--------;False
+Bow Charge Plus;1;--------;--------;--------;--------;--------;--------;False
+Brachydios Essence;3;--------;--------;--------;--------;--------;--------;True
+Brachydios Will;4;--------;--------;--------;--------;--------;--------;True
+Brachydios Will;2;--------;--------;--------;--------;--------;--------;True
+Capacity Boost;1;--------;--------;--------;--------;--------;--------;False
+Carving Pro;1;--------;--------;--------;--------;--------;--------;False
+Cliffhanger;1;--------;--------;--------;--------;--------;--------;False
+Clutch Claw Boost;1;--------;--------;--------;--------;--------;--------;False
+Coalescence;1;--------;--------;--------;--------;--------;--------;False
+Coalescence;2;--------;--------;--------;--------;--------;--------;False
+Coalescence;3;--------;--------;--------;--------;--------;--------;False
+Coldproof;1;--------;--------;--------;--------;--------;--------;False
+Commission Alchemy;3;--------;--------;--------;--------;--------;--------;True
+Commission Guidance;4;--------;--------;--------;--------;--------;--------;True
+Constitution;1;--------;--------;--------;--------;--------;--------;False
+Constitution;2;--------;--------;--------;--------;--------;--------;False
+Constitution;3;--------;--------;--------;--------;--------;--------;False
+Constitution;4;--------;--------;--------;--------;--------;--------;False
+Constitution;5;--------;--------;--------;--------;--------;--------;False
+Critical Boost;1;--------;--------;--------;--------;--------;--------;False
+Critical Boost;2;--------;--------;--------;--------;--------;--------;False
+Critical Boost;3;--------;--------;--------;--------;--------;--------;False
+Critical Draw;1;--------;--------;--------;--------;--------;--------;False
+Critical Draw;2;--------;--------;--------;--------;--------;--------;False
+Critical Draw;3;--------;--------;--------;--------;--------;--------;False
+Critical Element;1;--------;--------;--------;--------;--------;--------;False
+Critical Eye;1;--------;--------;--------;--------;--------;--------;False
+Critical Eye;2;--------;--------;--------;--------;--------;--------;False
+Critical Eye;3;--------;--------;--------;--------;--------;--------;False
+Critical Eye;4;--------;--------;--------;--------;--------;--------;False
+Critical Eye;5;--------;--------;--------;--------;--------;--------;False
+Critical Eye;6;--------;--------;--------;--------;--------;--------;False
+Critical Eye;7;--------;--------;--------;--------;--------;--------;False
+Critical Status;1;--------;--------;--------;--------;--------;--------;False
+Defense Boost;1;--------;--------;--------;--------;--------;--------;False
+Defense Boost;2;--------;--------;--------;--------;--------;--------;False
+Defense Boost;3;--------;--------;--------;--------;--------;--------;False
+Defense Boost;4;--------;--------;--------;--------;--------;--------;False
+Defense Boost;5;--------;--------;--------;--------;--------;--------;False
+Defense Boost;6;--------;--------;--------;--------;--------;--------;False
+Defense Boost;7;--------;--------;--------;--------;--------;--------;False
+Detector;1;--------;--------;--------;--------;--------;--------;False
+Deviljho Essence;3;--------;--------;--------;--------;--------;--------;True
+Diablos Ambition;3;--------;--------;--------;--------;--------;--------;True
+Diablos Mastery;2;--------;--------;--------;--------;--------;--------;True
+Diablos Mastery;4;--------;--------;--------;--------;--------;--------;True
+Diablos Power;3;--------;--------;--------;--------;--------;--------;True
+Divine Blessing;1;--------;--------;--------;--------;--------;--------;False
+Divine Blessing;2;--------;--------;--------;--------;--------;--------;False
+Divine Blessing;3;--------;--------;--------;--------;--------;--------;False
+Divine Blessing;4;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Fatalis Legend;Fatalis Legend;False
+Divine Blessing;5;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Gold Rathian Essence;Fatalis Legend;Fatalis Legend;False
+Dragon Attack;1;--------;--------;--------;--------;--------;--------;False
+Dragon Attack;2;--------;--------;--------;--------;--------;--------;False
+Dragon Attack;3;--------;--------;--------;--------;--------;--------;False
+Dragon Attack;4;--------;--------;--------;--------;--------;--------;False
+Dragon Attack;5;--------;--------;--------;--------;--------;--------;False
+Dragon Attack;6;--------;--------;--------;--------;--------;--------;False
+Dragon Resistance;1;--------;--------;--------;--------;--------;--------;False
+Dragon Resistance;2;--------;--------;--------;--------;--------;--------;False
+Dragon Resistance;3;--------;--------;--------;--------;--------;--------;False
+Dungmaster;1;--------;--------;--------;--------;--------;--------;False
+Earplugs;1;--------;--------;--------;--------;--------;--------;False
+Earplugs;2;--------;--------;--------;--------;--------;--------;False
+Earplugs;3;--------;--------;--------;--------;--------;--------;False
+Earplugs;4;--------;--------;--------;--------;--------;--------;False
+Earplugs;5;--------;--------;--------;--------;--------;--------;False
+Effluvia Resistance;1;--------;--------;--------;--------;--------;--------;False
+Effluvia Resistance;2;--------;--------;--------;--------;--------;--------;False
+Effluvia Resistance;3;--------;--------;--------;--------;--------;--------;False
+Effluvial Expert;1;--------;--------;--------;--------;--------;--------;False
+Elderseal Boost;1;--------;--------;--------;--------;--------;--------;False
+Entomologist;1;--------;--------;--------;--------;--------;--------;False
+Entomologist;2;--------;--------;--------;--------;--------;--------;False
+Entomologist;3;--------;--------;--------;--------;--------;--------;False
+Evade Extender;1;--------;--------;--------;--------;--------;--------;False
+Evade Extender;2;--------;--------;--------;--------;--------;--------;False
+Evade Extender;3;--------;--------;--------;--------;--------;--------;False
+Evade Window;1;--------;--------;--------;--------;--------;--------;False
+Evade Window;2;--------;--------;--------;--------;--------;--------;False
+Evade Window;3;--------;--------;--------;--------;--------;--------;False
+Evade Window;4;--------;--------;--------;--------;--------;--------;False
+Evade Window;5;--------;--------;--------;--------;--------;--------;False
+Fatalis Legend;2;--------;--------;--------;--------;--------;--------;True
+Fatalis Legend;4;--------;--------;--------;--------;--------;--------;True
+Fire Attack;1;--------;--------;--------;--------;--------;--------;False
+Fire Attack;2;--------;--------;--------;--------;--------;--------;False
+Fire Attack;3;--------;--------;--------;--------;--------;--------;False
+Fire Attack;4;--------;--------;--------;--------;--------;--------;False
+Fire Attack;5;--------;--------;--------;--------;--------;--------;False
+Fire Attack;6;--------;--------;--------;--------;--------;--------;False
+Fire Resistance;1;--------;--------;--------;--------;--------;--------;False
+Fire Resistance;2;--------;--------;--------;--------;--------;--------;False
+Fire Resistance;3;--------;--------;--------;--------;--------;--------;False
+Flinch Free;1;--------;--------;--------;--------;--------;--------;False
+Flinch Free;2;--------;--------;--------;--------;--------;--------;False
+Flinch Free;3;--------;--------;--------;--------;--------;--------;False
+Focus;1;--------;--------;--------;--------;--------;--------;False
+Focus;2;--------;--------;--------;--------;--------;--------;False
+Focus;3;--------;--------;--------;--------;--------;--------;False
+Forager's Luck;1;--------;--------;--------;--------;--------;--------;False
+Fortify;1;--------;--------;--------;--------;--------;--------;False
+Free Elem/Ammo Up;1;--------;--------;--------;--------;--------;--------;False
+Free Elem/Ammo Up;2;--------;--------;--------;--------;--------;--------;False
+Free Elem/Ammo Up;3;--------;--------;--------;--------;--------;--------;False
+Free Meal;1;--------;--------;--------;--------;--------;--------;False
+Free Meal;2;Tigrex Essence;Kulve Taroth Essence;Fatalis Legend;Fatalis Legend;--------;--------;False
+Free Meal;3;Tigrex Essence;Kulve Taroth Essence;Fatalis Legend;Fatalis Legend;--------;--------;False
+Frostfang Absolute Art;1;--------;--------;--------;--------;--------;--------;True
+Frostfang Absolute Art;3;--------;--------;--------;--------;--------;--------;True
+Full Bloom Blessing;3;--------;--------;--------;--------;--------;--------;True
+Full Bloom Blessing;5;--------;--------;--------;--------;--------;--------;True
+Fun Fright Blessing;3;--------;--------;--------;--------;--------;--------;True
+Fun Fright Blessing;5;--------;--------;--------;--------;--------;--------;True
+Geologist;1;--------;--------;--------;--------;--------;--------;False
+Geologist;2;--------;--------;--------;--------;--------;--------;False
+Geologist;3;--------;--------;--------;--------;--------;--------;False
+Glavenus Essence;3;--------;--------;--------;--------;--------;--------;True
+Gold Rathian Essence;2;--------;--------;--------;--------;--------;--------;True
+Gold Rathian Essence;4;--------;--------;--------;--------;--------;--------;True
+Guard;1;--------;--------;--------;--------;--------;--------;False
+Guard;2;--------;--------;--------;--------;--------;--------;False
+Guard;3;--------;--------;--------;--------;--------;--------;False
+Guard;4;--------;--------;--------;--------;--------;--------;False
+Guard;5;--------;--------;--------;--------;--------;--------;False
+Guard Up;1;--------;--------;--------;--------;--------;--------;False
+Guild Guidance;4;--------;--------;--------;--------;--------;--------;True
+Guild Pride;2;--------;--------;--------;--------;--------;--------;True
+Guild Pride;4;--------;--------;--------;--------;--------;--------;True
+Guts;1;--------;--------;--------;--------;--------;--------;False
+Handicraft;1;--------;--------;--------;--------;--------;--------;False
+Handicraft;2;--------;--------;--------;--------;--------;--------;False
+Handicraft;3;--------;--------;--------;--------;--------;--------;False
+Handicraft;4;--------;--------;--------;--------;--------;--------;False
+Handicraft;5;--------;--------;--------;--------;--------;--------;False
+Hasten Recovery;1;--------;--------;--------;--------;--------;--------;False
+Health Boost;1;--------;--------;--------;--------;--------;--------;False
+Health Boost;2;--------;--------;--------;--------;--------;--------;False
+Health Boost;3;--------;--------;--------;--------;--------;--------;False
+Heat Guard;1;--------;--------;--------;--------;--------;--------;False
+Heavy Artillery;1;--------;--------;--------;--------;--------;--------;False
+Heavy Artillery;2;--------;--------;--------;--------;--------;--------;False
+Heroics;1;--------;--------;--------;--------;--------;--------;False
+Heroics;2;--------;--------;--------;--------;--------;--------;False
+Heroics;3;--------;--------;--------;--------;--------;--------;False
+Heroics;4;--------;--------;--------;--------;--------;--------;False
+Heroics;5;--------;--------;--------;--------;--------;--------;False
+Heroics;6;Rajang Will;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Heroics;7;Rajang Will;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Honey Hunter;1;--------;--------;--------;--------;--------;--------;False
+Horn Maestro;1;--------;--------;--------;--------;--------;--------;False
+Horn Maestro;2;--------;--------;--------;--------;--------;--------;False
+Hunger Resistance;1;--------;--------;--------;--------;--------;--------;False
+Hunger Resistance;2;--------;--------;--------;--------;--------;--------;False
+Hunger Resistance;3;--------;--------;--------;--------;--------;--------;False
+Ice Attack;1;--------;--------;--------;--------;--------;--------;False
+Ice Attack;2;--------;--------;--------;--------;--------;--------;False
+Ice Attack;3;--------;--------;--------;--------;--------;--------;False
+Ice Attack;4;--------;--------;--------;--------;--------;--------;False
+Ice Attack;5;--------;--------;--------;--------;--------;--------;False
+Ice Attack;6;--------;--------;--------;--------;--------;--------;False
+Ice Resistance;1;--------;--------;--------;--------;--------;--------;False
+Ice Resistance;2;--------;--------;--------;--------;--------;--------;False
+Ice Resistance;3;--------;--------;--------;--------;--------;--------;False
+Instructor's Guidance;2;--------;--------;--------;--------;--------;--------;True
+Intimidator;1;--------;--------;--------;--------;--------;--------;False
+Intimidator;2;--------;--------;--------;--------;--------;--------;False
+Intimidator;3;--------;--------;--------;--------;--------;--------;False
+Iron Skin;1;--------;--------;--------;--------;--------;--------;False
+Iron Skin;2;--------;--------;--------;--------;--------;--------;False
+Iron Skin;3;--------;--------;--------;--------;--------;--------;False
+Item Prolonger;1;--------;--------;--------;--------;--------;--------;False
+Item Prolonger;2;--------;--------;--------;--------;--------;--------;False
+Item Prolonger;3;--------;--------;--------;--------;--------;--------;False
+Joyful Blessing;3;--------;--------;--------;--------;--------;--------;True
+Joyful Blessing;5;--------;--------;--------;--------;--------;--------;True
+Jump Master;1;--------;--------;--------;--------;--------;--------;False
+Kirin Blessing;4;--------;--------;--------;--------;--------;--------;True
+Kirin Divinity;3;--------;--------;--------;--------;--------;--------;True
+Kirin Favor;3;--------;--------;--------;--------;--------;--------;True
+Kulve Taroth Essence;2;--------;--------;--------;--------;--------;--------;True
+Kulve Taroth Essence;4;--------;--------;--------;--------;--------;--------;True
+Kushala Daora Flight;3;--------;--------;--------;--------;--------;--------;True
+Latent Power;1;--------;--------;--------;--------;--------;--------;False
+Latent Power;2;--------;--------;--------;--------;--------;--------;False
+Latent Power;3;--------;--------;--------;--------;--------;--------;False
+Latent Power;4;--------;--------;--------;--------;--------;--------;False
+Latent Power;5;--------;--------;--------;--------;--------;--------;False
+Latent Power;6;Zinogre Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Latent Power;7;Zinogre Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Leap of Faith;1;--------;--------;--------;--------;--------;--------;False
+Legiana Ambition;3;--------;--------;--------;--------;--------;--------;True
+Legiana Blessing;3;--------;--------;--------;--------;--------;--------;True
+Legiana Favor;2;--------;--------;--------;--------;--------;--------;True
+Legiana Favor;4;--------;--------;--------;--------;--------;--------;True
+Lunastra Essence;3;--------;--------;--------;--------;--------;--------;True
+Lunastra Favor;2;--------;--------;--------;--------;--------;--------;True
+Lunastra Favor;4;--------;--------;--------;--------;--------;--------;True
+Marathon Runner;1;--------;--------;--------;--------;--------;--------;False
+Marathon Runner;2;--------;--------;--------;--------;--------;--------;False
+Marathon Runner;3;--------;--------;--------;--------;--------;--------;False
+Master Fisher;1;--------;--------;--------;--------;--------;--------;False
+Master Gatherer;1;--------;--------;--------;--------;--------;--------;False
+Master Mounter;1;--------;--------;--------;--------;--------;--------;False
+Maximum Might;1;--------;--------;--------;--------;--------;--------;False
+Maximum Might;2;--------;--------;--------;--------;--------;--------;False
+Maximum Might;3;--------;--------;--------;--------;--------;--------;False
+Maximum Might;4;Glavenus Essence;Rajang Will;Rajang Will;Fatalis Legend;Fatalis Legend;--------;False
+Maximum Might;5;Glavenus Essence;Rajang Will;Rajang Will;Fatalis Legend;Fatalis Legend;--------;False
+Mind's Eye/Ballistics;1;--------;--------;--------;--------;--------;--------;False
+Muck Resistance;1;--------;--------;--------;--------;--------;--------;False
+Mushroomancer;1;--------;--------;--------;--------;--------;--------;False
+Mushroomancer;2;--------;--------;--------;--------;--------;--------;False
+Mushroomancer;3;--------;--------;--------;--------;--------;--------;False
+Namielle Divinity;2;--------;--------;--------;--------;--------;--------;True
+Namielle Divinity;4;--------;--------;--------;--------;--------;--------;True
+Nargacuga Essence;3;--------;--------;--------;--------;--------;--------;True
+Nergigante Ambition;2;--------;--------;--------;--------;--------;--------;True
+Nergigante Hunger;3;--------;--------;--------;--------;--------;--------;True
+New World;2;--------;--------;--------;--------;--------;--------;True
+New World;4;--------;--------;--------;--------;--------;--------;True
+Non-elemental Boost;1;--------;--------;--------;--------;--------;--------;False
+Normal Shots;1;--------;--------;--------;--------;--------;--------;False
+Normal Shots;2;--------;--------;--------;--------;--------;--------;False
+Odogaron Essence;3;--------;--------;--------;--------;--------;--------;True
+Odogaron Mastery;2;--------;--------;--------;--------;--------;--------;True
+Odogaron Mastery;4;--------;--------;--------;--------;--------;--------;True
+Odogaron Power;3;--------;--------;--------;--------;--------;--------;True
+Offensive Guard;1;--------;--------;--------;--------;--------;--------;False
+Offensive Guard;2;--------;--------;--------;--------;--------;--------;False
+Offensive Guard;3;--------;--------;--------;--------;--------;--------;False
+Palico Rally;1;--------;--------;--------;--------;--------;--------;False
+Palico Rally;2;--------;--------;--------;--------;--------;--------;False
+Palico Rally;3;--------;--------;--------;--------;--------;--------;False
+Palico Rally;4;--------;--------;--------;--------;--------;--------;False
+Palico Rally;5;--------;--------;--------;--------;--------;--------;False
+Para Functionality;1;--------;--------;--------;--------;--------;--------;False
+Paralysis Attack;1;--------;--------;--------;--------;--------;--------;False
+Paralysis Attack;2;--------;--------;--------;--------;--------;--------;False
+Paralysis Attack;3;--------;--------;--------;--------;--------;--------;False
+Paralysis Attack;4;--------;--------;--------;--------;--------;--------;False
+Paralysis Resistance;1;--------;--------;--------;--------;--------;--------;False
+Paralysis Resistance;2;--------;--------;--------;--------;--------;--------;False
+Paralysis Resistance;3;--------;--------;--------;--------;--------;--------;False
+Partbreaker;1;--------;--------;--------;--------;--------;--------;False
+Partbreaker;2;--------;--------;--------;--------;--------;--------;False
+Partbreaker;3;--------;--------;--------;--------;--------;--------;False
+Peak Performance;1;--------;--------;--------;--------;--------;--------;False
+Peak Performance;2;--------;--------;--------;--------;--------;--------;False
+Peak Performance;3;--------;--------;--------;--------;--------;--------;False
+Piercing Shots;1;--------;--------;--------;--------;--------;--------;False
+Piercing Shots;2;--------;--------;--------;--------;--------;--------;False
+Pink Rathian Mastery;3;--------;--------;--------;--------;--------;--------;True
+Poison Attack;1;--------;--------;--------;--------;--------;--------;False
+Poison Attack;2;--------;--------;--------;--------;--------;--------;False
+Poison Attack;3;--------;--------;--------;--------;--------;--------;False
+Poison Attack;4;--------;--------;--------;--------;--------;--------;False
+Poison Functionality;1;--------;--------;--------;--------;--------;--------;False
+Poison Resistance;1;--------;--------;--------;--------;--------;--------;False
+Poison Resistance;2;--------;--------;--------;--------;--------;--------;False
+Poison Resistance;3;--------;--------;--------;--------;--------;--------;False
+Power Cell;5;--------;--------;--------;--------;--------;--------;True
+Power Prolonger;1;--------;--------;--------;--------;--------;--------;False
+Power Prolonger;2;--------;--------;--------;--------;--------;--------;False
+Power Prolonger;3;--------;--------;--------;--------;--------;--------;False
+Pro Transporter;1;--------;--------;--------;--------;--------;--------;False
+Protective Polish;1;--------;--------;--------;--------;--------;--------;False
+Provoker;1;--------;--------;--------;--------;--------;--------;False
+Quick Sheath;1;--------;--------;--------;--------;--------;--------;False
+Quick Sheath;2;--------;--------;--------;--------;--------;--------;False
+Quick Sheath;3;--------;--------;--------;--------;--------;--------;False
+Rajang Will;2;--------;--------;--------;--------;--------;--------;True
+Rajang Will;4;--------;--------;--------;--------;--------;--------;True
+Rajang's Rage;2;--------;--------;--------;--------;--------;--------;True
+Rajang's Rage;4;--------;--------;--------;--------;--------;--------;True
+Rathalos Essence;3;--------;--------;--------;--------;--------;--------;True
+Rathalos Mastery;4;--------;--------;--------;--------;--------;--------;True
+Rathalos Mastery;2;--------;--------;--------;--------;--------;--------;True
+Rathalos Power;3;--------;--------;--------;--------;--------;--------;True
+Rathian Essence;2;--------;--------;--------;--------;--------;--------;True
+Razor Sharp/Spare Shot;1;--------;--------;--------;--------;--------;--------;False
+Recovery Speed;1;--------;--------;--------;--------;--------;--------;False
+Recovery Speed;2;--------;--------;--------;--------;--------;--------;False
+Recovery Speed;3;--------;--------;--------;--------;--------;--------;False
+Recovery Up;1;--------;--------;--------;--------;--------;--------;False
+Recovery Up;2;--------;--------;--------;--------;--------;--------;False
+Recovery Up;3;--------;--------;--------;--------;--------;--------;False
+Resentment;1;--------;--------;--------;--------;--------;--------;False
+Resentment;2;--------;--------;--------;--------;--------;--------;False
+Resentment;3;--------;--------;--------;--------;--------;--------;False
+Resentment;4;--------;--------;--------;--------;--------;--------;False
+Resentment;5;--------;--------;--------;--------;--------;--------;False
+Resuscitate;1;--------;--------;--------;--------;--------;--------;False
+Safe Landing;1;--------;--------;--------;--------;--------;--------;False
+Safi'jiiva Seal;3;--------;--------;--------;--------;--------;--------;True
+Safi'jiiva Seal;5;--------;--------;--------;--------;--------;--------;True
+Scenthound;1;--------;--------;--------;--------;--------;--------;False
+Scholar;1;--------;--------;--------;--------;--------;--------;False
+Scoutfly Range Up;1;--------;--------;--------;--------;--------;--------;False
+Shara Ishvalda Divinity;4;--------;--------;--------;--------;--------;--------;True
+Shara Ishvalda Divinity;5;--------;--------;--------;--------;--------;--------;True
+Silver Rathalos Essence;2;--------;--------;--------;--------;--------;--------;True
+Silver Rathalos Essence;4;--------;--------;--------;--------;--------;--------;True
+Sizzling Blessing;3;--------;--------;--------;--------;--------;--------;True
+Sizzling Blessing;5;--------;--------;--------;--------;--------;--------;True
+Sleep Attack;1;--------;--------;--------;--------;--------;--------;False
+Sleep Attack;2;--------;--------;--------;--------;--------;--------;False
+Sleep Attack;3;--------;--------;--------;--------;--------;--------;False
+Sleep Attack;4;--------;--------;--------;--------;--------;--------;False
+Sleep Functionality;1;--------;--------;--------;--------;--------;--------;False
+Sleep Resistance;1;--------;--------;--------;--------;--------;--------;False
+Sleep Resistance;2;--------;--------;--------;--------;--------;--------;False
+Sleep Resistance;3;--------;--------;--------;--------;--------;--------;False
+Slinger Capacity;1;--------;--------;--------;--------;--------;--------;False
+Slinger Capacity;2;--------;--------;--------;--------;--------;--------;False
+Slinger Capacity;3;--------;--------;--------;--------;--------;--------;False
+Slinger Capacity;4;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Fatalis Legend;Fatalis Legend;False
+Slinger Capacity;5;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Silver Rathalos Essence;Fatalis Legend;Fatalis Legend;False
+Slugger;1;--------;--------;--------;--------;--------;--------;False
+Slugger;2;--------;--------;--------;--------;--------;--------;False
+Slugger;3;--------;--------;--------;--------;--------;--------;False
+Slugger;4;Diablos Ambition;Frostfang Absolute Art;Fatalis Legend;Fatalis Legend;--------;--------;False
+Slugger;5;Diablos Ambition;Frostfang Absolute Art;Fatalis Legend;Fatalis Legend;--------;--------;False
+Soul of the Dragoon;2;--------;--------;--------;--------;--------;--------;True
+Soul of the Dragoon;4;--------;--------;--------;--------;--------;--------;True
+Special Ammo Boost;1;--------;--------;--------;--------;--------;--------;False
+Special Ammo Boost;2;--------;--------;--------;--------;--------;--------;False
+Speed Crawler;1;--------;--------;--------;--------;--------;--------;False
+Speed Eating;1;--------;--------;--------;--------;--------;--------;False
+Speed Eating;2;--------;--------;--------;--------;--------;--------;False
+Speed Eating;3;--------;--------;--------;--------;--------;--------;False
+Speed Sharpening;1;--------;--------;--------;--------;--------;--------;False
+Speed Sharpening;2;--------;--------;--------;--------;--------;--------;False
+Speed Sharpening;3;--------;--------;--------;--------;--------;--------;False
+Spread/Power Shots;1;--------;--------;--------;--------;--------;--------;False
+Spread/Power Shots;2;--------;--------;--------;--------;--------;--------;False
+Stamina Surge;1;--------;--------;--------;--------;--------;--------;False
+Stamina Surge;2;--------;--------;--------;--------;--------;--------;False
+Stamina Surge;3;--------;--------;--------;--------;--------;--------;False
+Stamina Thief;1;--------;--------;--------;--------;--------;--------;False
+Stamina Thief;2;--------;--------;--------;--------;--------;--------;False
+Stamina Thief;3;--------;--------;--------;--------;--------;--------;False
+Stamina Thief;4;Deviljho Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Stamina Thief;5;Deviljho Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Stealth;1;--------;--------;--------;--------;--------;--------;False
+Stealth;2;--------;--------;--------;--------;--------;--------;False
+Stealth;3;--------;--------;--------;--------;--------;--------;False
+Stun Resistance;1;--------;--------;--------;--------;--------;--------;False
+Stun Resistance;2;--------;--------;--------;--------;--------;--------;False
+Stun Resistance;3;--------;--------;--------;--------;--------;--------;False
+Survival Expert;1;--------;--------;--------;--------;--------;--------;False
+Survival Expert;2;--------;--------;--------;--------;--------;--------;False
+Survival Expert;3;--------;--------;--------;--------;--------;--------;False
+Survivor;2;--------;--------;--------;--------;--------;--------;True
+Survivor;4;--------;--------;--------;--------;--------;--------;True
+Teostra Technique;3;--------;--------;--------;--------;--------;--------;True
+Thunder Attack;1;--------;--------;--------;--------;--------;--------;False
+Thunder Attack;2;--------;--------;--------;--------;--------;--------;False
+Thunder Attack;3;--------;--------;--------;--------;--------;--------;False
+Thunder Attack;4;--------;--------;--------;--------;--------;--------;False
+Thunder Attack;5;--------;--------;--------;--------;--------;--------;False
+Thunder Attack;6;--------;--------;--------;--------;--------;--------;False
+Thunder Resistance;1;--------;--------;--------;--------;--------;--------;False
+Thunder Resistance;2;--------;--------;--------;--------;--------;--------;False
+Thunder Resistance;3;--------;--------;--------;--------;--------;--------;False
+Tigrex Essence;3;--------;--------;--------;--------;--------;--------;True
+Tool Specialist;1;--------;--------;--------;--------;--------;--------;False
+Tool Specialist;2;--------;--------;--------;--------;--------;--------;False
+Tool Specialist;3;--------;--------;--------;--------;--------;--------;False
+Tool Specialist;4;Lunastra Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Tool Specialist;5;Lunastra Essence;Fatalis Legend;Fatalis Legend;--------;--------;--------;False
+Tremor Resistance;1;--------;--------;--------;--------;--------;--------;False
+Tremor Resistance;2;--------;--------;--------;--------;--------;--------;False
+Tremor Resistance;3;--------;--------;--------;--------;--------;--------;False
+Uragaan Ambition;2;--------;--------;--------;--------;--------;--------;True
+Uragaan Protection;3;--------;--------;--------;--------;--------;--------;True
+Vaal Hazak Vitality;3;--------;--------;--------;--------;--------;--------;True
+Vaal Soulvein;2;--------;--------;--------;--------;--------;--------;True
+Velkhana Divinity;4;--------;--------;--------;--------;--------;--------;True
+Velkhana Divinity;2;--------;--------;--------;--------;--------;--------;True
+Water Attack;1;--------;--------;--------;--------;--------;--------;False
+Water Attack;2;--------;--------;--------;--------;--------;--------;False
+Water Attack;3;--------;--------;--------;--------;--------;--------;False
+Water Attack;4;--------;--------;--------;--------;--------;--------;False
+Water Attack;5;--------;--------;--------;--------;--------;--------;False
+Water Attack;6;--------;--------;--------;--------;--------;--------;False
+Water Resistance;1;--------;--------;--------;--------;--------;--------;False
+Water Resistance;2;--------;--------;--------;--------;--------;--------;False
+Water Resistance;3;--------;--------;--------;--------;--------;--------;False
+Weakness Exploit;1;--------;--------;--------;--------;--------;--------;False
+Weakness Exploit;2;--------;--------;--------;--------;--------;--------;False
+Weakness Exploit;3;--------;--------;--------;--------;--------;--------;False
+Wide-Range;1;--------;--------;--------;--------;--------;--------;False
+Wide-Range;2;--------;--------;--------;--------;--------;--------;False
+Wide-Range;3;--------;--------;--------;--------;--------;--------;False
+Wide-Range;4;--------;--------;--------;--------;--------;--------;False
+Wide-Range;5;--------;--------;--------;--------;--------;--------;False
+Windproof;1;--------;--------;--------;--------;--------;--------;False
+Windproof;2;--------;--------;--------;--------;--------;--------;False
+Windproof;3;--------;--------;--------;--------;--------;--------;False
+Windproof;4;--------;--------;--------;--------;--------;--------;False
+Windproof;5;--------;--------;--------;--------;--------;--------;False
+Witcher's Knowledge;2;--------;--------;--------;--------;--------;--------;True
+Witcher's Knowledge;4;--------;--------;--------;--------;--------;--------;True
+Xeno'jiiva Divinity;3;--------;--------;--------;--------;--------;--------;True
+Zinogre Essence;3;--------;--------;--------;--------;--------;--------;True
+Zorah Magdaros Essence;3;--------;--------;--------;--------;--------;--------;True
+Zorah Magdaros Mastery;3;--------;--------;--------;--------;--------;--------;True

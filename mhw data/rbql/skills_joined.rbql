@@ -1,5 +1,16 @@
 joins skill_data.csv with skill_point_data.csv
 
-SELECT *
-STRICT LEFT JOIN ./skill_point_data.csv
-ON a.id == b.name
+SELECT 
+  a.id,
+  a.level,
+  a.unlock_skill_1,
+  a.unlock_skill_2,
+  a.unlock_skill_3,
+  a.unlock_skill_4,
+  a.unlock_skill_5,
+  a.unlock_skill_6,
+  b.is_set_bonus
+STRICT LEFT JOIN 
+  ./skill_point_data.csv
+ON 
+  a.id == b.name
