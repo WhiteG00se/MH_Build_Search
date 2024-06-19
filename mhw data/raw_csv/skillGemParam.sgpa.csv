@@ -1,4 +1,4 @@
-Index;Id;Size;Skill_1;Skill_1_Level;Skill_2;Skill_2_Level;Description
+index;id;size;skill_1;skill_1_level;skill_2;skill_2_level;description
 0;727: Antidote Jewel 1;1;1: Poison Resistance;1;0: --------;0;A decoration that enhances the Poison Resistance skill.
 1;728: Antipara Jewel 1;1;2: Paralysis Resistance;1;0: --------;0;A decoration that enhances the Paralysis Resistance skill.
 2;729: Pep Jewel 1;1;3: Sleep Resistance;1;0: --------;0;A decoration that enhances the Sleep Resistance skill.
