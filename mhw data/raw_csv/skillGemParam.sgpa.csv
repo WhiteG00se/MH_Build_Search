@@ -1,0 +1,405 @@
+Index;Id;Size;Skill_1;Skill_1_Level;Skill_2;Skill_2_Level;Description
+0;727: Antidote Jewel 1;1;1: Poison Resistance;1;0: --------;0;A decoration that enhances the Poison Resistance skill.
+1;728: Antipara Jewel 1;1;2: Paralysis Resistance;1;0: --------;0;A decoration that enhances the Paralysis Resistance skill.
+2;729: Pep Jewel 1;1;3: Sleep Resistance;1;0: --------;0;A decoration that enhances the Sleep Resistance skill.
+3;730: Steadfast Jewel 1;1;4: Stun Resistance;1;0: --------;0;A decoration that enhances the Stun Resistance skill.
+4;731: Antiblast Jewel 1;1;6: Blast Resistance;1;0: --------;0;A decoration that enhances the Blast Resistance skill.
+5;732: Suture Jewel 1;1;7: Bleeding Resistance;1;0: --------;0;A decoration that enhances the Bleeding Resistance skill.
+6;733: Def Lock Jewel 1;1;8: Iron Skin;1;0: --------;0;A decoration that enhances the Iron Skin skill.
+7;734: Earplug Jewel 3;3;11: Earplugs;1;0: --------;0;A decoration that enhances the Earplugs skill.
+8;735: Wind Resist Jewel 2;2;12: Windproof;1;0: --------;0;A decoration that enhances the Windproof skill.
+9;736: Footing Jewel 2;2;13: Tremor Resistance;1;0: --------;0;A decoration that enhances the Tremor Resistance skill.
+10;739: Attack Jewel 1;1;19: Attack Boost;1;0: --------;0;A decoration that enhances the Attack Boost skill.
+11;740: Defense Jewel 1;1;20: Defense Boost;1;0: --------;0;A decoration that enhances the Defense Boost skill.
+12;741: Vitality Jewel 1;1;21: Health Boost;1;0: --------;0;A decoration that enhances the Health Boost skill.
+13;742: Recovery Jewel 1;1;23: Recovery Speed;1;0: --------;0;A decoration that enhances the Recovery Speed skill.
+14;743: Fire Res Jewel 1;1;24: Fire Resistance;1;0: --------;0;A decoration that enhances the Fire Resistance skill.
+15;744: Water Res Jewel 1;1;25: Water Resistance;1;0: --------;0;A decoration that enhances the Water Resistance skill.
+16;745: Ice Res Jewel 1;1;26: Ice Resistance;1;0: --------;0;A decoration that enhances the Ice Resistance skill.
+17;746: Thunder Res Jewel 1;1;27: Thunder Resistance;1;0: --------;0;A decoration that enhances the Thunder Resistance skill.
+18;747: Dragon Res Jewel 1;1;28: Dragon Resistance;1;0: --------;0;A decoration that enhances the Dragon Resistance skill.
+19;748: Resistor Jewel 1;1;29: Blight Resistance;1;0: --------;0;A decoration that enhances the Blight Resistance skill.
+20;749: Blaze Jewel 1;1;30: Fire Attack;1;0: --------;0;A decoration that enhances the Fire Attack skill.
+21;750: Stream Jewel 1;1;31: Water Attack;1;0: --------;0;A decoration that enhances the Water Attack skill.
+22;751: Frost Jewel 1;1;32: Ice Attack;1;0: --------;0;A decoration that enhances the Ice Attack skill.
+23;752: Bolt Jewel 1;1;33: Thunder Attack;1;0: --------;0;A decoration that enhances the Thunder Attack skill.
+24;753: Dragon Jewel 1;1;34: Dragon Attack;1;0: --------;0;A decoration that enhances the Dragon Attack skill.
+25;754: Venom Jewel 1;1;35: Poison Attack;1;0: --------;0;A decoration that enhances the Poison Attack skill.
+26;755: Paralyzer Jewel 1;1;36: Paralysis Attack;1;0: --------;0;A decoration that enhances the Paralysis Attack skill.
+27;756: Sleep Jewel 1;1;37: Sleep Attack;1;0: --------;0;A decoration that enhances the Sleep Attack skill.
+28;757: Blast Jewel 1;1;38: Blast Attack;1;0: --------;0;A decoration that enhances the Blast Attack skill.
+29;758: Poisoncoat Jewel 3;3;42: Poison Functionality;1;0: --------;0;A decoration that enhances the Poison Functionality skill.
+30;759: Paracoat Jewel 3;3;43: Para Functionality;1;0: --------;0;A decoration that enhances the Para Functionality skill.
+31;760: Sleepcoat Jewel 3;3;44: Sleep Functionality;1;0: --------;0;A decoration that enhances the Sleep Functionality skill.
+32;761: Blastcoat Jewel 3;3;46: Blast Functionality;1;0: --------;0;A decoration that enhances the Blast Functionality skill.
+33;763: Release Jewel 3;3;47: Free Elem/Ammo Up;1;0: --------;0;A decoration that enhances the Free Element/Ammo Up skill.
+34;764: Expert Jewel 1;1;48: Critical Eye;1;0: --------;0;A decoration that enhances the Critical Eye skill.
+35;765: Critical Jewel 2;2;49: Critical Boost;1;0: --------;0;A decoration that enhances the Critical Boost skill.
+36;766: Tenderizer Jewel 2;2;50: Weakness Exploit;1;0: --------;0;A decoration that enhances the Weakness Exploit skill.
+37;767: Charger Jewel 2;2;52: Focus;1;0: --------;0;A decoration that enhances the Focus skill.
+38;768: Handicraft Jewel 3;3;54: Handicraft;1;0: --------;0;A decoration that enhances the Handicraft skill.
+39;769: Draw Jewel 2;2;55: Critical Draw;1;0: --------;0;A decoration that enhances the Critical Draw skill.
+40;770: Destroyer Jewel 2;2;56: Partbreaker;1;0: --------;0;A decoration that enhances the Partbreaker skill.
+41;771: KO Jewel 2;2;57: Slugger;1;0: --------;0;A decoration that enhances the Slugger skill.
+42;772: Drain Jewel 1;1;58: Stamina Thief;1;0: --------;0;A decoration that enhances the Stamina Thief skill.
+43;774: Flight Jewel 2;2;60: Airborne;1;0: --------;0;A decoration that enhances the Airborne skill.
+44;775: Throttle Jewel 2;2;61: Latent Power;1;0: --------;0;A decoration that enhances the Latent Power skill.
+45;776: Challenger Jewel 2;2;62: Agitator;1;0: --------;0;A decoration that enhances the Agitator skill.
+46;777: Flawless Jewel 2;2;63: Peak Performance;1;0: --------;0;A decoration that enhances the Peak Performance skill.
+47;778: Potential Jewel 2;2;64: Heroics;1;0: --------;0;A decoration that enhances the Heroics skill.
+48;779: Fortitude Jewel 1;1;65: Fortify;1;0: --------;0;A decoration that enhances the Fortify skill.
+49;780: Furor Jewel 2;2;66: Resentment;1;0: --------;0;A decoration that enhances the Resentment skill.
+50;781: Sonorous Jewel 1;1;68: Horn Maestro;1;0: --------;0;A decoration that enhances the Horn Maestro skill.
+51;782: Magazine Jewel 2;2;69: Capacity Boost;1;0: --------;0;A decoration that enhances the Capacity Boost skill.
+52;783: Trueshot Jewel 1;1;70: Special Ammo Boost;1;0: --------;0;A decoration that enhances the Special Ammo Boost skill.
+53;784: Artillery Jewel 1;1;71: Artillery;1;0: --------;0;A decoration that enhances the Artillery skill.
+54;785: Heavy Artillery Jewel 1;1;72: Heavy Artillery;1;0: --------;0;A decoration that enhances the Heavy Artillery skill.
+55;786: Sprinter Jewel 2;2;73: Marathon Runner;1;0: --------;0;A decoration that enhances the Marathon Runner skill.
+56;787: Physique Jewel 2;2;74: Constitution;1;0: --------;0;A decoration that enhances the Constitution skill.
+57;789: Refresh Jewel 2;2;76: Stamina Surge;1;0: --------;0;A decoration that enhances the Stamina Surge skill.
+58;790: Hungerless Jewel 1;1;77: Hunger Resistance;1;0: --------;0;A decoration that enhances the Hunger Resistance skill.
+59;791: Evasion Jewel 2;2;78: Evade Window;1;0: --------;0;A decoration that enhances the Evade Window skill.
+60;792: Jumping Jewel 2;2;79: Evade Extender;1;0: --------;0;A decoration that enhances the Evade Extender skill.
+61;793: Ironwall Jewel 1;1;80: Guard;1;0: --------;0;A decoration that enhances the Guard skill.
+62;794: Sheath Jewel 1;1;81: Quick Sheath;1;0: --------;0;A decoration that enhances the Quick Sheath skill.
+63;795: Friendship Jewel 1;1;82: Wide-Range;1;0: --------;0;A decoration that enhances the Wide-Range skill.
+64;796: Enduring Jewel 1;1;83: Item Prolonger;1;0: --------;0;A decoration that enhances the Item Prolonger skill.
+65;797: Satiated Jewel 1;1;84: Free Meal;1;0: --------;0;A decoration that enhances the Free Meal skill.
+66;798: Gobbler Jewel 1;1;85: Speed Eating;1;0: --------;0;A decoration that enhances the Speed Eating skill.
+67;799: Grinder Jewel 1;1;86: Speed Sharpening;1;0: --------;0;A decoration that enhances the Speed Sharpening skill.
+68;800: Bomber Jewel 1;1;88: Bombardier;1;0: --------;0;A decoration that enhances the Bombardier skill.
+69;801: Fungiform Jewel 1;1;90: Mushroomancer;1;0: --------;0;A decoration that enhances the Mushroomancer skill.
+70;808: Protection Jewel 1;1;97: Divine Blessing;1;0: --------;0;A decoration that enhances the Divine Blessing skill.
+71;809: Meowster Jewel 1;1;98: Palico Rally;1;0: --------;0;A decoration that enhances the Palico Rally skill.
+72;810: Botany Jewel 1;1;99: Botanist;1;0: --------;0;A decoration that enhances the Botanist skill.
+73;811: Geology Jewel 1;1;100: Geologist;1;0: --------;0;A decoration that enhances the Geologist skill.
+74;812: Mighty Jewel 2;2;101: Maximum Might;1;0: --------;0;A decoration that enhances the Maximum Might skill.
+75;813: Stonethrower Jewel 1;1;102: Slinger Capacity;1;0: --------;0;A decoration that enhances the Slinger Capacity skill.
+76;814: Tip Toe Jewel 1;1;103: Stealth;1;0: --------;0;A decoration that enhances the Stealth skill.
+77;815: Brace Jewel 3;3;104: Flinch Free;1;0: --------;0;A decoration that enhances the Flinch Free skill.
+78;819: Smoke Jewel 1;1;108: Survival Expert;1;0: --------;0;A decoration that enhances the Sporepuff Expert skill.
+79;820: Mirewalker Jewel 1;1;109: Aquatic/Polar Mobility;1;0: --------;0;A decoration that enhances the Aquatic Expert skill.
+80;824: Specimen Jewel 1;1;115: Entomologist;1;0: --------;0;A decoration that enhances the Entomologist skill.
+81;826: Scent Jewel 1;1;117: Scenthound;1;0: --------;0;A decoration that enhances the Scenthound skill.
+82;828: Intimidator Jewel 1;1;124: Intimidator;1;0: --------;0;A decoration that enhances the Intimidator skill.
+83;832: Slider Jewel 2;2;122: Affinity Sliding;1;0: --------;0;A decoration that enhances the Affinity Sliding skill.
+84;833: Medicine Jewel 1;1;22: Recovery Up;1;0: --------;0;A decoration that enhances the Recovery Up skill.
+85;834: Forceshot Jewel 3;3;39: Normal Shots;1;0: --------;0;A decoration that enhances the Normal Shots skill.
+86;835: Pierce Jewel 3;3;40: Piercing Shots;1;0: --------;0;A decoration that enhances the Piercing Shots skill.
+87;836: Spread Jewel 3;3;41: Spread/Power Shots;1;0: --------;0;A decoration that enhances the Spread/Power Shots skill.
+88;837: Enhancer Jewel 2;2;53: Power Prolonger;1;0: --------;0;A decoration that enhances the Power Prolonger skill.
+89;838: Crisis Jewel 1;1;67: Resuscitate;1;0: --------;0;A decoration that enhances the Resuscitate skill.
+90;839: Dragonseal Jewel 3;3;123: Elderseal Boost;1;0: --------;0;A decoration that enhances the Elderseal Boost skill.
+91;842: Maintenance Jewel 1;1;120: Tool Specialist;1;0: --------;0;A decoration that enhances the Tool Specialist skill.
+92;874: Mighty Bow Jewel 2;2;155: Bow Charge Plus;1;0: --------;0;A decoration that enhances the Bow Charge Plus skill.
+93;875: Mind's Eye Jewel 2;2;156: Mind's Eye/Ballistics;1;0: --------;0;A decoration that enhances the Mind's Eye/Ballistics skill.
+94;876: Shield Jewel 2;2;157: Guard Up;1;0: --------;0;A decoration that enhances the Guard Up skill.
+95;877: Sharp Jewel 2;2;158: Protective Polish;1;0: --------;0;A decoration that enhances the Protective Polish skill.
+96;878: Elementless Jewel 2;2;159: Non-elemental Boost;1;0: --------;0;A decoration that enhances the Non-elemental Boost skill.
+97;825: Miasma Jewel 1;1;116: Effluvia Resistance;1;0: --------;0;A decoration that enhances the Effluvia Resistance skill.
+98;1968: Phoenix Jewel 3;3;186: Coalescence;1;0: --------;0;A decoration that enhances the Coalescence skill.
+99;1969: Guardian Jewel 2;2;185: Offensive Guard;1;0: --------;0;A decoration that enhances the Offensive Guard skill.
+100;1970: Cooling Jewel 2;2;17: Heat Guard;1;0: --------;0;A decoration that enhances the Heat Guard skill.
+101;1971: Fire Res Jewel+ 4;4;24: Fire Resistance;2;0: --------;0;A decoration that enhances the Fire Resistance skill.
+102;1972: Water Res Jewel+ 4;4;25: Water Resistance;2;0: --------;0;A decoration that enhances the Water Resistance skill.
+103;1973: Ice Res Jewel+ 4;4;26: Ice Resistance;2;0: --------;0;A decoration that enhances the Ice Resistance skill.
+104;1974: Thunder Res Jewel+ 4;4;27: Thunder Resistance;2;0: --------;0;A decoration that enhances the Thunder Resistance skill.
+105;1975: Dragon Res Jewel+ 4;4;28: Dragon Resistance;2;0: --------;0;A decoration that enhances the Dragon Resistance skill.
+106;1976: Blaze Jewel+ 4;4;30: Fire Attack;2;0: --------;0;A decoration that enhances the Fire Attack skill.
+107;1977: Stream Jewel+ 4;4;31: Water Attack;2;0: --------;0;A decoration that enhances the Water Attack skill.
+108;1978: Frost Jewel+ 4;4;32: Ice Attack;2;0: --------;0;A decoration that enhances the Ice Attack skill.
+109;1979: Bolt Jewel+ 4;4;33: Thunder Attack;2;0: --------;0;A decoration that enhances the Thunder Attack skill.
+110;1980: Dragon Jewel+ 4;4;34: Dragon Attack;2;0: --------;0;A decoration that enhances the Dragon Attack skill.
+111;1981: Venom Jewel+ 4;4;35: Poison Attack;2;0: --------;0;A decoration that enhances the Poison Attack skill.
+112;1982: Paralyzer Jewel+ 4;4;36: Paralysis Attack;2;0: --------;0;A decoration that enhances the Paralysis Attack skill.
+113;1983: Sleep Jewel+ 4;4;37: Sleep Attack;2;0: --------;0;A decoration that enhances the Sleep Attack skill.
+114;1984: Blast Jewel+ 4;4;38: Blast Attack;2;0: --------;0;A decoration that enhances the Blast Attack skill.
+115;1985: Hard Fire Res Jewel 4;4;24: Fire Resistance;3;0: --------;0;A decoration that enhances the Fire Resistance skill.
+116;1986: Hard Water Res Jewel 4;4;25: Water Resistance;3;0: --------;0;A decoration that enhances the Water Resistance skill.
+117;1987: Hard Ice Res Jewel 4;4;26: Ice Resistance;3;0: --------;0;A decoration that enhances the Ice Resistance skill.
+118;1988: Hard Thunder Res Jewel 4;4;27: Thunder Resistance;3;0: --------;0;A decoration that enhances the Thunder Resistance skill.
+119;1989: Hard Dragon Res Jewel 4;4;28: Dragon Resistance;3;0: --------;0;A decoration that enhances the Dragon Resistance skill.
+120;1990: Antidote Jewel+ 4;4;1: Poison Resistance;2;0: --------;0;A decoration that enhances the Poison Resistance skill.
+121;1991: Antipara Jewel+ 4;4;2: Paralysis Resistance;2;0: --------;0;A decoration that enhances the Paralysis Resistance skill.
+122;1992: Pep Jewel+ 4;4;3: Sleep Resistance;2;0: --------;0;A decoration that enhances the Sleep Resistance skill.
+123;1993: Steadfast Jewel+ 4;4;4: Stun Resistance;2;0: --------;0;A decoration that enhances the Stun Resistance skill.
+124;1994: Antiblast Jewel+ 4;4;6: Blast Resistance;2;0: --------;0;A decoration that enhances the Blast Resistance skill.
+125;1995: Suture Jewel+ 4;4;7: Bleeding Resistance;2;0: --------;0;A decoration that enhances the Bleeding Resistance skill.
+126;1996: Def Lock Jewel+ 4;4;8: Iron Skin;2;0: --------;0;A decoration that enhances the Iron Skin skill.
+127;1997: Miasma Jewel+ 4;4;116: Effluvia Resistance;2;0: --------;0;A decoration that enhances the Effluvia Resistance skill.
+128;1998: Hungerless Jewel+ 4;4;77: Hunger Resistance;2;0: --------;0;A decoration that enhances the Hunger Resistance skill.
+129;1999: Recovery Jewel+ 4;4;23: Recovery Speed;2;0: --------;0;A decoration that enhances the Recovery Speed skill.
+130;2000: Tip Toe Jewel+ 4;4;103: Stealth;2;0: --------;0;A decoration that enhances the Stealth skill.
+131;2001: Intimidator Jewel+ 4;4;124: Intimidator;2;0: --------;0;A decoration that enhances the Intimidator skill.
+132;2002: Meowster Jewel+ 4;4;98: Palico Rally;2;0: --------;0;A decoration that enhances the Palico Rally skill.
+133;2003: Hard Tip Toe Jewel 4;4;103: Stealth;3;0: --------;0;A decoration that enhances the Stealth skill.
+134;2004: Hard Intimidator Jewel 4;4;124: Intimidator;3;0: --------;0;A decoration that enhances the Intimidator skill.
+135;2005: Hard Meowster Jewel 4;4;98: Palico Rally;3;0: --------;0;A decoration that enhances the Palico Rally skill.
+136;2006: Trueshot Jewel+ 4;4;70: Special Ammo Boost;2;0: --------;0;A decoration that enhances the Special Ammo Boost skill.
+137;2007: Heavy Artillery Jewel+ 4;4;72: Heavy Artillery;2;0: --------;0;A decoration that enhances the Heavy Artillery skill.
+138;2008: Botany Jewel+ 4;4;99: Botanist;2;0: --------;0;A decoration that enhances the Botanist skill.
+139;2009: Geology Jewel+ 4;4;100: Geologist;2;0: --------;0;A decoration that enhances the Geologist skill.
+140;2010: Survival Jewel+ 4;4;108: Survival Expert;2;0: --------;0;A decoration that enhances the Survival Expert skill.
+141;2011: Mirewalker Jewel+ 4;4;109: Aquatic/Polar Mobility;2;0: --------;0;A decoration that enhances the Aquatic/Polar Mobility skill.
+142;2012: Specimen Jewel+ 4;4;115: Entomologist;2;0: --------;0;A decoration that enhances the Entomologist skill.
+143;2013: Sonorous Jewel+ 4;4;68: Horn Maestro;2;0: --------;0;A decoration that enhances the Horn Maestro skill.
+144;2014: Hard Botany Jewel+ 4;4;99: Botanist;4;0: --------;0;A decoration that enhances the Botanist skill.
+145;2015: Hard Geology Jewel 4;4;100: Geologist;3;0: --------;0;A decoration that enhances the Geologist skill.
+146;2016: Hard Survival Jewel 4;4;108: Survival Expert;3;0: --------;0;A decoration that enhances the Survival Expert skill.
+147;2017: Hard Specimen Jewel 4;4;115: Entomologist;3;0: --------;0;A decoration that enhances the Entomologist skill.
+148;2018: Enduring Jewel+ 4;4;83: Item Prolonger;2;0: --------;0;A decoration that enhances the Item Prolonger skill.
+149;2019: Defense Jewel+ 4;4;20: Defense Boost;2;0: --------;0;A decoration that enhances the Defense Boost skill.
+150;2020: Hard Enduring Jewel 4;4;83: Item Prolonger;3;0: --------;0;A decoration that enhances the Item Prolonger skill.
+151;2021: Hard Defense Jewel 4;4;20: Defense Boost;3;0: --------;0;A decoration that enhances the Defense Boost skill.
+152;2022: Artillery Jewel+ 4;4;71: Artillery;2;0: --------;0;A decoration that enhances the Artillery skill.
+153;2023: Earplug Jewel+ 4;4;11: Earplugs;2;0: --------;0;A decoration that enhances the Earplugs skill.
+154;2024: Wind Resist Jewel+ 4;4;12: Windproof;2;0: --------;0;A decoration that enhances the Windproof skill.
+155;2025: Attack Jewel+ 4;4;19: Attack Boost;2;0: --------;0;A decoration that enhances the Attack Boost skill.
+156;2026: Expert Jewel+ 4;4;48: Critical Eye;2;0: --------;0;A decoration that enhances the Critical Eye skill.
+157;2027: Handicraft Jewel+ 4;4;54: Handicraft;2;0: --------;0;A decoration that enhances the Handicraft skill.
+158;2028: Throttle Jewel+ 4;4;61: Latent Power;2;0: --------;0;A decoration that enhances the Latent Power skill.
+159;2029: Challenger Jewel+ 4;4;62: Agitator;2;0: --------;0;A decoration that enhances the Agitator skill.
+160;2030: Potential Jewel+ 4;4;64: Heroics;2;0: --------;0;A decoration that enhances the Heroics skill.
+161;2031: Furor Jewel+ 4;4;66: Resentment;2;0: --------;0;A decoration that enhances the Resentment skill.
+162;2032: Physique Jewel+ 4;4;74: Constitution;2;0: --------;0;A decoration that enhances the Constitution skill.
+163;2033: Evasion Jewel+ 4;4;78: Evade Window;2;0: --------;0;A decoration that enhances the Evade Window skill.
+164;2034: Ironwall Jewel+ 4;4;80: Guard;2;0: --------;0;A decoration that enhances the Guard skill.
+165;2035: Friendship Jewel+ 4;4;82: Wide-Range;2;0: --------;0;A decoration that enhances the Wide-Range skill.
+166;2036: Drain/Physique Jewel 4;4;58: Stamina Thief;1;74: Constitution;1;A decoration that enhances the Stamina Thief and Constitution skills.
+167;2037: Fortitude/Physique Jewel 4;4;65: Fortify;1;74: Constitution;1;A decoration that enhances the Fortify and Constitution skills.
+168;2038: Crisis/Physique Jewel 4;4;67: Resuscitate;1;74: Constitution;1;A decoration that enhances the Resuscitate and Constitution skills.
+169;2039: Ironwall/Physique Jewel 4;4;80: Guard;1;74: Constitution;1;A decoration that enhances the Guard and Constitution skills.
+170;2040: Friendship/Physique Jewel 4;4;82: Wide-Range;1;74: Constitution;1;A decoration that enhances the Wide-Range and Constitution skills.
+171;2041: Satiated/Physique Jewel 4;4;84: Free Meal;1;74: Constitution;1;A decoration that enhances the Free Meal and Constitution skills.
+172;2042: Stonethrower/Physique Jewel 4;4;102: Slinger Capacity;1;74: Constitution;1;A decoration that enhances the Slinger Capacity and Constitution skills.
+173;2043: Resistor/Physique Jewel 4;4;29: Blight Resistance;1;74: Constitution;1;A decoration that enhances the Blight Resistance and Constitution skills.
+174;2044: Flight/Physique Jewel 4;4;60: Airborne;1;74: Constitution;1;A decoration that enhances the Airborne and Constitution skills.
+175;2045: Sprinter/Physique Jewel 4;4;73: Marathon Runner;1;74: Constitution;1;A decoration that enhances the Marathon Runner and Constitution skills.
+176;2046: Refresh/Physique Jewel 4;4;76: Stamina Surge;1;74: Constitution;1;A decoration that enhances the Stamina Surge and Constitution skills.
+177;2047: Jumping/Physique Jewel 4;4;79: Evade Extender;1;74: Constitution;1;A decoration that enhances the Evade Extender and Constitution skills.
+178;2048: Sheath/Physique Jewel 4;4;81: Quick Sheath;1;74: Constitution;1;A decoration that enhances the Quick Sheath and Constitution skills.
+179;2049: Gobbler/Physique Jewel 4;4;85: Speed Eating;1;74: Constitution;1;A decoration that enhances the Speed Eating and Constitution skills.
+180;2050: Grinder/Physique Jewel 4;4;86: Speed Sharpening;1;74: Constitution;1;A decoration that enhances the Speed Sharpening and Constitution skills.
+181;2051: Bomber/Physique Jewel 4;4;88: Bombardier;1;74: Constitution;1;A decoration that enhances the Bombardier and Constitution skills.
+182;2052: Fungiform/Physique Jewel 4;4;90: Mushroomancer;1;74: Constitution;1;A decoration that enhances the Mushroomancer and Constitution skills.
+183;2053: Slider/Physique Jewel 4;4;122: Affinity Sliding;1;74: Constitution;1;A decoration that enhances the Affinity Sliding and Constitution skills.
+184;2054: Guardian/Physique Jewel 4;4;185: Offensive Guard;1;74: Constitution;1;A decoration that enhances the Offensive Guard and Constitution skills.
+185;2055: Drain/Evasion Jewel 4;4;58: Stamina Thief;1;78: Evade Window;1;A decoration that enhances the Stamina Thief and Evade Window skills.
+186;2056: Fortitude/Evasion Jewel 4;4;65: Fortify;1;78: Evade Window;1;A decoration that enhances the Fortify and Evade Window skills.
+187;2057: Crisis/Evasion Jewel 4;4;67: Resuscitate;1;78: Evade Window;1;A decoration that enhances the Resuscitate and Evade Window skills.
+188;2058: Ironwall/Evasion Jewel 4;4;80: Guard;1;78: Evade Window;1;A decoration that enhances the Guard and Evade Window skills.
+189;2059: Friendship/Evasion Jewel 4;4;82: Wide-Range;1;78: Evade Window;1;A decoration that enhances the Wide-Range and Evade Window skills.
+190;2060: Satiated/Evasion Jewel 4;4;84: Free Meal;1;78: Evade Window;1;A decoration that enhances the Free Meal and Evade Window skills.
+191;2061: Stonethrower/Evasion Jewel 4;4;102: Slinger Capacity;1;78: Evade Window;1;A decoration that enhances the Slinger Capacity and Evade Window skills.
+192;2062: Resistor/Evasion Jewel 4;4;29: Blight Resistance;1;78: Evade Window;1;A decoration that enhances the Blight Resistance and Evade Window skills.
+193;2063: Flight/Evasion Jewel 4;4;60: Airborne;1;78: Evade Window;1;A decoration that enhances the Airborne and Evade Window skills.
+194;2064: Sprinter/Evasion Jewel 4;4;73: Marathon Runner;1;78: Evade Window;1;A decoration that enhances the Marathon Runner and Evade Window skills.
+195;2065: Refresh/Evasion Jewel 4;4;76: Stamina Surge;1;78: Evade Window;1;A decoration that enhances the Stamina Surge and Evade Window skills.
+196;2066: Jumping/Evasion Jewel 4;4;79: Evade Extender;1;78: Evade Window;1;A decoration that enhances the Evade Extender and Evade Window skills.
+197;2067: Sheath/Evasion Jewel 4;4;81: Quick Sheath;1;78: Evade Window;1;A decoration that enhances the Quick Sheath and Evade Window skills.
+198;2068: Gobbler/Evasion Jewel 4;4;85: Speed Eating;1;78: Evade Window;1;A decoration that enhances the Speed Eating and Evade Window skills.
+199;2069: Grinder/Evasion Jewel 4;4;86: Speed Sharpening;1;78: Evade Window;1;A decoration that enhances the Speed Sharpening and Evade Window skills.
+200;2070: Bomber/Evasion Jewel 4;4;88: Bombardier;1;78: Evade Window;1;A decoration that enhances the Bombardier and Evade Window skills.
+201;2071: Fungiform/Evasion Jewel 4;4;90: Mushroomancer;1;78: Evade Window;1;A decoration that enhances the Mushroomancer and Evade Window skills.
+202;2072: Slider/Evasion Jewel 4;4;122: Affinity Sliding;1;78: Evade Window;1;A decoration that enhances the Affinity Sliding and Evade Window skills.
+203;2073: Guardian/Evasion Jewel 4;4;185: Offensive Guard;1;78: Evade Window;1;A decoration that enhances the Offensive Guard and Evade Window skills.
+204;2074: Drain/Attack Jewel 4;4;58: Stamina Thief;1;19: Attack Boost;1;A decoration that enhances the Stamina Thief and Attack Boost skills.
+205;2075: Fortitude/Attack Jewel 4;4;65: Fortify;1;19: Attack Boost;1;A decoration that enhances the Fortify and Attack Boost skills.
+206;2076: Crisis/Attack Jewel 4;4;67: Resuscitate;1;19: Attack Boost;1;A decoration that enhances the Resuscitate and Attack Boost skills.
+207;2077: Ironwall/Attack Jewel 4;4;80: Guard;1;19: Attack Boost;1;A decoration that enhances the Guard and Attack Boost skills.
+208;2078: Friendship/Attack Jewel 4;4;82: Wide-Range;1;19: Attack Boost;1;A decoration that enhances the Wide-Range and Attack Boost skills.
+209;2079: Satiated/Attack Jewel 4;4;84: Free Meal;1;19: Attack Boost;1;A decoration that enhances the Free Meal and Attack Boost skills.
+210;2080: Stonethrower/Attack Jewel 4;4;102: Slinger Capacity;1;19: Attack Boost;1;A decoration that enhances the Slinger Capacity and Attack Boost skills.
+211;2081: Resistor/Attack Jewel 4;4;29: Blight Resistance;1;19: Attack Boost;1;A decoration that enhances the Blight Resistance and Attack Boost skills.
+212;2082: Flight/Attack Jewel 4;4;60: Airborne;1;19: Attack Boost;1;A decoration that enhances the Airborne and Attack Boost skills.
+213;2083: Sprinter/Attack Jewel 4;4;73: Marathon Runner;1;19: Attack Boost;1;A decoration that enhances the Marathon Runner and Attack Boost skills.
+214;2084: Refresh/Attack Jewel 4;4;76: Stamina Surge;1;19: Attack Boost;1;A decoration that enhances the Stamina Surge and Attack Boost skills.
+215;2085: Jumping/Attack Jewel 4;4;79: Evade Extender;1;19: Attack Boost;1;A decoration that enhances the Evade Extender and Attack Boost skills.
+216;2086: Sheath/Attack Jewel 4;4;81: Quick Sheath;1;19: Attack Boost;1;A decoration that enhances the Quick Sheath and Attack Boost skills.
+217;2087: Gobbler/Attack Jewel 4;4;85: Speed Eating;1;19: Attack Boost;1;A decoration that enhances the Speed Eating and Attack Boost skills.
+218;2088: Grinder/Attack Jewel 4;4;86: Speed Sharpening;1;19: Attack Boost;1;A decoration that enhances the Speed Sharpening and Attack Boost skills.
+219;2089: Bomber/Attack Jewel 4;4;88: Bombardier;1;19: Attack Boost;1;A decoration that enhances the Bombardier and Attack Boost skills.
+220;2090: Fungiform/Attack Jewel 4;4;90: Mushroomancer;1;19: Attack Boost;1;A decoration that enhances the Mushroomancer and Attack Boost skills.
+221;2091: Slider/Attack Jewel 4;4;122: Affinity Sliding;1;19: Attack Boost;1;A decoration that enhances the Affinity Sliding and Attack Boost skills.
+222;2092: Guardian/Attack Jewel 4;4;185: Offensive Guard;1;19: Attack Boost;1;A decoration that enhances the Offensive Guard and Attack Boost skills.
+223;2093: Drain/Expert Jewel 4;4;58: Stamina Thief;1;48: Critical Eye;1;A decoration that enhances the Stamina Thief and Critical Eye skills.
+224;2094: Fortitude/Expert Jewel 4;4;65: Fortify;1;48: Critical Eye;1;A decoration that enhances the Fortify and Critical Eye skills.
+225;2095: Crisis/Expert Jewel 4;4;67: Resuscitate;1;48: Critical Eye;1;A decoration that enhances the Resuscitate and Critical Eye skills.
+226;2096: Ironwall/Expert Jewel 4;4;80: Guard;1;48: Critical Eye;1;A decoration that enhances the Guard and Critical Eye skills.
+227;2097: Friendship/Expert Jewel 4;4;82: Wide-Range;1;48: Critical Eye;1;A decoration that enhances the Wide-Range and Critical Eye skills.
+228;2098: Satiated/Expert Jewel 4;4;84: Free Meal;1;48: Critical Eye;1;A decoration that enhances the Free Meal and Critical Eye skills.
+229;2099: Stonethrower/Expert Jewel 4;4;102: Slinger Capacity;1;48: Critical Eye;1;A decoration that enhances the Slinger Capacity and Critical Eye skills.
+230;2100: Resistor/Expert Jewel 4;4;29: Blight Resistance;1;48: Critical Eye;1;A decoration that enhances the Blight Resistance and Critical Eye skills.
+231;2101: Flight/Expert Jewel 4;4;60: Airborne;1;48: Critical Eye;1;A decoration that enhances the Airborne and Critical Eye skills.
+232;2102: Sprinter/Expert Jewel 4;4;73: Marathon Runner;1;48: Critical Eye;1;A decoration that enhances the Marathon Runner and Critical Eye skills.
+233;2103: Refresh/Expert Jewel 4;4;76: Stamina Surge;1;48: Critical Eye;1;A decoration that enhances the Stamina Surge and Critical Eye skills.
+234;2104: Jumping/Expert Jewel 4;4;79: Evade Extender;1;48: Critical Eye;1;A decoration that enhances the Evade Extender and Critical Eye skills.
+235;2105: Sheath/Expert Jewel 4;4;81: Quick Sheath;1;48: Critical Eye;1;A decoration that enhances the Quick Sheath and Critical Eye skills.
+236;2106: Gobbler/Expert Jewel 4;4;85: Speed Eating;1;48: Critical Eye;1;A decoration that enhances the Speed Eating and Critical Eye skills.
+237;2107: Grinder/Expert Jewel 4;4;86: Speed Sharpening;1;48: Critical Eye;1;A decoration that enhances the Speed Sharpening and Critical Eye skills.
+238;2108: Bomber/Expert Jewel 4;4;88: Bombardier;1;48: Critical Eye;1;A decoration that enhances the Bombardier and Critical Eye skills.
+239;2109: Fungiform/Expert Jewel 4;4;90: Mushroomancer;1;48: Critical Eye;1;A decoration that enhances the Mushroomancer and Critical Eye skills.
+240;2110: Slider/Expert Jewel 4;4;122: Affinity Sliding;1;48: Critical Eye;1;A decoration that enhances the Affinity Sliding and Critical Eye skills.
+241;2111: Guardian/Expert Jewel 4;4;185: Offensive Guard;1;48: Critical Eye;1;A decoration that enhances the Offensive Guard and Critical Eye skills.
+242;2112: Drain/Release Jewel 4;4;58: Stamina Thief;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Stamina Thief and Free Element/Ammo Up skills.
+243;2113: Fortitude/Release Jewel 4;4;65: Fortify;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Fortify and Free Element/Ammo Up skills.
+244;2114: Crisis/Release Jewel 4;4;67: Resuscitate;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Resuscitate and Free Element/Ammo Up skills.
+245;2115: Ironwall/Release Jewel 4;4;80: Guard;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Guard and Free Element/Ammo Up skills.
+246;2116: Friendship/Release Jewel 4;4;82: Wide-Range;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Wide-Range and Free Element/Ammo Up skills.
+247;2117: Satiated/Release Jewel 4;4;84: Free Meal;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Free Meal and Free Element/Ammo Up skills.
+248;2118: Stonethrower/Release Jewel 4;4;102: Slinger Capacity;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Slinger Capacity and Free Element/Ammo Up skills.
+249;2119: Resistor/Release Jewel 4;4;29: Blight Resistance;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Blight Resistance and Free Element/Ammo Up skills.
+250;2120: Flight/Release Jewel 4;4;60: Airborne;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Airborne and Free Element/Ammo Up skills.
+251;2121: Sprinter/Release Jewel 4;4;73: Marathon Runner;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Marathon Runner and Free Element/Ammo Up skills.
+252;2122: Refresh/Release Jewel 4;4;76: Stamina Surge;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Stamina Surge and Free Element/Ammo Up skills.
+253;2123: Jumping/Release Jewel 4;4;79: Evade Extender;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Evade Extender and Free Element/Ammo Up skills.
+254;2124: Sheath/Release Jewel 4;4;81: Quick Sheath;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Quick Sheath and Free Element/Ammo Up skills.
+255;2125: Gobbler/Release Jewel 4;4;85: Speed Eating;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Speed Eating and Free Element/Ammo Up skills.
+256;2126: Grinder/Release Jewel 4;4;86: Speed Sharpening;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Speed Sharpening and Free Element/Ammo Up skills.
+257;2127: Bomber/Release Jewel 4;4;88: Bombardier;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Bombardier and Free Element/Ammo Up skills.
+258;2128: Fungiform/Release Jewel 4;4;90: Mushroomancer;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Mushroomancer and Free Element/Ammo Up skills.
+259;2129: Slider/Release Jewel 4;4;122: Affinity Sliding;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Affinity Sliding and Free Element/Ammo Up skills.
+260;2130: Guardian/Release Jewel 4;4;185: Offensive Guard;1;47: Free Elem/Ammo Up;1;A decoration that enhances the Offensive Guard and Free Element/Ammo Up skills.
+261;2131: Drain/Handicraft Jewel 4;4;58: Stamina Thief;1;54: Handicraft;1;A decoration that enhances the Stamina Thief and Handicraft skills.
+262;2132: Fortitude/Handicraft Jewel 4;4;65: Fortify;1;54: Handicraft;1;A decoration that enhances the Fortify and Handicraft skills.
+263;2133: Crisis/Handicraft Jewel 4;4;67: Resuscitate;1;54: Handicraft;1;A decoration that enhances the Resuscitate and Handicraft skills.
+264;2134: Ironwall/Handicraft Jewel 4;4;80: Guard;1;54: Handicraft;1;A decoration that enhances the Guard and Handicraft skills.
+265;2135: Friendship/Handicraft Jewel 4;4;82: Wide-Range;1;54: Handicraft;1;A decoration that enhances the Wide-Range and Handicraft skills.
+266;2136: Satiated/Handicraft Jewel 4;4;84: Free Meal;1;54: Handicraft;1;A decoration that enhances the Free Meal and Handicraft skills.
+267;2137: Stonethrower/Handicraft Jewel 4;4;102: Slinger Capacity;1;54: Handicraft;1;A decoration that enhances the Slinger Capacity and Handicraft skills.
+268;2138: Resistor/Handicraft Jewel 4;4;29: Blight Resistance;1;54: Handicraft;1;A decoration that enhances the Blight Resistance and Handicraft skills.
+269;2139: Flight/Handicraft Jewel 4;4;60: Airborne;1;54: Handicraft;1;A decoration that enhances the Airborne and Handicraft skills.
+270;2140: Sprinter/Handicraft Jewel 4;4;73: Marathon Runner;1;54: Handicraft;1;A decoration that enhances the Marathon Runner and Handicraft skills.
+271;2141: Refresh/Handicraft Jewel 4;4;76: Stamina Surge;1;54: Handicraft;1;A decoration that enhances the Stamina Surge and Handicraft skills.
+272;2142: Jumping/Handicraft Jewel 4;4;79: Evade Extender;1;54: Handicraft;1;A decoration that enhances the Evade Extender and Handicraft skills.
+273;2143: Sheath/Handicraft Jewel 4;4;81: Quick Sheath;1;54: Handicraft;1;A decoration that enhances the Quick Sheath and Handicraft skills.
+274;2144: Gobbler/Handicraft Jewel 4;4;85: Speed Eating;1;54: Handicraft;1;A decoration that enhances the Speed Eating and Handicraft skills.
+275;2145: Grinder/Handicraft Jewel 4;4;86: Speed Sharpening;1;54: Handicraft;1;A decoration that enhances the Speed Sharpening and Handicraft skills.
+276;2146: Bomber/Handicraft Jewel 4;4;88: Bombardier;1;54: Handicraft;1;A decoration that enhances the Bombardier and Handicraft skills.
+277;2147: Fungiform/Handicraft Jewel 4;4;90: Mushroomancer;1;54: Handicraft;1;A decoration that enhances the Mushroomancer and Handicraft skills.
+278;2148: Slider/Handicraft Jewel 4;4;122: Affinity Sliding;1;54: Handicraft;1;A decoration that enhances the Affinity Sliding and Handicraft skills.
+279;2149: Guardian/Handicraft Jewel 4;4;185: Offensive Guard;1;54: Handicraft;1;A decoration that enhances the Offensive Guard and Handicraft skills.
+280;2150: Footing/Protection Jewel 4;4;13: Tremor Resistance;1;97: Divine Blessing;1;A decoration that enhances the Tremor Resistance and Divine Blessing skills.
+281;2151: Charger/Protection Jewel 4;4;52: Focus;1;97: Divine Blessing;1;A decoration that enhances the Focus and Divine Blessing skills.
+282;2152: Enhancer/Protection Jewel 4;4;53: Power Prolonger;1;97: Divine Blessing;1;A decoration that enhances the Power Prolonger and Divine Blessing skills.
+283;2153: Destroyer/Protection Jewel 4;4;56: Partbreaker;1;97: Divine Blessing;1;A decoration that enhances the Partbreaker and Divine Blessing skills.
+284;2154: KO/Protection Jewel 4;4;57: Slugger;1;97: Divine Blessing;1;A decoration that enhances the Slugger and Divine Blessing skills.
+285;2155: Potential/Protection Jewel 4;4;64: Heroics;1;97: Divine Blessing;1;A decoration that enhances the Heroics and Divine Blessing skills.
+286;2156: Wind Resist/Protection Jewel 4;4;12: Windproof;1;97: Divine Blessing;1;A decoration that enhances the Windproof and Divine Blessing skills.
+287;2157: Draw/Protection Jewel 4;4;55: Critical Draw;1;97: Divine Blessing;1;A decoration that enhances the Critical Draw and Divine Blessing skills.
+288;2158: Throttle/Protection Jewel 4;4;61: Latent Power;1;97: Divine Blessing;1;A decoration that enhances the Latent Power and Divine Blessing skills.
+289;2159: Challenger/Protection Jewel 4;4;62: Agitator;1;97: Divine Blessing;1;A decoration that enhances the Agitator and Divine Blessing skills.
+290;2160: Flawless/Protection Jewel 4;4;63: Peak Performance;1;97: Divine Blessing;1;A decoration that enhances the Peak Performance and Divine Blessing skills.
+291;2161: Furor/Protection Jewel 4;4;66: Resentment;1;97: Divine Blessing;1;A decoration that enhances the Resentment and Divine Blessing skills.
+292;2162: Mighty/Protection Jewel 4;4;101: Maximum Might;1;97: Divine Blessing;1;A decoration that enhances the Maximum Might and Divine Blessing skills.
+293;2163: Brace/Protection Jewel 4;4;104: Flinch Free;1;97: Divine Blessing;1;A decoration that enhances the Flinch Free and Divine Blessing skills.
+294;2164: Phoenix/Protection Jewel 4;4;186: Coalescence;1;97: Divine Blessing;1;A decoration that enhances the Coalescence and Divine Blessing skills.
+295;2165: Earplug/Protection Jewel 4;4;11: Earplugs;1;97: Divine Blessing;1;A decoration that enhances the Earplugs and Divine Blessing skills.
+296;2166: Critical/Protection Jewel 4;4;49: Critical Boost;1;97: Divine Blessing;1;A decoration that enhances the Critical Boost and Divine Blessing skills.
+297;2167: Tenderizer/Protection Jewel 4;4;50: Weakness Exploit;1;97: Divine Blessing;1;A decoration that enhances the Weakness Exploit and Divine Blessing skills.
+298;2168: Handicraft/Protection Jewel 4;4;54: Handicraft;1;97: Divine Blessing;1;A decoration that enhances the Handicraft and Divine Blessing skills.
+299;2169: Release/Protection Jewel 4;4;47: Free Elem/Ammo Up;1;97: Divine Blessing;1;A decoration that enhances the Free Element/Ammo Up and Divine Blessing skills.
+300;2170: Footing/Medicine Jewel 4;4;13: Tremor Resistance;1;22: Recovery Up;1;A decoration that enhances the Tremor Resistance and Recovery Up skills.
+301;2171: Charger/Medicine Jewel 4;4;52: Focus;1;22: Recovery Up;1;A decoration that enhances the Focus and Recovery Up skills.
+302;2172: Enhancer/Medicine Jewel 4;4;53: Power Prolonger;1;22: Recovery Up;1;A decoration that enhances the Power Prolonger and Recovery Up skills.
+303;2173: Destroyer/Medicine Jewel 4;4;56: Partbreaker;1;22: Recovery Up;1;A decoration that enhances the Partbreaker and Recovery Up skills.
+304;2174: KO/Medicine Jewel 4;4;57: Slugger;1;22: Recovery Up;1;A decoration that enhances the Slugger and Recovery Up skills.
+305;2175: Potential/Medicine Jewel 4;4;64: Heroics;1;22: Recovery Up;1;A decoration that enhances the Heroics and Recovery Up skills.
+306;2176: Wind Resist/Medicine Jewel 4;4;12: Windproof;1;22: Recovery Up;1;A decoration that enhances the Windproof and Recovery Up skills.
+307;2177: Draw/Medicine Jewel 4;4;55: Critical Draw;1;22: Recovery Up;1;A decoration that enhances the Critical Draw and Recovery Up skills.
+308;2178: Throttle/Medicine Jewel 4;4;61: Latent Power;1;22: Recovery Up;1;A decoration that enhances the Latent Power and Recovery Up skills.
+309;2179: Challenger/Medicine Jewel 4;4;62: Agitator;1;22: Recovery Up;1;A decoration that enhances the Agitator and Recovery Up skills.
+310;2180: Flawless/Medicine Jewel 4;4;63: Peak Performance;1;22: Recovery Up;1;A decoration that enhances the Peak Performance and Recovery Up skills.
+311;2181: Furor/Medicine Jewel 4;4;66: Resentment;1;22: Recovery Up;1;A decoration that enhances the Resentment and Recovery Up skills.
+312;2182: Mighty/Medicine Jewel 4;4;101: Maximum Might;1;22: Recovery Up;1;A decoration that enhances the Maximum Might and Recovery Up skills.
+313;2183: Brace/Medicine Jewel 4;4;104: Flinch Free;1;22: Recovery Up;1;A decoration that enhances the Flinch Free and Recovery Up skills.
+314;2184: Phoenix/Medicine Jewel 4;4;186: Coalescence;1;22: Recovery Up;1;A decoration that enhances the Coalescence and Recovery Up skills.
+315;2185: Earplug/Medicine Jewel 4;4;11: Earplugs;1;22: Recovery Up;1;A decoration that enhances the Earplugs and Recovery Up skills.
+316;2186: Critical/Medicine Jewel 4;4;49: Critical Boost;1;22: Recovery Up;1;A decoration that enhances the Critical Boost and Recovery Up skills.
+317;2187: Tenderizer/Medicine Jewel 4;4;50: Weakness Exploit;1;22: Recovery Up;1;A decoration that enhances the Weakness Exploit and Recovery Up skills.
+318;2188: Handicraft/Medicine Jewel 4;4;54: Handicraft;1;22: Recovery Up;1;A decoration that enhances the Handicraft and Recovery Up skills.
+319;2189: Release/Medicine Jewel 4;4;47: Free Elem/Ammo Up;1;22: Recovery Up;1;A decoration that enhances the Free Element/Ammo Up and Recovery Up skills.
+320;2190: Footing/Vitality Jewel 4;4;13: Tremor Resistance;1;21: Health Boost;1;A decoration that enhances the Tremor Resistance and Health Boost skills.
+321;2191: Charger/Vitality Jewel 4;4;52: Focus;1;21: Health Boost;1;A decoration that enhances the Focus and Health Boost skills.
+322;2192: Enhancer/Vitality Jewel 4;4;53: Power Prolonger;1;21: Health Boost;1;A decoration that enhances the Power Prolonger and Health Boost skills.
+323;2193: Destroyer/Vitality Jewel 4;4;56: Partbreaker;1;21: Health Boost;1;A decoration that enhances the Partbreaker and Health Boost skills.
+324;2194: KO/Vitality Jewel 4;4;57: Slugger;1;21: Health Boost;1;A decoration that enhances the Slugger and Health Boost skills.
+325;2195: Potential/Vitality Jewel 4;4;64: Heroics;1;21: Health Boost;1;A decoration that enhances the Heroics and Health Boost skills.
+326;2196: Wind Resist/Vitality Jewel 4;4;12: Windproof;1;21: Health Boost;1;A decoration that enhances the Windproof and Health Boost skills.
+327;2197: Draw/Vitality Jewel 4;4;55: Critical Draw;1;21: Health Boost;1;A decoration that enhances the Critical Draw and Health Boost skills.
+328;2198: Throttle/Vitality Jewel 4;4;61: Latent Power;1;21: Health Boost;1;A decoration that enhances the Latent Power and Health Boost skills.
+329;2199: Challenger/Vitality Jewel 4;4;62: Agitator;1;21: Health Boost;1;A decoration that enhances the Agitator and Health Boost skills.
+330;2200: Flawless/Vitality Jewel 4;4;63: Peak Performance;1;21: Health Boost;1;A decoration that enhances the Peak Performance and Health Boost skills.
+331;2201: Furor/Vitality Jewel 4;4;66: Resentment;1;21: Health Boost;1;A decoration that enhances the Resentment and Health Boost skills.
+332;2202: Mighty/Vitality Jewel 4;4;101: Maximum Might;1;21: Health Boost;1;A decoration that enhances the Maximum Might and Health Boost skills.
+333;2203: Brace/Vitality Jewel 4;4;104: Flinch Free;1;21: Health Boost;1;A decoration that enhances the Flinch Free and Health Boost skills.
+334;2204: Phoenix/Vitality Jewel 4;4;186: Coalescence;1;21: Health Boost;1;A decoration that enhances the Coalescence and Health Boost skills.
+335;2205: Earplug/Vitality Jewel 4;4;11: Earplugs;1;21: Health Boost;1;A decoration that enhances the Earplugs and Health Boost skills.
+336;2206: Critical/Vitality Jewel 4;4;49: Critical Boost;1;21: Health Boost;1;A decoration that enhances the Critical Boost and Health Boost skills.
+337;2207: Tenderizer/Vitality Jewel 4;4;50: Weakness Exploit;1;21: Health Boost;1;A decoration that enhances the Weakness Exploit and Health Boost skills.
+338;2208: Handicraft/Vitality Jewel 4;4;54: Handicraft;1;21: Health Boost;1;A decoration that enhances the Handicraft and Health Boost skills.
+339;2209: Release/Vitality Jewel 4;4;47: Free Elem/Ammo Up;1;21: Health Boost;1;A decoration that enhances the Free Element/Ammo Up and Health Boost skills.
+340;2210: Footing/Maintenance Jewel 4;4;13: Tremor Resistance;1;120: Tool Specialist;1;A decoration that enhances the Tremor Resistance and Tool Specialist skills.
+341;2211: Charger/Maintenance Jewel 4;4;52: Focus;1;120: Tool Specialist;1;A decoration that enhances the Focus and Tool Specialist skills.
+342;2212: Enhancer/Maintenance Jewel 4;4;53: Power Prolonger;1;120: Tool Specialist;1;A decoration that enhances the Power Prolonger and Tool Specialist skills.
+343;2213: Destroyer/Maintenance Jewel 4;4;56: Partbreaker;1;120: Tool Specialist;1;A decoration that enhances the Partbreaker and Tool Specialist skills.
+344;2214: KO/Maintenance Jewel 4;4;57: Slugger;1;120: Tool Specialist;1;A decoration that enhances the Slugger and Tool Specialist skills.
+345;2215: Potential/Maintenance Jewel 4;4;64: Heroics;1;120: Tool Specialist;1;A decoration that enhances the Heroics and Tool Specialist skills.
+346;2216: Wind Resist/Maintenance Jewel 4;4;12: Windproof;1;120: Tool Specialist;1;A decoration that enhances the Windproof and Tool Specialist skills.
+347;2217: Draw/Maintenance Jewel 4;4;55: Critical Draw;1;120: Tool Specialist;1;A decoration that enhances the Critical Draw and Tool Specialist skills.
+348;2218: Throttle/Maintenance Jewel 4;4;61: Latent Power;1;120: Tool Specialist;1;A decoration that enhances the Latent Power and Tool Specialist skills.
+349;2219: Challenger/Maintenance Jewel 4;4;62: Agitator;1;120: Tool Specialist;1;A decoration that enhances the Agitator and Tool Specialist skills.
+350;2220: Flawless/Maintenance Jewel 4;4;63: Peak Performance;1;120: Tool Specialist;1;A decoration that enhances the Peak Performance and Tool Specialist skills.
+351;2221: Furor/Maintenance Jewel 4;4;66: Resentment;1;120: Tool Specialist;1;A decoration that enhances the Resentment and Tool Specialist skills.
+352;2222: Mighty/Maintenance Jewel 4;4;101: Maximum Might;1;120: Tool Specialist;1;A decoration that enhances the Maximum Might and Tool Specialist skills.
+353;2223: Brace/Maintenance Jewel 4;4;104: Flinch Free;1;120: Tool Specialist;1;A decoration that enhances the Flinch Free and Tool Specialist skills.
+354;2224: Phoenix/Maintenance Jewel 4;4;186: Coalescence;1;120: Tool Specialist;1;A decoration that enhances the Coalescence and Tool Specialist skills.
+355;2225: Earplug/Maintenance Jewel 4;4;11: Earplugs;1;120: Tool Specialist;1;A decoration that enhances the Earplugs and Tool Specialist skills.
+356;2226: Critical/Maintenance Jewel 4;4;49: Critical Boost;1;120: Tool Specialist;1;A decoration that enhances the Critical Boost and Tool Specialist skills.
+357;2227: Tenderizer/Maintenance Jewel 4;4;50: Weakness Exploit;1;120: Tool Specialist;1;A decoration that enhances the Weakness Exploit and Tool Specialist skills.
+358;2228: Handicraft/Maintenance Jewel 4;4;54: Handicraft;1;120: Tool Specialist;1;A decoration that enhances the Handicraft and Tool Specialist skills.
+359;2229: Release/Maintenance Jewel 4;4;47: Free Elem/Ammo Up;1;120: Tool Specialist;1;A decoration that enhances the Free Element/Ammo Up and Tool Specialist skills.
+360;2230: Footing/Physique Jewel 4;4;13: Tremor Resistance;1;74: Constitution;1;A decoration that enhances the Tremor Resistance and Constitution skills.
+361;2231: Charger/Physique Jewel 4;4;52: Focus;1;74: Constitution;1;A decoration that enhances the Focus and Constitution skills.
+362;2232: Enhancer/Physique Jewel 4;4;53: Power Prolonger;1;74: Constitution;1;A decoration that enhances the Power Prolonger and Constitution skills.
+363;2233: Destroyer/Physique Jewel 4;4;56: Partbreaker;1;74: Constitution;1;A decoration that enhances the Partbreaker and Constitution skills.
+364;2234: KO/Physique Jewel 4;4;57: Slugger;1;74: Constitution;1;A decoration that enhances the Slugger and Constitution skills.
+365;2235: Potential/Physique Jewel 4;4;64: Heroics;1;74: Constitution;1;A decoration that enhances the Heroics and Constitution skills.
+366;2236: Wind Resist/Physique Jewel 4;4;12: Windproof;1;74: Constitution;1;A decoration that enhances the Windproof and Constitution skills.
+367;2237: Draw/Physique Jewel 4;4;55: Critical Draw;1;74: Constitution;1;A decoration that enhances the Critical Draw and Constitution skills.
+368;2238: Throttle/Physique Jewel 4;4;61: Latent Power;1;74: Constitution;1;A decoration that enhances the Latent Power and Constitution skills.
+369;2239: Challenger/Physique Jewel 4;4;62: Agitator;1;74: Constitution;1;A decoration that enhances the Agitator and Constitution skills.
+370;2240: Flawless/Physique Jewel 4;4;63: Peak Performance;1;74: Constitution;1;A decoration that enhances the Peak Performance and Constitution skills.
+371;2241: Furor/Physique Jewel 4;4;66: Resentment;1;74: Constitution;1;A decoration that enhances the Resentment and Constitution skills.
+372;2242: Mighty/Physique Jewel 4;4;101: Maximum Might;1;74: Constitution;1;A decoration that enhances the Maximum Might and Constitution skills.
+373;2243: Brace/Physique Jewel 4;4;104: Flinch Free;1;74: Constitution;1;A decoration that enhances the Flinch Free and Constitution skills.
+374;2244: Phoenix/Physique Jewel 4;4;186: Coalescence;1;74: Constitution;1;A decoration that enhances the Coalescence and Constitution skills.
+375;2245: Earplug/Physique Jewel 4;4;11: Earplugs;1;74: Constitution;1;A decoration that enhances the Earplugs and Constitution skills.
+376;2246: Critical/Physique Jewel 4;4;49: Critical Boost;1;74: Constitution;1;A decoration that enhances the Critical Boost and Constitution skills.
+377;2247: Tenderizer/Physique Jewel 4;4;50: Weakness Exploit;1;74: Constitution;1;A decoration that enhances the Weakness Exploit and Constitution skills.
+378;2248: Handicraft/Physique Jewel 4;4;54: Handicraft;1;74: Constitution;1;A decoration that enhances the Handicraft and Constitution skills.
+379;2249: Release/Physique Jewel 4;4;47: Free Elem/Ammo Up;1;74: Constitution;1;A decoration that enhances the Free Element/Ammo Up and Constitution skills.
+380;2250: Footing/Evasion Jewel 4;4;13: Tremor Resistance;1;78: Evade Window;1;A decoration that enhances the Tremor Resistance and Evade Window skills.
+381;2251: Charger/Evasion Jewel 4;4;52: Focus;1;78: Evade Window;1;A decoration that enhances the Focus and Evade Window skills.
+382;2252: Enhancer/Evasion Jewel 4;4;53: Power Prolonger;1;78: Evade Window;1;A decoration that enhances the Power Prolonger and Evade Window skills.
+383;2253: Destroyer/Evasion Jewel 4;4;56: Partbreaker;1;78: Evade Window;1;A decoration that enhances the Partbreaker and Evade Window skills.
+384;2254: KO/Evasion Jewel 4;4;57: Slugger;1;78: Evade Window;1;A decoration that enhances the Slugger and Evade Window skills.
+385;2255: Potential/Evasion Jewel 4;4;64: Heroics;1;78: Evade Window;1;A decoration that enhances the Heroics and Evade Window skills.
+386;2256: Wind Resist/Evasion Jewel 4;4;12: Windproof;1;78: Evade Window;1;A decoration that enhances the Windproof and Evade Window skills.
+387;2257: Draw/Evasion Jewel 4;4;55: Critical Draw;1;78: Evade Window;1;A decoration that enhances the Critical Draw and Evade Window skills.
+388;2258: Throttle/Evasion Jewel 4;4;61: Latent Power;1;78: Evade Window;1;A decoration that enhances the Latent Power and Evade Window skills.
+389;2259: Challenger/Evasion Jewel 4;4;62: Agitator;1;78: Evade Window;1;A decoration that enhances the Agitator and Evade Window skills.
+390;2260: Flawless/Evasion Jewel 4;4;63: Peak Performance;1;78: Evade Window;1;A decoration that enhances the Peak Performance and Evade Window skills.
+391;2261: Furor/Evasion Jewel 4;4;66: Resentment;1;78: Evade Window;1;A decoration that enhances the Resentment and Evade Window skills.
+392;2262: Mighty/Evasion Jewel 4;4;101: Maximum Might;1;78: Evade Window;1;A decoration that enhances the Maximum Might and Evade Window skills.
+393;2263: Brace/Evasion Jewel 4;4;104: Flinch Free;1;78: Evade Window;1;A decoration that enhances the Flinch Free and Evade Window skills.
+394;2264: Phoenix/Evasion Jewel 4;4;186: Coalescence;1;78: Evade Window;1;A decoration that enhances the Coalescence and Evade Window skills.
+395;2265: Earplug/Evasion Jewel 4;4;11: Earplugs;1;78: Evade Window;1;A decoration that enhances the Earplugs and Evade Window skills.
+396;2266: Critical/Evasion Jewel 4;4;49: Critical Boost;1;78: Evade Window;1;A decoration that enhances the Critical Boost and Evade Window skills.
+397;2267: Tenderizer/Evasion Jewel 4;4;50: Weakness Exploit;1;78: Evade Window;1;A decoration that enhances the Weakness Exploit and Evade Window skills.
+398;2268: Handicraft/Evasion Jewel 4;4;54: Handicraft;1;78: Evade Window;1;A decoration that enhances the Handicraft and Evade Window skills.
+399;2269: Release/Evasion Jewel 4;4;47: Free Elem/Ammo Up;1;78: Evade Window;1;A decoration that enhances the Free Element/Ammo Up and Evade Window skills.
+400;2272: Warming Jewel 2;2;207: Coldproof;1;0: --------;0;A decoration that enhances the Coldproof skill.
+401;2273: Diversion Jewel 3;3;184: Provoker;1;0: --------;0;A decoration that enhances the Provoker skill.
+402;2274: Acrobat Jewel 3;3;187: Safe Landing;1;0: --------;0;A decoration that enhances the Safe Landing skill.
+403;2275: Shaver Jewel 3;3;223: Clutch Claw Boost;1;0: --------;0;A decoration that enhances the Clutch Claw Boost skill.
